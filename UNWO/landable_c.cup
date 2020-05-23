@@ -1,0 +1,889 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"ABFALTERSBACH KatB",ABFALT    B,AT,4645.500N,01232.320E,1000.0m,3,070,200.0m,,"Viele, viele Zaunstempel in der Wiese. Das naheliegende Sillian ist besser!"
+"ACHENKIRCH NORD KatB",ACHENN    B,AT,4732.240N,01142.400E,900.0m,3,170,200.0m,,"Achtung, versteckte Pflöcke in der Wiese!"
+"ACHENKIRCH SUED KatA",ACHENK    A,AT,4730.820N,01142.120E,936.0m,3,-/0,250.0m,,"Landung nur Richtung Westen, leicht ansteigend. Landung auch rechts der Straße möglich!"
+"ACHENSEE KatB",ACHENS    B,AT,4726.000N,01143.800E,940.0m,3,-/0,.0m,,"Vom See her bläst meist Nordwind, Wiese hängt leicht!"
+"ACHENWALD KatC",ACHENW    C,AT,4733.650N,01140.400E,860.0m,3,-/0,300.0m,,""
+"ADMONT KatA",ADMONT    A,AT,4734.995N,01427.156E,630.0m,3,090,450.0m,,"Zwischen Stromleitung und Straße, Bauer unfreundlich, keine Zufahrt, Flugzeug muss über Zaun zur Straße gehoben werden."
+"AGORDO KatA",AGORDO    A,IT,4616.784N,01201.789E,600.0m,3,160,400.0m,,""
+"AICH KatA",AICH      A,AT,4725.100N,01348.600E,700.0m,3,060,.0m,,""
+"AICH ASSACH KatA",AICHAS    A,AT,4725.480N,01351.460E,730.0m,3,-/0,400.0m,,"Leicht ansteigend."
+"AICHLMUEHL KatB",AICHLM    B,AT,4750.720N,01550.230E,550.0m,3,050,200.0m,,""
+"AITON KatA",AITON     A,FR,4533.410N,00613.660E,300.0m,3,090,300.0m,,""
+"AIX-EN-DIOIS KatA",AIX-ED    A,FR,4441.350N,00524.540E,500.0m,3,di0,300.0m,,""
+"ALMSEE KatB",ALMSEE    B,AT,4744.600N,01357.000E,600.0m,3,-/0,230.0m,,"Talwind als Rückenwind!"
+"ALTAUSSEE KatC",ALTAUS    C,AT,4738.350N,01346.060E,720.0m,3,-/0,200.0m,,"Nicht gerade super Feld, doch besser als nichts in diesem Gebiet."
+"ALTDORF KatB",ALTDOR    B,CH,4652.816N,00837.516E,444.0m,3,000,.0m,,""
+"ALTENMARKT KatB",ALTENM    B,AT,4722.972N,01324.496E,850.0m,3,060,.0m,,"Wird sporadisch als Weide genutzt!"
+"ALTMUENSTER KatA",ALTMUE    A,AT,4752.880N,01346.180E,450.0m,3,-/0,330.0m,,""
+"ALVANEU-BAD KatB",ALVANE    B,CH,4640.200N,00939.600E,970.0m,3,000,.0m,,""
+"AMBRIA Kat",AMBRIA     ,IT,4549.000N,00941.000E,330.0m,3,000,.0m,,""
+"AMPUS KatB",AMPUS     B,FR,4337.017N,00620.930E,625.0m,3,-/0,300.0m,,""
+"AMTZELL Kat",AMTZEL     ,DE,4744.950N,00944.930E,620.0m,3,000,.0m,,""
+"ANDEER KatB",ANDEER    B,CH,4636.572N,00925.637E,980.0m,3,010,300.0m,,"Geländestufe und Querfelder!"
+"ANDELSBUCH KatA",ANDELS    A,AT,4725.180N,00953.410E,610.0m,3,010,.0m,,""
+"ANDERMATT KatA",ANDERM    A,CH,4637.733N,00835.050E,1430.0m,3,050,300.0m,,"Hänge mit Transportkabeln verseucht!Auf Unebenheiten und Bewuchsübergänge achten!"
+"ARGENBUEHL Kat",ARGENB     ,DE,4741.450N,00957.930E,650.0m,3,000,.0m,,""
+"ARMOY Kat",ARMOY      ,FR,4620.920N,00631.630E,650.0m,3,000,.0m,,""
+"ASCHAU KatB",ASCHAU    B,AT,4716.286N,01153.768E,560.0m,3,-/0,300.0m,,""
+"ASCHAU VALEPP KatC",ASCHAV    C,AT,4730.509N,01153.402E,874.0m,3,020,325.0m,,"Kramsach liegt 8 km entfernt und liegt 350m tiefer, Am Südende der Wiese geht es 100 m steil bergab!"
+"ASCHBACH KatB",ASCHBA    B,AT,4740.065N,01520.290E,850.0m,3,150,320.0m,,""
+"AUPS KatA",AUPS      A,FR,4337.500N,00610.970E,450.0m,3,140,300.0m,,""
+"AURACH KatB",AURACH    B,DE,4741.990N,01155.465E,800.0m,3,180,450.0m,,"Landerichtung S, Feld steigt an; Fahrweg ist nicht überrollbar! Den westlichen Teil der Wiese benutzen, weil der östliche Teil wellig ist!"
+"AURONZO KatB",AURONZ    B,IT,4633.900N,01224.380E,830.0m,3,130,160.0m,,"Sehr kurz!"
+"AUSSERBRAZ KatB",AUSSER    B,AT,4708.670N,00954.530E,690.0m,3,090,.0m,,""
+"BACH KatA",BACH      A,AT,4716.050N,01023.900E,1060.0m,3,040,300.0m,,"Über die gesamte Länge eben, Achtung ev. Weidezäune!"
+"BAD GOISERN KatB",BADGOI    B,AT,4737.600N,01336.640E,570.0m,3,-/0,400.0m,,"Weinbach bevorzugen, da nahe gelegen!"
+"BAD ISCHL KatA",BADISC    A,AT,4743.464N,01334.411E,500.0m,3,-/0,400.0m,,"sanfter Anstieg am Ende"
+"BAD-HOFGASTEIN-NORD KatA",BHOF-N    A,AT,4710.822N,01306.080E,835.0m,3,180,300.0m,,"In Feldmitte eine ca. 30 m im Durchmesser , ca .1 m hohe Stelle mit Wall, gekennzeichnet mit Holzstempen!"
+"BAD-HOFGASTEIN-SUED KatB",BHOF-S    B,AT,4708.854N,01307.069E,848.0m,3,170,250.0m,,"Zäune beachten!"
+"BAIALUPO Kat",BAIALU     ,IT,4533.000N,00930.000E,150.0m,3,000,.0m,,""
+"BARCO KatA",BARCO     A,IT,4600.624N,01120.098E,430.0m,3,060,250.0m,,"Etwa 10-reihige Spalierpflanzung nach 250m, danach sehr schmal"
+"BARREME KatA",BARREM    A,FR,4359.545N,00623.206E,780.0m,3,010,>400.0m,,"Platzrunde im Osten"
+"BAUMA KatB",BAUMA     B,CH,4722.366N,00851.883E,640.0m,3,000,.0m,,""
+"BAYRISCHZELL KatA",BAYRIS    A,DE,4740.074N,01201.014E,800.0m,3,170,500.0m,,"Nr 2: weg überrollbar"
+"BENNAU KatA",BENNAU    A,CH,4708.600N,00842.383E,900.0m,3,000,.0m,,""
+"BERNEX KatA",BERNEX    A,FR,4622.040N,00639.645E,880.0m,3,080,400.0m,,""
+"BLUDENZ KatB",BLUDEN    B,AT,4708.659N,00950.331E,580.0m,3,090,.0m,,""
+"BOCENAGO Kat",BOCENA     ,IT,4607.000N,01045.000E,738.0m,3,000,.0m,,""
+"BOCKING KatB",BOCKIN    B,AT,4730.960N,01213.650E,690.0m,3,170,300.0m,,"Landerichtung nur SO, Feld steigt an"
+"BODENBAUER HOCHSCHWAB KatB",BODENB    B,AT,4734.781N,01506.913E,870.0m,3,-/0,300.0m,,""
+"BONNEVILLE KatA",BONNVI    A,FR,4604.690N,00623.160E,450.0m,3,180,>300.0m,,""
+"BONNIEUX KatA",BONNIE    A,FR,4350.000N,00517.500E,180.0m,3,di0,300.0m,,""
+"BORMIO-SUD KatB",BORMIO    B,IT,4627.470N,01021.520E,1150.0m,3,000,.0m,,""
+"BOSCHHOF KatA",BOSCHH    A,DE,4748.428N,01125.145E,600.0m,3,090,250.0m,,""
+"BOURG-OISANS KatB",BOUR-O    B,FR,4503.850N,00601.920E,720.0m,3,-/0,350.0m,,""
+"BRAMBERG KatA",BRAMBE    A,AT,4715.615N,01219.435E,830.0m,3,250,500.0m,,"Von Ost freier Anflug, jedoch leicht abschüssig.Wiese hängt ein klein wenig nach Süden."
+"BREDERIS KatA",BREDIS    A,AT,4717.430N,00937.050E,440.0m,3,020,300.0m,,"Felder wurden zum Golfplatz umgebaut!"
+"BRENO-NORD Kat",BRENO      ,IT,4558.000N,01019.000E,294.0m,3,000,.0m,,""
+"BRIXEN KatC",BRIXEN    C,IT,4642.165N,01139.298E,580.0m,3,000,150.0m,,"Stadionneubau, nur kurz Wiesen über. Westlich 200m höher zwei unbekannte Alternativen."
+"BRIXEN IM THALE KatA",BRIXET    A,AT,4727.072N,01215.969E,830.0m,3,100,400.0m,,"Wiese 1, geht nicht mehr: Bau einer Umgehungsstraße!!!!Wiese 2, rosa Querweg nur mit Rumps zu überrollen !"
+"BRUNICO KatB",BRUNIC    B,IT,4648.374N,01156.528E,835.0m,3,180,400.0m,,""
+"BRUNNSEE KatB",BRUNNS    B,AT,4739.000N,01502.500E,640.0m,3,-/0,300.0m,,""
+"BUETSCHWIL KatA",BUETSC    A,CH,4722.151N,00904.065E,620.0m,3,170,400.0m,,""
+"BUSSOLENO KatB",BUSSOL    B,IT,4507.700N,00711.250E,420.0m,3,110,400.0m,,""
+"CAILLE KatA",CAILLE    A,FR,4346.690N,00644.690E,1080.0m,3,-/0,500.0m,,""
+"CAMPITELLO-FASSA KatC",CAMPIT    C,IT,4628.568N,01145.389E,1448.0m,3,030,400.0m,,"Golf-Driving-Range mit 2m Netz am Anfang von Landefeld (1), behindert den Anflug! Teile des Areals sind sehr wellig."
+"CARNIA KatA",CARNIA    A,IT,4622.550N,01307.810E,200.0m,3,110,200.0m,,""
+"CAVALESE Kat",CAVALE     ,IT,4617.000N,01131.000E,900.0m,3,000,.0m,,""
+"CAVAZZO-CARN Kat",CAVAZZ     ,IT,4622.200N,01303.300E,280.0m,3,000,.0m,,""
+"CEPINA Kat",CEPINA     ,IT,4625.670N,01021.720E,1120.0m,3,000,.0m,,""
+"CEPOVAN KatA",CEPOVA    A,SI,4602.140N,01346.940E,570.0m,3,020,300.0m,,""
+"CERVENS Kat",CERVEN     ,FR,4617.230N,00626.600E,600.0m,3,000,.0m,,""
+"CHAMONIX Kat",CHAMON     ,FR,4556.670N,00654.150E,1100.0m,3,000,.0m,,""
+"CHARRAT KatA",CHARRA    A,CH,4606.958N,00707.118E,459.0m,3,040,300.0m,,""
+"CHIURO Kat",CHIURO     ,IT,4610.000N,01000.000E,340.0m,3,000,.0m,,""
+"CIELO-BLU Kat",CIELO      ,IT,4536.530N,00926.000E,200.0m,3,000,.0m,,""
+"CIMOLAIS KatA",CIMOLA    A,IT,4616.335N,01227.857E,570.0m,3,-/0,200.0m,,""
+"CLUSONE Kat",CLUSON     ,IT,4553.230N,00957.930E,630.0m,3,000,.0m,,""
+"COLICO-PIANA KatB",COLICO    B,IT,4609.800N,00925.300E,203.0m,3,060,250.0m,,"Bermuda-Dreieck, UL-Flugplatz, Leitung im Anflug!"
+"CORTINA KatB",CORTIN    B,IT,4631.208N,01207.899E,1150.0m,3,050,300.0m,,""
+"CORVARA KatA",CORVAR    A,IT,4633.153N,01152.000E,1555.0m,3,100,300.0m,,""
+"CRETE-LONGUE Kat",CRET-L     ,CH,4615.900N,00729.300E,507.0m,3,000,.0m,,""
+"CUNTERS KatB",CUNTER    B,CH,4636.800N,00935.229E,1210.0m,3,020,200.0m,,""
+"DAVOS SEE KatB",DAVOSS    B,CH,4648.828N,00950.901E,1560.0m,3,000,.0m,,"Achtung: Fussgänger und Kinder!Leicht gebogener Anflug über den See."
+"DELEMONT Kat",DELEMO     ,CH,4721.270N,00720.420E,446.0m,3,000,.0m,,""
+"DIE KatA",DIE       A,FR,4446.100N,00521.200E,550.0m,3,180,300.0m,,"Mehrere Landerichtungen möglich!"
+"DISENTIS KatB",DISENT    B,CH,4642.183N,00851.433E,1150.0m,3,-/0,250.0m,,"Alle Wiesen ca. 3% Gefälle"
+"DOLENJA VAS KatB",DOLENJ    B,SI,4612.583N,01413.433E,420.0m,3,-/0,250.0m,,""
+"DOLLINGER KatB",DOLLIN    B,AT,4716.369N,01047.742E,788.0m,3,050,418.0m,,"Moorwiesen!"
+"DORFGASTEIN KatB",DORFGA    B,AT,4713.453N,01306.519E,830.0m,3,180,450.0m,,"Drachenflieger- und Modellfliegerplatz mit Windsack."
+"DOUSSARD KatA",DOUSSA    A,FR,4546.600N,00613.530E,460.0m,3,140,>300.0m,,""
+"DUBINO KatB",DUBINO    B,IT,4608.920N,00927.000E,210.0m,3,150,350.0m,,"Laternen-Pfähle, Feldweg mit Zaun-Pfählen am Kopfende der Bahn!"
+"DUERNBACH KatA",DUERNB    A,DE,4746.070N,01143.978E,749.0m,3,170,300.0m,,""
+"EBENSEE KatC",EBENSE    C,AT,4748.100N,01346.760E,430.0m,3,-/0,250.0m,,"Achtung Talwind als Rückenwind, Bodenwellen!"
+"EBNAT-KAPPEL KatA",EBNAT     A,CH,4716.233N,00906.616E,630.0m,3,160,400.0m,,""
+"ECOLE-EN-BAU KatA",ECOLE     A,FR,4538.500N,00610.000E,750.0m,3,020,450.0m,,""
+"EHRWALD KatB",EHRWAL    B,AT,4723.936N,01054.830E,970.0m,3,110,250.0m,,"am Ostrand führt eine Leitung über das Feld > Landerichtung nur gegen Osten."
+"EINSIEDELN KatA",EINSIE    A,CH,4706.683N,00843.750E,910.0m,3,000,.0m,,""
+"EISENERZ KatC",EISENE    C,AT,4732.700N,01453.900E,810.0m,3,040,200.0m,,"Achtung Hangneigung 30 Grad, TalKessel, Bodenwellen!"
+"EISENKAPPEL KatA",EISENK    A,AT,4630.389N,01434.814E,510.0m,3,160,>400.0m,,""
+"ELLMAU KatB",ELLMAU    B,AT,4731.044N,01217.686E,780.0m,3,120,360.0m,,"Wiese 1 steigt leicht nach Osten an! Stangen im Frühjahr !"
+"EMBACH KatC",EMBACH    C,AT,4717.476N,01259.633E,1019.0m,3,-/0,300.0m,,"Steigt leicht von Nord-Ost nach Süd-West an! Landeanflug über eine 300 m hohe Geländekante (Lee!?).Hochspannungen sind zu unterrollen."
+"ERPFENDORF KatA",ERPFEN    A,AT,4734.661N,01228.962E,644.0m,3,080,500.0m,,"Von West nach Ost leicht ansteigend."
+"ESPINASSES KatA",ESPINA    A,FR,4427.630N,00613.100E,650.0m,3,090,>400.0m,,""
+"EYGALIERES KatA",EYGALI    A,FR,4347.000N,00459.540E,100.0m,3,040,400.0m,,""
+"FALL-SYLVENS KatA",FALL      A,DE,4734.241N,01132.963E,780.0m,3,160,300.0m,,"Landung Richtung Süden, erst in zweiter Hälfte nach Querweg aufsetzen."
+"FARCHANT NORD KatB",FARCHA    B,DE,4732.227N,01106.886E,671.0m,3,030,250.0m,,"Wiese an der Strasse bevorzugt, Querwege überrollbar. Auf 2m breite Wassergräben achten!"
+"FARCHANT SUED KatB",FARCHS    B,DE,4731.385N,01106.508E,680.0m,3,180,460.0m,,"Bei Anflug von Süd nach Nord Quer-Bodenwelle!"
+"FARRA-D-SOLI KatA",FARRA     A,IT,4554.003N,01208.028E,160.0m,3,-/0,300.0m,,""
+"FEDERAUN KatB",FEDERA    B,AT,4634.229N,01347.963E,509.0m,3,-/0,500.0m,,"Nur wenn man Flp Nötsch nicht erreicht!"
+"FEFFERNITZ KatB",FEFFER    B,AT,4641.500N,01341.660E,510.0m,3,040,250.0m,,""
+"FELTRE KatA",FELTRE    A,IT,4601.792N,01155.205E,320.0m,3,-/0,300.0m,,""
+"FISCHBACHAU KatB",FISCHB    B,DE,4743.239N,01156.662E,760.0m,3,140,420.0m,,"Gelände steigt nach Osten an!"
+"FISCHENTHAL KatA",FISCHE    A,CH,4719.566N,00855.183E,750.0m,3,000,.0m,,""
+"FISCHHAUSEN KatB",FISCHH    B,DE,4742.549N,01152.148E,800.0m,3,140,250.0m,,"Leicht ansteigend Richtung SO. Bei Endanflug aus Süden muß 4 km vorher der Spitzingsattel (1150m) überflogen werden!"
+"FLUEELEN KatB",FLUEEL    B,CH,4653.250N,00836.733E,440.0m,3,000,.0m,,""
+"FOLLINA KatB",FOLLIN    B,IT,4557.418N,01208.074E,260.0m,3,-/0,180.0m,,"Sehr kurz!"
+"FONZASO KatB",FONZAS    B,IT,4600.701N,01148.665E,330.0m,3,070,200.0m,,"Sehr kurz!"
+"FOURNET-BLAN Kat",FOURNE     ,FR,4711.350N,00647.200E,921.0m,3,000,.0m,,""
+"FRAUENKIRCH KatB",FRAUEN    B,CH,4646.582N,00948.441E,1510.0m,3,030,300.0m,,"Sehr enges Tal, keine normale Platzrunde möglich!Die beiden Hindernisse können NICHT durchflogen werden!"
+"FREIENBACH KatB",FREIEN    B,CH,4712.120N,00845.830E,410.0m,3,000,.0m,,""
+"FRIESACH-GRAZ KatA",FRIEGA    A,AT,4709.911N,01519.533E,390.0m,3,010,300.0m,,""
+"FUEGEN KatA",FUEGEN    A,AT,4720.654N,01151.515E,540.0m,3,-/0,600.0m,,"Hohe Bäume und 2 Hochspannungen im Osten beachten ! Im Westen: Bahn-Böschung  und unterrollbare Hochspannung!"
+"FULDERA KatB",FULDER    B,CH,4636.850N,01021.720E,1640.0m,3,140,300.0m,,"Auf Wassergräben achten ! (Gepunktete Linien ! )"
+"GAD KatC",GAD       C,FR,4502.700N,00651.600E,1050.0m,3,040,200.0m,,""
+"GAGERING KatA",GAGERI    A,AT,4721.650N,01151.391E,530.0m,3,170,730.0m,,"Auf viele Stromleitungen achten, nördliche Wiese beste Variante."
+"GALTUER KatB",GALTUE    B,AT,4658.400N,01012.030E,1580.0m,3,050,300.0m,,"sehr enges Tal, in der Mitte sumpfiger Fleck mit ca. 10m Durchmesser!"
+"GARMISCH OST KatB",GARMIO    B,DE,4729.008N,01105.927E,730.0m,3,140,340.0m,,"Landerichtung nur S, Feld steigt an"
+"GARMISCH WEST KatB",GARMIW    B,DE,4728.264N,01103.245E,745.0m,3,050,300.0m,,""
+"GERLAMOOS KatA",GERLAM    A,AT,4645.577N,01316.760E,575.0m,3,080,500.0m,,""
+"GERLOS KatC",GERLOS    C,AT,4713.744N,01203.164E,1258.0m,3,140,180.0m,,""
+"GIPPEL-WEISSENBACH KatA",GIPPEL    A,AT,4749.990N,01536.420E,690.0m,3,110,500.0m,,""
+"GLOGGNITZ KatB",GLOGGN    B,AT,4740.593N,01557.515E,430.0m,3,160,.0m,,"Vier Bereiche mit unterschiedlichem Bewuchs, Bereich 1 meist am besten belandbar!"
+"GOESTLING KatA",GOESTL    A,AT,4746.785N,01454.512E,580.0m,3,-/0,350.0m,,""
+"GOETZIS KatA",GOETZI    A,AT,4719.134N,00937.601E,425.0m,3,020,300.0m,,""
+"GOGGAU KatA",GOGGAU    A,AT,4647.942N,01409.005E,785.0m,3,040,600.0m,,""
+"GONTEN KatB",GONTEN    B,CH,4719.353N,00920.466E,926.0m,3,040,250.0m,,"im Südteil leicht wellig, zwei Pfosten, die auf den Foto von oben erkennbaren anderen Wiesen sind von Pfosten "verseucht"."
+"GORDES KatA",GORDES    A,FR,4354.750N,00515.100E,203.0m,3,di0,300.0m,,""
+"GORTIPOHL KatB",GORTIP    B,AT,4700.266N,01000.283E,900.0m,3,150,300.0m,,"Enges Tal!"
+"GOSAU KatA",GOSAU     A,AT,4733.900N,01331.220E,750.0m,3,020,400.0m,,""
+"GRABENWEG KatA",GRABEN    A,AT,4757.030N,01601.930E,413.0m,3,060,800.0m,,""
+"GRAFENBACH KatA",GRAFEN    A,AT,4741.055N,01600.144E,410.0m,3,160,800.0m,,""
+"GRAMLER KatB",GRAMLE    B,AT,4729.966N,01247.331E,676.0m,3,120,450.0m,,"Sehr enges Tal, keine Platzrunde möglich."
+"GRIESSENPASS KatB",GRISSE    B,AT,4727.311N,01239.282E,960.0m,3,-/0,500.0m,,""
+"GRIGNO KatA",GRIGNO    A,IT,4601.753N,01134.860E,300.0m,3,-/0,250.0m,,""
+"GRISAIL KatA",GRISAI    A,FR,4457.000N,00537.500E,850.0m,3,180,350.0m,,""
+"GROSSPIENZENAU-THALHAM KatB",GROSSP    B,DE,4749.384N,01149.792E,700.0m,3,150,400.0m,,"Feld ist unterteilt durch Zäune; landerichtung S, Feld steigt an;"
+"GSCHOEDER KatB",GSCHOE    B,AT,4738.834N,01506.689E,650.0m,3,160,.0m,,""
+"GSIESSERTAL KatA",GSIESS    A,IT,4645.940N,01209.666E,1260.0m,3,080,400.0m,,"UL-Flp?"
+"GUSSWERK KatB",GUSSWE    B,AT,4743.396N,01516.260E,720.0m,3,030,.0m,,""
+"HABACH KatA",HABACH    A,AT,4746.866N,01409.700E,500.0m,3,-/0,550.0m,,"Landerichtung 33 wegen lokaler Windsystem bevorzugen!"
+"HABERE KatA",HABERE    A,FR,4616.180N,00627.800E,1113.0m,3,010,980.0m,,""
+"HAIMING-PIRCHET KatA",HAIMIN    A,AT,4715.555N,01054.532E,670.0m,3,800,400.0m,,"Südliches Landefeld Querwege überrollbar.Maisanbau!"
+"HAINFELD KatB",HAINFE    B,AT,4801.964N,01546.791E,426.0m,3,100,260.0m,,"Kurz und schlechter Anflug über Wald."
+"HALLTAL KatB",HALLTA    B,AT,4745.920N,01520.960E,780.0m,3,-/0,350.0m,,""
+"HAUS-ENNSTAL KatA",HAUS      A,AT,4725.060N,01346.802E,700.0m,3,070,.0m,,""
+"HAUSHAM KatA",HAUSHA    A,DE,4744.751N,01150.804E,740.0m,3,140,700.0m,,"Wiese steigt leicht von Nord nach Süd an."
+"HEITERWANG KatA",HEITER    A,AT,4726.579N,01045.237E,1000.0m,3,140,500.0m,,"Achtung Pflöcke, mehrere Möglichkeiten."
+"HERMAGOR KatB",HERMAG    B,AT,4637.700N,01323.060E,585.0m,3,090,320.0m,,"Graben in der Mitte der Wiese, neuer Zaun am westlichen Ende!"
+"HINTERGLEMM KatB",HINTER    B,AT,4723.020N,01236.545E,1028.0m,3,-/0,300.0m,,"Anflug über 10 m hohe Bäume!"
+"HINTERSTODER KatB",HINSTO    B,AT,4740.444N,01407.141E,640.0m,3,040,380.0m,,""
+"HINTERWILDALPEN KatC",HIWILD    C,AT,4738.695N,01456.129E,780.0m,3,-/0,350.0m,,"Bewaldeter Bergkegel im Anflug, ev. herumfliegen! Hindernis in der Wiese."
+"HOCHFILZEN KatA",HOCHFI    A,AT,4728.276N,01237.186E,960.0m,3,140,400.0m,,"Landerichtung SO, Feld steigt leicht an."
+"HOCHKAR-LASSING KatB",HOCHKA    B,AT,4745.320N,01454.230E,680.0m,3,-/0,300.0m,,"Drachenfliegerlandeplatz"
+"HOFKIRCHEN-ST-STEFAN KatB",HOFKIR    B,AT,4714.800N,01553.400E,345.0m,3,150,300.0m,,""
+"HOHE-WAND KatA",HOHE-W    A,AT,4749.382N,01604.797E,380.0m,3,-/0,320.0m,,""
+"HOLZGAU KatC",HOLZGA    C,AT,4715.600N,01021.800E,1100.0m,3,000,.0m,,""
+"HUBEN OETZTAL KatA",HUBEN     A,AT,4702.779N,01057.918E,1189.0m,3,150,700.0m,,"Unregelmäßig ca. 50 cm hohe Begrenzungs-Stempen, vor allem am Witschaftsweg! Weg überrollbar."
+"HUNDHAM KatA",HUNDHA    A,DE,4745.267N,01156.585E,780.0m,3,140,400.0m,,"nördlicher Variante besser, Südliche Wiese: Landung nur nach Süd, Feld steigt an."
+"IBACH NORD KatB",IBACHN    B,CH,4700.883N,00837.750E,460.0m,3,000,.0m,,""
+"IBACH SUED KatB",IBACHS    B,CH,4700.500N,00838.466E,460.0m,3,000,.0m,,""
+"ILANZ KatB",ILANZ     B,CH,4646.526N,00913.111E,720.0m,3,090,300.0m,,""
+"IMER KatA",IMER      A,IT,4608.800N,01147.700E,640.0m,3,070,450.0m,,""
+"IMST KatB",IMST      B,AT,4713.170N,01044.750E,714.0m,3,100,400.0m,,"Landung nur Richtung Osten wegen Hochspannungsleitung"
+"IMST-ARZL KatA",IMSTAZ    A,AT,4712.583N,01045.914E,880.0m,3,070,300.0m,,"Nur nutzen wenn Imst nicht nutzbar, da Imst 170m tiefer liegt"
+"INNERFAHRAFELD KatB",INNERF    B,AT,4756.270N,01535.912E,450.0m,3,160,350.0m,,""
+"INNERHALBACH KatB",INNERH    B,AT,4755.940N,01541.390E,550.0m,3,050,300.0m,,"Baum im Endanflug 05!"
+"INNERZWAIN KatA",INNERZ    A,AT,4733.476N,01509.248E,775.0m,3,-/0,350.0m,,""
+"INNICHEN KatA",INNICH    A,IT,4643.859N,01217.612E,1170.0m,3,110,300.0m,,"Auf Zaunstempel am Rande der Wiese achten!"
+"ISCHGL KatB",ISCHGL    B,AT,4700.552N,01017.100E,1350.0m,3,040,400.0m,,"Sehr enges Tal, keine Platzrunde möglich. Anflug zwischen Lautsprechermast und Flutlichtmast!"
+"JACHENAU KatA",JACHEN    A,DE,4736.453N,01129.523E,750.0m,3,070,500.0m,,""
+"JAUSERN KatB",JAUSER    B,AT,4722.400N,01241.400E,910.0m,3,-/0,380.0m,,"Anflug über 10 m hohe Kläranlage oder Bauernhof.Die vorhandenen Wege sind eingeebnet und überrollbar!Im Südteil eine Stufe!"
+"JENAZ KatB",JENAZ     B,CH,4656.616N,00942.450E,750.0m,3,170,300.0m,,"Enges Tal, Geländestufen!"
+"JEZERSKO KatB",JEZERS    B,SI,4624.295N,01430.480E,880.0m,3,010,300.0m,,"Schwer aus der Luft zu finden!"
+"JOHNSBACH KatB",JOHNSB    B,AT,4731.731N,01437.095E,865.0m,3,100,300.0m,,""
+"JOUX-PRE-DE Kat",JOUX-P     ,CH,4636.500N,00708.300E,860.0m,3,000,.0m,,""
+"KALWANG KatB",KALWAN    B,AT,4725.500N,01444.000E,760.0m,3,000,.0m,,""
+"KAPELLEN-MUERZ KatA",KAPELL    A,AT,4738.992N,01537.289E,700.0m,3,110,500.0m,,"Anflug 29 über Tennisplätze bzw. 11 ev. mit kleinem Schlenkerer über niedrigen Waldrücken und Bäume am Mürzufer"
+"KATZLING KatA",KATZLI    A,AT,4714.560N,01431.830E,860.0m,3,140,.0m,,""
+"KERNHOF KatB",KERNHO    B,AT,4748.672N,01532.899E,700.0m,3,140,.0m,,""
+"KIENZEN KatA",KIENZE    A,AT,4730.100N,01030.500E,1090.0m,3,-/0,300.0m,,""
+"KITZBUEHEL KatA",KITZBU    A,AT,4725.832N,01224.361E,765.0m,3,160,400.0m,,""
+"KLAUS KatB",KLAUS     B,AT,4718.210N,00938.110E,450.0m,3,100,150.0m,,""
+"KLOSTERS KatA",KLOSTE    A,CH,4651.738N,00954.014E,1210.0m,3,040,450.0m,,"Viehweiden, Zäune sind möglich!!!"
+"KOBARID KatA",KOBARI    A,SI,4614.790N,01332.420E,240.0m,3,080,300.0m,,""
+"KOCHEL KatA",KOCHEL    A,DE,4740.330N,01121.249E,599.0m,3,150,250.0m,,""
+"KOESSEN KatA",KOESSE    A,AT,4739.486N,01222.867E,615.0m,3,-/0,500.0m,,""
+"KONG Kat",KONG       ,IT,4546.000N,00926.500E,200.0m,3,000,.0m,,""
+"KOPPL Kat",KOPPL      ,AT,4748.570N,01308.570E,755.0m,3,000,.0m,,""
+"KOSCHACH-MALTA KatA",KOSCHA    A,AT,4658.600N,01328.140E,830.0m,3,160,530.0m,,""
+"KRAMSACH KatA",KRAMSA    A,AT,4726.913N,01153.933E,515.0m,3,060,500.0m,,""
+"KRANJSKA-GOR KatB",KRANJS    B,SI,4629.262N,01346.966E,830.0m,3,090,500.0m,,"Achtung Zaunstempel!"
+"KRIEGLACH KatA",KRIEGL    A,AT,4732.500N,01532.650E,620.0m,3,160,.0m,,"Holzpflöcke!"
+"KRIMML KatB",KRIMML    B,AT,4713.440N,01210.647E,1040.0m,3,-/0,400.0m,,"Stark ansteigend!"
+"KRIPPAU KatA",KRIPPA    A,AT,4741.300N,01442.250E,505.0m,3,120,280.0m,,"Wiese beginnt von Westen mit Stacheldrahtzaun, von Osten mit 5m Hecke!"
+"KRUEN KatA",KRUEN     A,DE,4730.594N,01115.966E,900.0m,3,140,400.0m,,"Mehrere Möglichkeiten! Im Anflug von Ost nach West Hochspannung beachten!"
+"KUEB KatB",KUEB      B,AT,4741.000N,01553.330E,490.0m,3,210,.0m,,""
+"L-ISLE-SORGU KatB",L-ISLE    B,FR,4355.020N,00504.990E,65.0m,3,140,300.0m,,""
+"LA-BATHIE KatB",LA-BAT    B,FR,4538.100N,00627.100E,375.0m,3,160,200.0m,,""
+"LA-FAURIE KatA",LA-FAU    A,FR,4433.810N,00545.530E,820.0m,3,120,320+70.0m,,""
+"LA-MOTTE-E-B KatA",L-M-EB    A,FR,4542.500N,00607.300E,710.0m,3,150,600.0m,,""
+"LA-MURE KatA",LA-MUR    A,FR,4358.920N,00631.870E,930.0m,3,040,300.0m,,""
+"LA-PONCIA Kat",LA-PON     ,IT,4547.780N,00919.180E,225.0m,3,000,.0m,,""
+"LA-TOUR Kat",LA-TOU     ,FR,4608.300N,00625.200E,600.0m,3,000,.0m,,""
+"LAGGIO-D-CAD KatB",LAGGIO    B,IT,4630.080N,01228.720E,900.0m,3,180,180.0m,,"Sehr kurz!"
+"LANDL KatB",LANDL     B,AT,4735.330N,01202.910E,655.0m,3,-/0,350.0m,,"Landerichtung SW, Feld steigt an, sehr enges Tal, keine normale Platzrunde, ersten 50m wellig unlanbar."
+"LANDRY KatA",LANDRY    A,FR,4534.300N,00644.100E,750.0m,3,040,250.0m,,""
+"LANGANG Kat",LANGAN     ,AT,4651.773N,01253.650E,830.0m,3,080,240.0m,,""
+"LANGENWANG KatB",LANGEN    B,AT,4734.633N,01538.350E,642.0m,3,040,350.0m,,"Wiese südlich der Straße sehr uneben!"
+"LANGNAU KatA",LANGNA    A,CH,4656.116N,00748.150E,680.0m,3,000,.0m,,""
+"LANGWIES KatB",LANGWI    B,AT,4746.219N,01343.259E,440.0m,3,040,300.0m,,""
+"LARAGNE KatA",LARAGN    A,FR,4419.240N,00547.510E,570.0m,3,130,480.0m,,""
+"LAUERZERSEE KatA",LAUERZ    A,CH,4702.350N,00836.066E,470.0m,3,000,.0m,,""
+"LAVIN KatB",LAVIN     B,CH,4646.130N,01007.380E,1450.0m,3,090,350.0m,,"Enges V-Tal, Anflug über Inn-Terrassen-Böschung, Bewässerungsstangen beachten;"
+"LAVIS KatA",LAVIS     A,IT,4607.734N,01105.681E,230.0m,3,060,700.0m,,""
+"LE-CASSET KatA",L-CASS    A,FR,4459.000N,00629.630E,1500.0m,3,100,500.0m,,"Platzrunde im Süden"
+"LE-CLAPIER Kat",LE-CLA     ,FR,4501.500N,00604.000E,750.0m,3,000,.0m,,""
+"LE-ROSIER KatB",LE-ROS    B,FR,4455.870N,00640.930E,1400.0m,3,180,400.0m,,"Graben in der Mitte des Feldes, Landung jeweils im zweiten Teil!"
+"LEISACH KatB",LEISAC    B,AT,4648.414N,01244.939E,670.0m,3,000,300.0m,,""
+"LENDORF KatA",LENDOR    A,AT,4649.926N,01325.015E,600.0m,3,100,300.0m,,""
+"LENGAU KatB",LENGAU    B,AT,4722.300N,01232.277E,1140.0m,3,-/0,400.0m,,"Anflug über 10 m hohe Bäume!"
+"LENGGRIS KatA",LENGGR    A,DE,4740.899N,01133.588E,700.0m,3,-/0,250.0m,,"Querweg überrollbar!"
+"LENTIAI Kat",LENTIA     ,IT,4601.530N,01159.600E,246.0m,3,000,.0m,,""
+"LERMOOS KatB",LERMO     B,AT,4723.897N,01053.584E,970.0m,3,270,250.0m,,"Ost nach West zwischen zwei Stadeln ( 30 m Zwischenraum ), Längsgräben!!!"
+"LES-CROTS KatB",LES-CR    B,FR,4432.170N,00626.200E,780.0m,3,090,300.0m,,"UL-Landefeld ev. unbrauchbar oder sehr schmal!"
+"LES-ECHELLES KatA",LES-EC    A,FR,4526.040N,00544.860E,400.0m,3,090,300.0m,,""
+"LES-HOUCHES Kat",LES-HO     ,FR,4553.900N,00649.300E,950.0m,3,000,.0m,,""
+"LEUTASCH KatA",LEUTAS    A,AT,4722.590N,01109.809E,1110.0m,3,140,.0m,,""
+"LIEZEN KatB",LIEZEN    B,AT,4733.740N,01415.850E,635.0m,3,080,660.0m,,""
+"LINDENBERG Kat",LINDEN     ,DE,4737.200N,00959.270E,703.0m,3,000,.0m,,""
+"LIVIGNO KatA",LIVIGN    A,CH,4632.124N,01008.243E,1810.0m,3,030,300.0m,,"Außerhalb der markierten Felder sind Bewässerungsgräben und Bodenwellen!"
+"LOGARSKA KatB",LOGARS    B,SI,4625.000N,01438.500E,810.0m,3,020,300.0m,,"Tal ist extrem eng, keine Platzrunde möglich."
+"LOGIS-DU-PIN KatA",LOGIS     A,FR,4346.650N,00638.470E,1025.0m,3,070,500.0m,,"Landerichtung 07/25 oder 17/35"
+"LONGARONE KatA",LONGAR    A,IT,4616.580N,01218.250E,470.0m,3,170,400.0m,,""
+"LOURMARIN KatA",LOURMA    A,FR,4345.541N,00523.961E,280.0m,3,180,400.0m,,""
+"LOVERE Kat",LOVERE     ,IT,4549.000N,01004.650E,187.0m,3,000,.0m,,""
+"LUC-EN-DIOIS KatA",LUC-ED    A,FR,4435.550N,00528.440E,630.0m,3,140,.0m,,""
+"LUDESCH KatA",LUDESC    A,AT,4711.250N,00946.250E,545.0m,3,040,350.0m,,""
+"LUNZ AM SEE KatA",LUNZSE    A,AT,4750.781N,01501.124E,590.0m,3,030,450.0m,,""
+"MADLING Kat",MADLIN     ,AT,4704.106N,01347.894E,1010.0m,3,-/0,.0m,,""
+"MALBORGHETTO Kat",MALBOR     ,IT,4630.330N,01325.770E,720.0m,3,080,200.0m,,"!!!BAUSTELLE!!! NICHT MEHR LANDBAR"
+"MALE KatB",MALE      B,IT,4620.197N,01053.875E,740.0m,3,050,350.0m,,""
+"MALOJA CASAC KatB",MALOJC    B,CH,4623.209N,00939.759E,1450.0m,3,020,.0m,,""
+"MALONNO Kat",MALONN     ,IT,4606.700N,01019.220E,600.0m,3,000,.0m,,""
+"MANIAGO KatA",MANIAG    A,IT,4607.500N,01243.830E,250.0m,3,170,1200.0m,,""
+"MARBACH KatB",MARBAC    B,CH,4652.033N,00754.316E,830.0m,3,000,.0m,,""
+"MARCOUX KatA",MARCOU    A,FR,4408.500N,00616.540E,700.0m,3,180,>500.0m,,""
+"MARTULJEK O Kat",MART O     ,SI,4628.830N,01351.480E,730.0m,3,000,.0m,,""
+"MARTULJEK W KatB",MARTW     B,SI,4628.910N,01350.950E,740.0m,3,-/0,200.0m,,""
+"MATHON KatA",MATHON    A,AT,4659.249N,01014.751E,1430.0m,3,070,280.0m,,"Bei Anflug aus West, Sportplatz mit hohem Zaun!"
+"MATREI-OSTTIROL KatA",MATREI    A,AT,4659.120N,01232.770E,925.0m,3,150,380.0m,,"hindernissfreier Anflug, immer starker Ostwind, Anfang und Ende Zaun!"
+"MAYRHOFEN KatA",MAYRHO    A,AT,4710.816N,01152.169E,610.0m,3,010,570.0m,,"UL Platz, Querwege überrollbar"
+"MERANO KatC",MERANO    C,IT,4639.647N,01109.150E,300.0m,3,040,300.0m,,"Trabrennbahn, wechselnde Hindernisse, ca. 20m breit"
+"MILS KatB",MILS      B,AT,4712.406N,01040.831E,730.0m,3,070,180.0m,,"Alle Querwege sind überrollbar! Wenn man das weiß, dann haben die 180m Länge des offiziellen Landefeldes keinen Schrecken mehr!"
+"MISSAGLIA Kat",MISSAG     ,IT,4542.000N,00920.000E,301.0m,3,000,.0m,,""
+"MITTENWALD KatB",MITTEN    B,DE,4725.098N,01115.528E,912.0m,3,010,548.0m,,"Enges Tal, keine normale Platzrunde möglich."
+"MITTERNDORF KatA",MITTDO    A,AT,4733.170N,01358.000E,820.0m,3,090,400.0m,,"Die anderen Wiesen um Mitterndorf sind stromleitungsverseucht oder uneben."
+"MITTERRIEGEL KatA",MITRIE    A,AT,4806.615N,01600.990E,400.0m,3,030,280.0m,,""
+"MITTERSILL-STUHLFELDEN KatB",MITTER    B,AT,4717.234N,01230.180E,780.0m,3,-/0,420.0m,,""
+"MOEDERNDORF KatA",MOEDER    A,AT,4636.694N,01321.241E,580.0m,3,-/0,400.0m,,"Besser als östlich Hermagor! Telefonleitung am Westende der Wiese!"
+"MOJSTRANA KatB",MOJSTR    B,SI,4627.940N,01355.220E,640.0m,3,-/0,300.0m,,""
+"MONTGARDIN KatB",MONTGA    B,FR,4432.978N,00612.822E,800.0m,3,-/0,230.0m,,""
+"MONTMAUR KatA",MONTMA    A,FR,4433.629N,00551.441E,900.0m,3,010,500.0m,,""
+"MONTMELIAN KatA",MONTME    A,FR,4529.400N,00602.300E,260.0m,3,150,400.0m,,""
+"MOOSLANDL KatA",MOOSLA    A,AT,4738.761N,01446.061E,530.0m,3,-/0,.0m,,""
+"MUENSTER-OST KatB",MUENST    B,AT,4725.798N,01150.688E,520.0m,3,010,500.0m,,"Landerichtung nur N, Feld steigt an"
+"MUERZZUSCHLAG KatB",MUERZZ    B,AT,4735.980N,01540.940E,780.0m,3,140,400.0m,,"Wiese steigt nach Süden leicht an."
+"MURAU KatA",MURAU     A,AT,4706.471N,01411.001E,800.0m,3,-/0,.0m,,""
+"MURAU OST KatA",MURA-O    A,AT,4706.984N,01413.272E,777.0m,3,040,.0m,,""
+"NASSEREITH NORD KatB",NASS_N    B,AT,4718.909N,01049.987E,835.0m,3,-/0,400.0m,,"Leitung an der Landeschwelle ist schlecht sichtbar, da die Masten zwischen den Bäumen stehen!"
+"NASSEREITH SUED KatB",NASS_S    B,AT,4718.371N,01050.629E,835.0m,3,050,300.0m,,"Landerichtung O, Feld steigt an; Hochspannung macht 90° Knick wie eingezeichnet."
+"NENZING KatB",NENZIN    B,AT,4711.488N,00941.850E,500.0m,3,110,150.0m,,""
+"NEUBERG KatB",NEUBER    B,AT,4739.528N,01535.803E,720.0m,3,-/0,.0m,,"1"
+"NEUWALD KatB",NEUWAL    B,AT,4744.865N,01530.988E,900.0m,3,-/0,400.0m,,"Zwischen Göller und Schneealpe, schlecht zu finden. Leitung im Anflug!"
+"NIEDERDORF KatB",NIEDRD    B,IT,4644.200N,01209.350E,1150.0m,3,100,300.0m,,""
+"NIEDERNSILL KatA",NIEDER    A,AT,4717.049N,01239.833E,767.0m,3,090,400.0m,,""
+"NIEDERRASEN Kat",NIEDRR     ,IT,4646.930N,01203.170E,1000.0m,3,000,.0m,,""
+"NIEDERTHAI KatB",NITHAI    B,AT,4707.800N,01058.330E,1560.0m,3,040,300.0m,,""
+"NOYERS-JABRO Kat",NOYERS     ,FR,4410.270N,00550.680E,550.0m,3,000,.0m,,""
+"OBERAICH KatA",OBERAI    A,AT,4724.176N,01512.405E,500.0m,3,000,400.0m,,"Mehrere Möglichkeiten"
+"OBERDORF KatA",OBERDO    A,AT,4728.146N,01507.284E,670.0m,3,090,400.0m,,""
+"OBERORT-TRAGOESS KatB",OBEROR    B,AT,4731.959N,01504.292E,760.0m,3,090,280.0m,,""
+"OBERTILLIACH KatB",OBERTI    B,AT,4642.070N,01238.060E,1285.0m,3,-/0,400.0m,,"Grenzstempel, umbedingt innerhalb einer Wiese landen!"
+"OBERVINTL KatB",OBERVI    B,IT,4648.680N,01145.021E,770.0m,3,100,400.0m,,"Achtung, teilweise Maisfeld, Wiesenstreifen am Bach!"
+"OFFENSEE KatC",OFFENS    C,AT,4745.651N,01350.051E,650.0m,3,-/0,250.0m,,"Sumpfig, NOTLANDEWIESE!!"
+"OLANG KatA",OLANG     A,IT,4645.344N,01201.472E,1050.0m,3,180,300.0m,,""
+"ORGON-CHEV-B KatB",ORGON     B,FR,4346.755N,00505.000E,90.0m,3,090,350.0m,,""
+"OSPEDALETTO KatA",OSPEDA    A,IT,4602.500N,01132.620E,310.0m,3,120,400.0m,,""
+"OULX Kat",OULX       ,IT,4502.013N,00650.008E,1110.0m,3,000,.0m,,"gibt es nicht mehr!"
+"PACHER KatB",PACHER    B,AT,4726.469N,01545.119E,1050.0m,3,120,330.0m,,""
+"PADOLA KatB",PADOLA    B,IT,4636.314N,01228.703E,1180.0m,3,160,200.0m,,""
+"PALFAU-HOCHKAR KatC",PALFAU    C,AT,4742.383N,01448.438E,535.0m,3,040,300.0m,,""
+"PALUS-S-MARC KatB",PALUS     B,IT,4632.090N,01217.725E,1130.0m,3,100,280.0m,,"Leitung im Anflug!"
+"PALUZZA KatA",PALUZZ    A,IT,4632.951N,01300.788E,690.0m,3,-/0,300.0m,,""
+"PASSY KatA",PASSY     A,FR,4555.470N,00643.200E,590.0m,3,160,600.0m,,""
+"PASTURO Kat",PASTUR     ,IT,4556.680N,00927.330E,600.0m,3,000,.0m,,""
+"PATERNION KatA",PATERN    A,AT,4643.100N,01338.377E,510.0m,3,120,300.0m,,""
+"PELLAFOL KatB",PELLAF    B,FR,4448.180N,00554.280E,915.0m,3,090,250.0m,,""
+"PELLIZI Kat",PELLIZ     ,IT,4618.580N,01046.200E,900.0m,3,000,.0m,,""
+"PERNEGG KatB",PERNEG    B,AT,4721.311N,01520.671E,458.0m,3,-/0,400.0m,,"Felder werden quer zur Landerichtung bebaut!"
+"PERNITZ NORD KatA",PERN-N    A,AT,4754.385N,01556.712E,440.0m,3,-/0,.0m,,""
+"PERNITZ SUED KatA",PERN-S    A,AT,4753.220N,01557.270E,470.0m,3,-/0,.0m,,""
+"PETTNEU KatC",PETTNE    C,AT,4708.946N,01021.143E,1200.0m,3,-/0,300.0m,,""
+"PFAEFFIKON KatA",PFAEFF    A,CH,4712.350N,00847.500E,410.0m,3,000,.0m,,""
+"PFANNHAMMER KatB",PFANNH    B,AT,4742.581N,01519.507E,794.0m,3,020,400.0m,,""
+"PFYNWALD Kat",PFYNWA     ,CH,4618.100N,00736.200E,565.0m,3,000,.0m,,""
+"PIANCOGNO Kat",PIANCO     ,IT,4555.000N,01013.000E,240.0m,3,000,.0m,,""
+"PICHL PREUNEGG KatA",PICHL     A,AT,4723.129N,01337.213E,770.0m,3,-/0,500.0m,,"Von Westen Leitung im Anflug!"
+"PIESTING KatC",PIESTI    C,AT,4752.424N,01608.932E,325.0m,3,110,.0m,,""
+"PIEVE-D-CADO KatB",PIEVE     B,IT,4626.880N,01223.780E,740.0m,3,-/0,150.0m,,"Sehr kurz!"
+"PLACETTE Kat",PLACET     ,FR,4522.000N,00541.000E,400.0m,3,000,.0m,,""
+"PORLEZ1 Kat",PORLE1     ,IT,4601.880N,00907.650E,275.0m,3,000,.0m,,""
+"PORLEZ2 Kat",PORLE2     ,IT,4602.200N,00908.750E,280.0m,3,000,.0m,,""
+"POSCHIAVO Kat",POSCHI     ,CH,4618.100N,01004.430E,980.0m,3,000,.0m,,""
+"PRAZ-SUR-ARL Kat",PRAZ-S     ,FR,4550.320N,00634.570E,1000.0m,3,000,.0m,,""
+"PREBOIS KatA",PREBOI    A,FR,4447.440N,00541.310E,760.0m,3,090,250.0m,,""
+"PREDAZZO KatA",PREDAZ    A,IT,4617.531N,01135.355E,1000.0m,3,110,250.0m,,""
+"PRESE Kat",PRESE      ,CH,4617.830N,01004.750E,970.0m,3,000,.0m,,""
+"PREVAL KatA",PREVAL    A,IT,4557.380N,01332.183E,55.0m,3,090,400.0m,,""
+"PRUTZ KatB",PRUTZ     B,AT,4705.083N,01040.083E,865.0m,3,-/0,400.0m,,"Wiesen bei Tösens bevorzugen, Wassergräben"
+"PUCHBERG KatA",PUCHBE    A,AT,4747.599N,01553.231E,615.0m,3,090,.0m,,""
+"PUGET KatB",PUGET     B,FR,4344.920N,00516.570E,133.0m,3,110,375.0m,,""
+"PYHRN KatA",PYHRN     A,AT,4736.217N,01417.222E,825.0m,3,030,400.0m,,"Weidezaun am Wiesenanfang."
+"QUINSON KatA",QUINSO    A,FR,4341.001N,00604.290E,500.0m,3,-/0,500.0m,,""
+"RABENSTEIN KatA",RABENS    A,AT,4714.688N,01518.878E,410.0m,3,180,450.0m,,""
+"RADFELD KatA",RADFEL    A,AT,4727.869N,01157.046E,511.0m,3,070,600.0m,,"Fallschirmspringer-Flugplatz"
+"RADSTADT KatA",RADSTA    A,AT,4722.893N,01327.869E,830.0m,3,070,.0m,,""
+"RAMOSCH KatB",RAMOSC    B,CH,4649.970N,01023.041E,1230.0m,3,-/0,400.0m,,"Terrasse, schwierige Landeeinteilung"
+"RANTEN KatB",RANTEN    B,AT,4709.270N,01406.057E,900.0m,3,090,.0m,,""
+"RATECE KatB",RATECE    B,SI,4629.393N,01343.330E,870.0m,3,160,200.0m,,""
+"RATTENDORF KatB",RATTDO    B,AT,4637.407N,01314.021E,600.0m,3,120,600.0m,,"Entwässerungsgräben QUER zur Landerichtung!!!"
+"REICHENFELS-OBDACH KatB",REICHE    B,AT,4700.450N,01445.050E,790.0m,3,160,170.0m,,"Sommer 2004 nördlicher Teil Kornfeld!"
+"REIN KatA",REIN      A,AT,4708.200N,01517.470E,443.0m,3,-/0,450.0m,,""
+"REIT-IM-WINK KatA",REITIW    A,DE,4740.426N,01228.663E,695.0m,3,-/0,200.0m,,""
+"REMOULINS KatA",REMOUL    A,FR,4356.600N,00434.915E,55.0m,3,180,500.0m,,""
+"RESCHEN KatB",RESCHE    B,AT,4651.793N,01030.665E,1420.0m,3,010,200.0m,,"Telefonleitung im Anflug und Graben am Anfang der Wiese!"
+"RETTENBACH KatB",RETTEN    B,AT,4716.852N,01227.131E,795.0m,3,040,350.0m,,"Anflug über Staße und Zaun!"
+"RHAEZUENS KatA",RHAEZU    A,CH,4648.398N,00924.410E,650.0m,3,020,500.0m,,""
+"RIKON Kat",RIKON      ,CH,4726.600N,00847.470E,510.0m,3,000,.0m,,""
+"ROCCHETTA Kat",ROCCHE     ,IT,4614.000N,01103.000E,185.0m,3,000,.0m,,""
+"ROCHETAILLEE Kat",ROCHET     ,FR,4507.000N,00601.000E,750.0m,3,000,.0m,,""
+"ROGOLO Kat",ROGOLO     ,IT,4610.000N,00928.830E,200.0m,3,000,.0m,,""
+"ROHR-IM-GEBI KatB",ROHR      B,AT,4753.121N,01545.140E,680.0m,3,-/0,.0m,,""
+"RONA KatC",RONA      C,CH,4633.300N,00937.600E,1408.0m,3,180,300.0m,,"Nur für den Notfall, Gräben und Querfelder!!!"
+"ROSANS KatA",ROSANS    A,FR,4422.880N,00528.300E,620.0m,3,-/0,400.0m,,""
+"ROTHENBRUNNEN KatA",ROTHEN    A,CH,4644.530N,00925.720E,630.0m,3,180,400.0m,,"Baumreihe im Anflug"
+"ROTMOOS KatB",ROTMOO    B,AT,4741.045N,01509.560E,690.0m,3,-/0,380.0m,,"Im Anflug auf der linken Seite halten und zwischen die beiden linken Stadeln die am Ende der Wiese stehen zielen."
+"ROTTACH-EGERN KatA",ROTTAC    A,DE,4740.957N,01148.139E,750.0m,3,090,300.0m,,"Südlichen Wiesen leicht ansteigend Richtung Osten."
+"ROVETTA Kat",ROVETT     ,IT,4553.200N,00959.220E,630.0m,3,000,.0m,,""
+"SAALFELDEN KatA",SAALFE    A,AT,4726.283N,01250.862E,755.0m,3,-/0,300.0m,,""
+"SAGOGN KatA",SAGOGN    A,CH,4647.333N,00915.500E,770.0m,3,090,450.0m,,""
+"SAINTE-JALLE KatB",ST-JAL    B,FR,4420.073N,00518.190E,440.0m,3,120,250.0m,,""
+"SALAND KatA",SALAND    A,CH,4723.516N,00851.416E,600.0m,3,000,.0m,,""
+"SALIGNAC KatA",SALIGN    A,FR,4408.650N,00558.750E,500.0m,3,160,500.0m,,""
+"SALURN KatA",SALURN    A,IT,4613.427N,01109.273E,250.0m,3,180,500.0m,,""
+"SAMOENS KatA",SAMOEN    A,FR,4604.380N,00644.380E,710.0m,3,160,500.0m,,""
+"SANTA-GIUSTI KatA",S-GIUS    A,IT,4604.537N,01203.429E,290.0m,3,030,300.0m,,""
+"SAOU KatA",SAOU      A,FR,4438.200N,00503.766E,300.0m,3,090,400.0m,,""
+"SAPPADA KatA",SAPPAD    A,IT,4633.994N,01241.595E,1200.0m,3,070,200.0m,,""
+"SARNTHEIN KatC",SARNTH    C,IT,4638.183N,01121.400E,960.0m,3,-/0,335.0m,,"enges Tal, keine normale Platzrunde möglich, Feld steigt an, Flugplatz Bozen 20 km und ist 750m tiefer."
+"SAVOGNIN KatB",SAVOGN    B,CH,4635.530N,00936.150E,1200.0m,3,140,250.0m,,"Viele Hindernisse, schwieriges Feld!"
+"SCHABS KatB",SCHABS    B,IT,4645.274N,01138.669E,700.0m,3,040,300.0m,,"UL-Flugplatz, Anflug nur 22m breit, Piste sehr eng und kurz! Alternativen, Maisfelder nur bis Juni nutzbar!"
+"SCHARLING KatB",SCHARL    B,DE,4740.143N,01144.776E,760.0m,3,-/0,300.0m,,"Beste variante Nr 1: Landerichtung W, Feld steigt an;"
+"SCHARNITZ KatB",SCHARN    B,AT,4723.176N,01115.041E,970.0m,3,070,500.0m,,"viele Leitungen beachten!"
+"SCHIERS KatB",SCHIER    B,CH,4658.544N,00939.990E,620.0m,3,120,350.0m,,"Enges Tal, behindert Anflug aus dem Westen!"
+"SCHLITTERS KatA",SCHLIT    A,AT,4722.334N,01150.745E,530.0m,3,150,320.0m,,"Bewuchsgrenzen überrollbar"
+"SCHLUDERNS KatC",SCHLUD    C,IT,4639.700N,01034.520E,920.0m,3,140,400.0m,,"aufgelassener Flp, IST NICHT MEHR LANDBAR!!!"
+"SCHLUDERNS NEU KatB",SCHLU2    B,IT,4639.300N,01034.450E,898.0m,3,-/0,250.0m,,"Ersatz für den Flugplatz Schluderns, ca. 300x50m!"
+"SCHNANN KatC",SCHNAN    C,AT,4709.009N,01022.320E,1165.0m,3,090,400.0m,,"Tierweide und mobile Stallwagen, dann ist eine Landung nicht möglich! Enges Tal."
+"SCHNEPFAU KatA",SCHNEP    A,AT,4720.882N,00956.050E,700.0m,3,090,500.0m,,""
+"SCHOEDER KatB",SCHOED    B,AT,4711.150N,01407.580E,870.0m,3,060,.0m,,""
+"SCHRUNS KatB",SCHRUN    B,AT,4704.406N,00955.212E,680.0m,3,040,200.0m,,"Schwieriger Anflug durch Hochspannung und Häuser!"
+"SCHUEPFHEIMN KatA",SCHUEN    A,CH,4657.680N,00801.230E,700.0m,3,000,.0m,,""
+"SCHUEPFHEIMW KatA",SCHUEW    A,CH,4656.216N,00759.500E,750.0m,3,000,.0m,,""
+"SCHULS-PRADELLA KatB",SCHU-P    B,CH,4648.180N,01019.760E,1170.0m,3,090,350.0m,,"Hanglandung, im engen Tal!"
+"SCHULS-SURA KatC",SCHU-S    C,CH,4647.804N,01018.828E,1170.0m,3,-/0,300.0m,,"Schwierige Landefelder!"
+"SCHWARZAU KatB",SCHWA     B,AT,4750.573N,01541.772E,645.0m,3,010,350.0m,,""
+"SCHWARZSEE KatC",SCHWAR    C,CH,4639.093N,00717.047E,1046.0m,3,000,.0m,,""
+"SCHWAZ KatA",SCHWAZ    A,AT,4721.566N,01143.584E,531.0m,3,040,1000.0m,,""
+"SEDERON KatA",SEDERO    A,FR,4413.240N,00534.480E,750.0m,3,090,300.0m,,""
+"SEDRUN KatB",SEDRUN    B,CH,4640.666N,00846.933E,1400.0m,3,-/0,300.0m,,"Flugzeugträgerlandung, Seilbahn südlich der Wiese!"
+"SEEBODEN KatA",SEEBOD    A,AT,4649.480N,01330.250E,655.0m,3,140,320.0m,,""
+"SILLIAN KatB",SILLIA    B,AT,4644.919N,01225.886E,1075.0m,3,090,300.0m,,""
+"SILLIAN OST KatA",SILL-O    A,AT,4644.884N,01227.044E,1070.0m,3,040,350.0m,,"Ostliche Wiese Zaunstempel!"
+"SILS KatA",SILS      A,CH,4625.979N,00946.209E,1800.0m,3,060,400.0m,,"Gut sichtbarer Stahlpfosten!"
+"SMARTNO-V-T Kat",SMARTN     ,SI,4613.700N,01444.470E,480.0m,3,000,.0m,,""
+"SOLIMBERGO KatA",SOLIMB    A,IT,4610.900N,01249.327E,200.0m,3,110,250.0m,,""
+"SOMAGGIA Kat",SOMAGG     ,IT,4614.000N,00926.000E,210.0m,3,000,.0m,,""
+"SONDALO Kat",SONDAL     ,IT,4619.000N,01019.000E,880.0m,3,000,.0m,,""
+"SPITAL-SEMMERING KatB",SPITAL    B,AT,4736.725N,01544.745E,755.0m,3,050,.0m,,""
+"SPITZINGSEE KatC",SPITZI    C,DE,4739.150N,01153.400E,1090.0m,3,-/0,250.0m,,"Absolutes Notlandefeld! Sehr feucht Sumpfwiese."
+"SPITZWIESEN KatA",SPITZW    A,AT,4649.840N,01406.000E,805.0m,3,050,500.0m,,""
+"SRPENICA  Kat",SRPENI     ,SI,4617.680N,01329.650E,9999.0m,3,-/0,000.0m,,"Leichte Geländestufe in der Wiese!"
+"ST-AEGYD KatA",ST-AEG    A,AT,4751.133N,01533.250E,645.0m,3,-/0,800.0m,,"Flugzeugträgerlandung, Bodenwellen, ev. Weidezäune!"
+"ST-ANTON-MONTAFON KatC",STANTO    C,AT,4706.530N,00951.946E,620.0m,3,170,160.0m,,"Nur im nördlichen Teil Landen"
+"ST-BLAISE KatB",ST-BLA    B,FR,4452.370N,00636.600E,1200.0m,3,-/0,300.0m,,"Gräben am Anfang und Ende des Feldes, Hochspannungsleitung muss über- oder unterflogen werden!"
+"ST-GEORGEN KatA",ST-GEO    A,IT,4648.673N,01155.633E,835.0m,3,-/0,300.0m,,"Ein alter Militdrflugplatz, Wiesen mit insgesamt 40ha, laut Militär muß hier Gras wachsen."
+"ST-JAKOB IN HAUS KatB",ST-JAK    B,AT,4729.985N,01233.974E,856.0m,3,160,400.0m,,""
+"ST-JEAN-HERA KatB",ST-J-H    B,FR,4451.160N,00546.350E,825.0m,3,di0,>300.0m,,""
+"ST-JOHANN-PO KatA",ST-J-P    A,AT,4721.750N,01312.180E,560.0m,3,-/0,390.0m,,"Landung Richtung Norden, Anflug über Sportplatz"
+"ST-LEONHARD KatB",ST-LEO    B,IT,4648.324N,01114.498E,640.0m,3,020,300.0m,,"Achtung Bewässerungsstangen, Anflug über Bauernhof!"
+"ST-MAREIN KatA",ST-MAR    A,AT,4728.790N,01522.780E,540.0m,3,-/0,700.0m,,""
+"ST-OSWALD KatA",ST-OSW    A,AT,4716.378N,01430.241E,945.0m,3,010,.0m,,""
+"ST-REMY-DE-M KatA",ST-REM    A,FR,4522.160N,00616.920E,450.0m,3,170,900.0m,,"Privatflugfeld"
+"ST-ULRICH KatB",ST-ULR    B,AT,4730.851N,01235.089E,860.0m,3,080,280.0m,,"Anflug über großes Hotel und Quer-Baumreihe! Queranflug an den westlichen Hang anlehnen !"
+"ST-VINCENT-M KatA",ST-VIN    A,FR,4522.290N,00558.220E,260.0m,3,020,300.0m,,""
+"STAMS KatA",STAMS     A,AT,4716.928N,01059.383E,635.0m,3,070,300.0m,,""
+"STANZACH KatA",STANZA    A,AT,4722.736N,01033.734E,960.0m,3,140,300.0m,,"Landerichtung SO, Feld steigt an."
+"STEEG KatC",STEEG     C,AT,4714.612N,01017.478E,1120.0m,3,-/0,350.0m,,"Keine normale Platzrunde, sehr kurzes Endteil;"
+"STEIN-ENNSTAL KatA",STEIN     A,AT,4726.650N,01357.200E,660.0m,3,040,.0m,,""
+"STEINBERG KatC",STEINB    C,AT,4730.560N,01148.200E,1020.0m,3,-/0,200.0m,,"Schwieriges Gelände, steile Gegenhang-Landungen, Nr. 1, östl. des Skiliftes bevorzugen, Achenkirch vorziehen!"
+"STOJEN KatB",STOJEN    B,AT,4739.475N,01539.140E,750.0m,3,090,320.0m,,""
+"STRASS-ZILLERTAL KatB",STRASS    B,AT,4724.040N,01149.246E,524.0m,3,060,300.0m,,"Leitung teilt Feld in Ost/Westrichtung, Achtung 2. Leitung!"
+"STUPPACH KatA",STUPPA    A,AT,4741.030N,01558.460E,420.0m,3,060,520.0m,,""
+"SURAVA KatB",SURAVA    B,CH,4639.808N,00936.995E,905.0m,3,-/0,200.0m,,""
+"SURRHEIN Kat",SURRHE     ,CH,4643.300N,00855.970E,1023.0m,3,-/0,.0m,,""
+"SUSA KatA",SUSA      A,IT,4506.750N,00717.230E,380.0m,3,090,350.0m,,"Talwind kommt meist aus Osten."
+"SUSCH KatB",SUSCH     B,CH,4644.650N,01004.870E,1430.0m,3,-/0,350.0m,,"Enges Tal, Anflug schwierig."
+"TABLAND KatC",TABLAN    C,IT,4637.706N,01058.747E,770.0m,3,180,250.0m,,"einzige theoretische Landemöglichkeit zwischen Schluderns und Meran, Bewässerungsmasten!!!, beste Stelle östlich neben Leitung."
+"TANINGES KatA",TANING    A,FR,4606.000N,00636.000E,625.0m,3,090,300.0m,,""
+"TARASCON KatA",TARASC    A,FR,4347.300N,00441.820E,8.0m,3,180,400.0m,,""
+"TAUFERS KatA",TAUFER    A,IT,4654.822N,01157.538E,860.0m,3,160,450.0m,,"UL-Flugplatz, 20m breit angegeben, www.dolomiti-airshow.com"
+"TECHENDORF KatB",TECHEN    B,AT,4642.670N,01317.950E,935.0m,3,150,290.0m,,""
+"TERNITZ KatA",TERNIT    A,AT,4742.500N,01601.000E,398.0m,3,040,.0m,,""
+"THAL KatC",THAL      C,AT,4646.780N,01238.309E,750.0m,3,000,.0m,,"quasi unlandbar"
+"THALHAMM KatB",THALHA    B,AT,4726.023N,01354.408E,670.0m,3,090,.0m,,""
+"THIERSEE KatC",THIERS    C,AT,4735.526N,01207.425E,620.0m,3,070,220.0m,,"Landerichtung O, Feld steigt stark an; Längsgräben"
+"THORAME KatA",THORAM    A,FR,4404.620N,00628.420E,1100.0m,3,-/0,300.0m,,"Geländestufe!"
+"THUSIS KatA",THUSIS    A,CH,4642.692N,00926.750E,670.0m,3,-/0,250.0m,,"Am alten Feld wurde eine Raststätte errichtet! Wege sind teilweise überrollbar."
+"TIENZENS-STATZ KatB",TIENZE    B,AT,4706.656N,01127.622E,1115.0m,3,-/0,260.0m,,"Flugplatz Innsbruck liegt 19 km entfernt und ist 600m tiefer."
+"TOESENS NORD KatA",TOES-N    A,AT,4701.465N,01037.028E,905.0m,3,040,470.0m,,""
+"TOESENS SUED KatA",TOES-S    A,AT,4700.313N,01035.722E,930.0m,3,030,350.0m,,"Mit  Stein-Mauern  gebildete Absätze beachten!"
+"TOLMIN KatA",TOLMIN    A,SI,4611.211N,01342.353E,170.0m,3,140,300.0m,,""
+"TONALE KatA",TONA-A    A,IT,4615.502N,01034.736E,1885.0m,3,070,1150.0m,,""
+"TRAMONTI KatB",TRAMON    B,IT,4617.050N,01247.980E,390.0m,3,180,160.0m,,"Sehr kurz!"
+"TREFFEN KatA",TREFFE    A,AT,4639.600N,01352.000E,515.0m,3,140,500.0m,,""
+"TRESSDORF KatA",TRESSD    A,AT,4638.149N,01312.043E,610.0m,3,110,300.0m,,""
+"TRETS KatA",TRETS     A,FR,4328.830N,00542.690E,240.0m,3,120,400.0m,,""
+"TREVISO Kat",TREVIS     ,IT,4538.087N,01211.065E,20.0m,3,000,.0m,,""
+"TRIGANCE KatA",TRIGAN    A,FR,4345.290N,00627.300E,740.0m,3,130,400.0m,,""
+"TRISSINO KatA",TRISSI    A,IT,4533.678N,01123.446E,150.0m,3,180,800.0m,,""
+"TRUB KatB",TRUB      B,CH,4656.283N,00752.283E,780.0m,3,000,.0m,,""
+"TSCHAGGUNS KatC",TSCHAG    C,AT,4705.002N,00953.656E,660.0m,3,140,300.0m,,"!!!Nicht mehr nutzbar!!!"
+"TUMPEN OETZTAL KatB",TUMPEN    B,AT,4710.054N,01054.699E,930.0m,3,180,500.0m,,"Viele ca. 50 cm lange Begrenzungs-Stempen! Hochspannungsleitungen!"
+"UMHAUSEN OETZTAL KatB",UMHAUS    B,AT,4707.743N,01055.577E,1075.0m,3,160,450.0m,,"Wiese steigt mäßig steil von Nord nach Süd an!"
+"UNTERAEGERI Kat",UNTERA     ,CH,4708.100N,00834.280E,740.0m,3,000,.0m,,""
+"UNTERAMMERGAU KatA",UNTERA    A,DE,4737.450N,01101.900E,840.0m,3,010,250.0m,,""
+"UNTERBUCHEN KatA",UNTERB    A,DE,4746.911N,01129.170E,632.0m,3,180,300.0m,,"Hochspannungsleitung östlich der Strasse!"
+"UNTERTRIESTING KatB",UNTERT    B,AT,4801.925N,01555.365E,450.0m,3,-/0,350.0m,,""
+"URREITING (ST-JOHANN) KatB",URREIT    B,AT,4722.373N,01312.943E,555.0m,3,180,500.0m,,"Alternative zu St. Johann i.P."
+"URSPRUNG KatB",URSPRU    B,AT,4736.600N,01201.000E,830.0m,3,-/0,200.0m,,"Enges Tal keine normale Platzrunde möglich."
+"UTTENDORF KatB",UTTEND    B,AT,4717.224N,01233.244E,790.0m,3,010,340.0m,,"Landerichtung Nord"
+"VALENTY KatA",VALENT    A,FR,4421.600N,00555.800E,570.0m,3,-/0,400.0m,,""
+"VEZZA-D-OGLI Kat",VEZZA      ,IT,4614.200N,01024.170E,1040.0m,3,000,.0m,,""
+"VIDOR KatA",VIDOR     A,IT,4551.380N,01204.160E,140.0m,3,-/0,400.0m,,""
+"VIEHHOFEN KatB",VIEHHO    B,AT,4721.972N,01242.906E,880.0m,3,-/0,470.0m,,"Der Querweg ist überrollbar!"
+"VIERSCHACH KatB",VIERSC    B,IT,4643.680N,01219.500E,1130.0m,3,090,250.0m,,""
+"VIF KatA",VIF       A,FR,4504.600N,00540.900E,200.0m,3,180,350.0m,,""
+"VILS KatB",VILS      B,AT,4732.890N,01038.700E,825.0m,3,090,470.0m,,"Sehr schmal."
+"VIZILLE KatA",VIZILL    A,FR,4504.800N,00546.650E,280.0m,3,030,350.0m,,""
+"VOLARJE Kat",VOLARJ     ,SI,4612.300N,01340.300E,9999.0m,3,000,000.0m,,""
+"VOLO-DOVERA Kat",VOLO-D     ,IT,4522.670N,00931.570E,70.0m,3,000,.0m,,""
+"VOMP-MOORHOF KatA",VOMP      A,AT,4719.816N,01141.318E,541.0m,3,140,200.0m,,"Mehrere Möglichkeiten"
+"VORAU KatC",VORAU     C,AT,4724.115N,01552.875E,690.0m,3,120,.0m,,""
+"VORDERBERG KatA",VORDEB    A,AT,4635.572N,01330.881E,570.0m,3,120,400.0m,,""
+"VORDERRISS KatC",VORDER    C,DE,4733.563N,01126.412E,810.0m,3,-/0,300.0m,,"Weidezäune in wechselnder Position!Herbst 2003 im westlichen Bereich."
+"VOREPPE Kat",VOREPP     ,FR,4516.500N,00538.000E,200.0m,3,000,.0m,,""
+"WACKERSBERG KatA",WACKER    A,DE,4744.062N,01133.115E,730.0m,3,090,400.0m,,""
+"WAEDENSWIL OST KatA",WAED_O    A,CH,4713.483N,00839.166E,580.0m,3,000,.0m,,""
+"WAEDENSWIL WESR KatA",WAED_W    A,CH,4713.850N,00838.116E,580.0m,3,000,.0m,,""
+"WALCHSEE KatB",WALCHS    B,AT,4738.480N,01217.450E,690.0m,3,080,330.0m,,""
+"WALENSTADT KatA",WALENS    A,CH,4707.033N,00918.533E,420.0m,3,000,.0m,,""
+"WATTWIL KatB",WATTWI    B,CH,4716.816N,00906.016E,620.0m,3,160,300.0m,,"Ebnat-Kappel ist die bessere Wahl!"
+"WEESEN KatA",WEESEN    A,CH,4707.433N,00906.100E,420.0m,3,000,.0m,,""
+"WEGSCHEID KatA",WEGSCH    A,DE,4739.850N,01134.250E,700.0m,3,-/0,200.0m,,""
+"WEINBACH KatA",WEINBA    A,AT,4742.856N,01331.798E,525.0m,3,100,800.0m,,""
+"WEISSBACH KatB",WEISSB    B,AT,4731.575N,01244.510E,660.0m,3,-/0,360.0m,,"sehr enges Tal, keine Platzrunde möglich."
+"WENIGZELL KatB",WENIGZ    B,AT,4725.515N,01547.684E,790.0m,3,-/0,.0m,,""
+"WERTACH KatB",WERTAC    B,DE,4736.200N,01025.100E,890.0m,3,-/0,400.0m,,"Leitungen im Anflug. Einzelwiesen, nach Bewuchs wählen, dazwischen Pfähle und Zäune!"
+"WESTENDORF KatB",WESTEN    B,AT,4725.722N,01212.991E,800.0m,3,100,400.0m,,"Wiese steigt nach SO an, Hangauflandung"
+"WIMMIS KatB",WIMMIS    B,CH,4639.833N,00736.200E,650.0m,3,000,.0m,,""
+"WINDISCHGARSTEN NORD KatA",WIND-N    A,AT,4744.126N,01419.465E,620.0m,3,070,500.0m,,""
+"WINDISCHGARSTEN SUED KatB",WIND-S    B,AT,4742.390N,01418.919E,590.0m,3,-/0,650.0m,,""
+"WOERGL KatA",WOERGL    A,AT,4729.280N,01205.330E,520.0m,3,100,480.0m,,"asphaltierter Querweg im Osten überrollbar"
+"WOERTH-RAURIS KatA",WOERTH    A,AT,4711.940N,01258.848E,960.0m,3,080,300.0m,,""
+"WUERFLACH KatA",WUERFL    A,AT,4746.719N,01604.359E,380.0m,3,060,700.0m,,""
+"WUERMLACH KatA",WUERML    A,AT,4639.820N,01301.478E,680.0m,3,000,700.0m,,"Modellflugplatz bei Öllager"
+"ZAMS KatB",ZAMS      B,AT,4709.300N,01034.825E,770.0m,3,110,200.0m,,""
+"ZELL KatA",ZELL      A,CH,4726.800N,00849.004E,530.0m,3,000,.0m,,"leichte Hanglandung"
+"ZELLER RAIN KatB",ZELLER    B,AT,4747.684N,01512.341E,1067.0m,3,120,300.0m,,""
+"ZERNEZ KatA",ZERNEZ    A,CH,4641.535N,01005.596E,1470.0m,3,080,500.0m,,""
+"ZIGNAU KatB",ZIGNAU    B,CH,4644.650N,00900.730E,840.0m,3,100,400.0m,,"Enges Tal, Hindernisse im Anflug!"
+"ZUG KatC",ZUG       C,AT,4711.980N,01006.230E,1600.0m,3,000,.0m,,""
+"ZUOZ-S-CHANF KatA",ZUOZ-S    A,CH,4635.976N,00957.974E,1660.0m,3,040,400.0m,,"Alternatives Feld süd-östlich der Straße ist eine Golfplatz-Driving-Range! Die Golfbälle fliegen!"
+"Agathazellr Moos","AGATH",DE,4733.300N,01016.367E,727m,5,180,450m,123.350,
+"Altenstadt","ALTES",DE,4750.133N,01052.267E,741m,2,090,680m,122.100,
+"Antersberg","ANTER",DE,4757.767N,01159.767E,498m,4,130,980m,123.350,
+"Bad Buchau Feder","BABUC",DE,4803.300N,00938.383E,579m,4,080,500m,123.150,
+"Bad Endorf Joll","BADEJ",DE,4755.617N,01217.233E,515m,2,160,830m,122.500,
+"Bad Waldsee Reu","BADWA",DE,4754.900N,00942.600E,577m,2,150,660m,123.000,
+"Bad Woerishofen","BADWO",DE,4800.983N,01036.900E,619m,2,080,800m,122.600,
+"Benediktbeuren","BENED",DE,4742.950N,01123.433E,609m,4,090,750m,123.500,
+"Binningen","BINNI",DE,4747.967N,00843.217E,489m,2,070,860m,130.600,
+"Blumberg","BLUMB",DE,4750.667N,00833.917E,701m,2,070,770m,123.050,
+"Bohlhof","BOHLH",DE,4739.050N,00823.200E,558m,4,040,800m,129.975,
+"Brannenburg","BRABU",DE,4744.333N,01206.967E,467m,4,170,400m,122.500,
+"Bremgarten","BREMG",DE,4754.200N,00737.050E,213m,5,050,1660m,122.000,
+"Donaueschingen","DONAE",DE,4758.417N,00831.333E,680m,5,180,1290m,124.250,
+"Eschenlohe","ESCHE",DE,4737.467N,01111.033E,628m,5,170,600m,122.300,
+"Flintsbach","FLINB",DE,4743.350N,01206.850E,489m,4,090,430m,122.500,
+"Freiburg","FREIB",DE,4801.367N,00749.967E,242m,5,160,1230m,118.250,
+"Friedrichshafen","FRIEL",DE,4740.283N,00930.683E,418m,5,060,2360m,120.075,
+"Fuessen","FUESS",DE,4735.000N,01041.450E,787m,4,080,1030m,123.350,
+"Geitau","GEITA",DE,4740.767N,01157.733E,818m,4,160,550m,123.400,
+"Geratshof","GERAT",DE,4759.583N,01050.617E,634m,4,080,250m,123.500,
+"Greiling B Toelz","GREIL",DE,4745.917N,01135.717E,713m,5,030,1250m,123.350,
+"Heiligenberg","HEILI",DE,4750.000N,00918.067E,759m,4,180,500m,123.500,
+"Herten Rheinfld","HERTE",DE,4733.600N,00744.900E,284m,2,060,710m,123.250,
+"Hilzingen","HILZI",DE,4745.633N,00846.050E,459m,4,090,820m,123.375,
+"Huetten Hotzenwl","HUETH",DE,4737.983N,00756.483E,873m,4,110,710m,130.125,
+"Isny Rotmoos","ISNYR",DE,4742.017N,01001.233E,689m,4,080,450m,123.500,
+"Kaufbeuren","KAUFB",DE,4751.683N,01036.850E,726m,5,020,1830m,122.200,
+"Kempten Durach","KEMPT",DE,4741.467N,01020.283E,710m,2,170,890m,122.000,
+"Kirchzarten","KIRCH",DE,4757.050N,00757.350E,415m,4,180,1170m,122.475,
+"Klippeneck","KLIPP",DE,4806.467N,00845.750E,962m,4,050,1040m,122.175,
+"Koenigsdorf","KOENI",DE,4749.717N,01127.967E,600m,5,100,740m,118.275,
+"Konstanz","KONST",DE,4740.900N,00908.283E,396m,2,120,930m,124.350,
+"Landsberg Mil","LANDS",DE,4804.233N,01054.367E,622m,5,070,2050m,122.100,
+"Leibertingen","LEBRT",DE,4802.683N,00901.833E,833m,4,100,940m,129.975,
+"Leutkirch Unter","LEUTK",DE,4751.533N,01000.867E,640m,5,060,1010m,122.875,
+"Markdorf","MARKD",DE,4742.567N,00923.350E,431m,4,130,600m,123.350,
+"Memmingen Allgae","MEMMI",DE,4759.333N,01014.367E,628m,5,060,2970m,126.850,
+"Mengen Hohenteng","MENGE",DE,4803.233N,00922.367E,555m,5,080,1590m,122.375,
+"Mindelheim Matt","MINDE",DE,4806.467N,01031.483E,567m,5,150,1140m,122.975,
+"Muellheim","MUELL",DE,4749.450N,00738.383E,292m,4,160,700m,129.975,
+"Neuhausen Ob Eck","NEUEC",DE,4758.600N,00854.250E,806m,5,090,1230m,130.500,
+"Oberpfaffenhofen","OBERP",DE,4804.883N,01116.983E,594m,5,040,2300m,119.550,
+"Ochsenhausen","OCHSH",DE,4803.200N,00954.950E,650m,4,080,320m,123.500,
+"Paterzell","PATER",DE,4750.750N,01103.667E,595m,5,180,480m,123.500,
+"Pfullendorf","PFULL",DE,4754.567N,00915.050E,699m,2,020,590m,123.250,
+"Reiselfingen","REISE",DE,4751.100N,00822.283E,746m,4,070,610m,123.000,
+"Saulgau","SAULG",DE,4801.767N,00930.433E,582m,5,130,430m,123.600,
+"Schoenberg","SCHON",DE,4802.867N,01230.033E,543m,2,080,430m,118.550,
+"Schwenningen A N","SCHWN",DE,4803.933N,00834.267E,667m,5,050,800m,122.850,
+"Stahringen Wahlw","STAHR",DE,4748.167N,00858.767E,421m,4,010,700m,130.125,
+"Tannheim","TANNH",DE,4800.600N,01005.950E,561m,2,090,1010m,122.825,
+"Teisendorf Pank","TEISE",DE,4749.583N,01250.700E,578m,4,150,250m,123.500,
+"Unterwoessen","UNTER",DE,4743.783N,01226.283E,565m,5,060,800m,122.300,
+"Vogtareuth","VOGTA",DE,4756.767N,01212.283E,471m,5,060,500m,121.025,
+"Wangen Kissleg","WANKI",DE,4745.400N,00951.367E,640m,4,120,770m,123.500,
+"Warngau Tannried","WARNG",DE,4749.467N,01142.250E,732m,5,020,550m,123.050,
+"Wildberg Bodense","WILDB",DE,4736.017N,00944.517E,532m,4,030,370m,118.550,
+"Woerishofen Gld","WOERR",DE,4801.617N,01036.133E,616m,4,080,630m,123.350,
+"AiX En Diois Cls","AIXEN",FR,4441.350N,00524.533E,531m,2,150,300m,130.000,
+"AiX Les Milles","AIXLE",FR,4330.317N,00522.050E,105m,5,150,1590m,118.750,
+"Albertville","ALBRV",FR,4537.633N,00619.750E,314m,5,050,800m,123.500,
+"Amberieu","AMBRI",FR,4559.300N,00519.683E,246m,5,010,1990m,122.100,
+"Annecy Meythetr","ANNEC",FR,4555.750N,00605.933E,456m,5,040,1590m,118.200,
+"Annemasse","ANNEM",FR,4611.517N,00616.100E,494m,5,120,1290m,125.875,
+"Arbois Gld","ARBOI",FR,4655.117N,00545.683E,261m,4,140,920m,,
+"Aspres Sur Buech","ASPRE",FR,4431.067N,00544.167E,826m,2,180,890m,123.500,
+"Aubenasson Gld","AUBNA",FR,4441.700N,00509.033E,244m,4,090,770m,123.500,
+"Avignon Caumont","AVIGN",FR,4354.400N,00454.117E,37m,5,170,1870m,122.600,
+"Avignon Puja Gld","AVIGP",FR,4359.817N,00445.300E,46m,4,170,1350m,123.350,
+"Bale Mulhouse","BALEM",FR,4735.400N,00731.750E,271m,5,160,3880m,118.300,
+"Barcelonnett Gld","BARCL",FR,4423.233N,00636.567E,1137m,5,090,800m,123.500,
+"Beaune Challang","BEAUN",FR,4700.317N,00453.600E,198m,5,030,1050m,129.025,
+"Belfort Chau Gld","BELFO",FR,4742.067N,00649.850E,418m,4,180,920m,123.500,
+"Bellegarde Gld","BELLV",FR,4607.450N,00548.333E,494m,5,010,650m,,
+"Belleville","BELLE",FR,4608.467N,00442.833E,212m,2,160,560m,,
+"Belley Peyrieu","BELLP",FR,4541.700N,00541.533E,226m,2,010,620m,123.700,
+"Berre La Fare","BERRE",FR,4332.267N,00510.667E,34m,2,090,1110m,119.500,
+"Besancon La Veze","BESAN",FR,4712.400N,00605.033E,385m,5,050,1380m,122.200,
+"Besancon Thi Gld","BESAT",FR,4716.417N,00605.000E,244m,4,070,950m,123.500,
+"Bourg Ceyzer Gld","BOURC",FR,4612.100N,00517.500E,262m,5,180,1140m,118.450,
+"Broye Les Pesmes","BROYE",FR,4720.133N,00530.800E,208m,5,180,2370m,122.100,
+"Cannes Mandelieu","CANNE",FR,4332.783N,00657.250E,3m,5,170,1590m,118.625,
+"Carpentras Gld","CARPE",FR,4401.667N,00505.050E,113m,5,130,1200m,118.175,
+"Cereste Prv 36","CEREA",FR,4351.183N,00533.000E,324m,2,080,780m,123.500,
+"Chalons Champfor","CHALC",FR,4649.700N,00449.017E,189m,5,170,1440m,118.600,
+"Chambery AiX","CHAMA",FR,4538.350N,00552.800E,238m,5,180,2020m,118.300,
+"Chambery Cha Gld","CHAMB",FR,4533.633N,00558.550E,296m,5,150,980m,118.400,
+"Champagnole1","CHAPG",FR,4645.867N,00549.217E,534m,2,010,800m,,
+"Chaumont","CHAUM",FR,4804.617N,00509.083E,358m,2,170,1190m,122.150,
+"Chaumont Semouti","CHAMS",FR,4804.800N,00502.850E,305m,5,010,1500m,118.775,
+"Colmar Meyenheim","COLMM",FR,4755.317N,00723.983E,210m,5,010,2420m,118.950,
+"Corlier","CORLI",FR,4602.383N,00529.783E,841m,2,120,340m,130.000,
+"Courchevel","COURC",FR,4523.833N,00638.083E,2006m,5,040,530m,120.075,
+"Damblain Gld","DAMBL",FR,4805.167N,00539.833E,390m,5,070,2390m,127.250,
+"Dijon Darois Gld","DIJON",FR,4723.150N,00456.817E,480m,5,020,800m,119.550,
+"Dijon Longvic","DIJOL",FR,4715.950N,00505.700E,223m,5,180,2390m,118.325,
+"Dole TavauX","DOLET",FR,4702.400N,00525.883E,196m,5,050,2240m,130.775,
+"Etienne Devoluy?","ETIEN",FR,4440.083N,00554.133E,1889m,2,090,450m,130.000,
+"Fayence Gld","FAYEN",FR,4336.633N,00641.817E,226m,4,100,830m,119.050,
+"Fournet Blanche","FOUNT",FR,4710.600N,00648.733E,876m,2,050,400m,130.250,
+"Gap Tallard Gld","GAPTA",FR,4427.300N,00602.233E,607m,5,030,890m,119.100,
+"Gray St Adri Gld","GRAYS",FR,4725.850N,00536.983E,202m,5,080,800m,,
+"Grenoble St Geoi","GRENS",FR,4521.783N,00519.967E,396m,5,090,3060m,119.300,
+"Grenoble Versoud","GRENO",FR,4513.150N,00550.950E,220m,5,040,890m,121.000,
+"Habere Poche Gld","HABER",FR,4616.283N,00627.817E,1092m,4,020,980m,122.500,
+"Istres Le Tub","ISTRE",FR,4331.350N,00455.450E,24m,5,150,3760m,123.600,
+"L Alpes D Huez","LALPE",FR,4505.300N,00605.050E,1859m,5,060,430m,120.600,
+"La Motte Chalan","LAMOC",FR,4429.983N,00524.167E,881m,2,030,590m,130.000,
+"La Motte Du Gld","LAMOT",FR,4419.467N,00601.883E,660m,4,180,1170m,123.500,
+"La Tour Du P Gld","LATPI",FR,4533.600N,00523.050E,320m,4,120,560m,120.450,
+"Lanans Checked","LANAN",FR,4718.150N,00627.200E,506m,2,030,580m,,
+"Langrois Rol Gld","LANGR",FR,4757.850N,00517.617E,421m,4,180,920m,,
+"Le Mazet De Gld","LEMAZ",FR,4346.267N,00453.667E,119m,4,180,980m,118.450,
+"Lons Le Saunier","LONSL",FR,4640.517N,00528.200E,232m,2,080,1110m,,
+"Lure Malbouhans","LUREM",FR,4742.183N,00632.683E,318m,5,040,2400m,,
+"LuXEuil St Sauve","LUXEU",FR,4747.233N,00621.900E,277m,5,040,2300m,122.100,
+"Lyon Brindas","LYONR",FR,4542.700N,00441.833E,317m,2,010,430m,123.500,
+"Lyon Bron","LYONB",FR,4543.767N,00456.333E,201m,5,160,1810m,118.100,
+"Lyon Corbas Gld","LYONC",FR,4539.250N,00454.783E,198m,4,180,890m,119.050,
+"Lyon Satolas","LYONS",FR,4543.700N,00505.300E,250m,5,180,4010m,120.450,
+"Macon Charnay","MACON",FR,4617.750N,00447.750E,223m,5,170,1230m,119.000,
+"Malapez","MALPZ",FR,4433.217N,00526.317E,1056m,2,060,170m,130.000,
+"MaseveauX Oberbr","MASVE",FR,4748.267N,00656.817E,454m,2,130,410m,123.500,
+"Megeve","MEGEV",FR,4549.367N,00638.983E,1452m,5,160,400m,118.500,
+"Meribel","MERIB",FR,4524.450N,00634.650E,1719m,5,150,400m,118.750,
+"Monaco","MONAC",FR,4343.533N,00725.150E,6m,5,050,0m,123.025,
+"Mont Dauphin Cre","MONTD",FR,4442.100N,00635.983E,902m,5,160,860m,123.500,
+"Montbeliard","MONTB",FR,4729.200N,00647.483E,317m,5,080,1690m,132.025,
+"Montelimar Ancon","MONTE",FR,4435.017N,00444.400E,73m,2,020,1200m,123.500,
+"Montmeilleur","MOMEI",FR,4447.633N,00545.850E,910m,2,090,550m,,
+"Morestel Gld","MORES",FR,4541.267N,00527.183E,244m,4,130,800m,,
+"Mulhouse Hab Gld","MULHO",FR,4744.483N,00725.917E,237m,5,020,980m,125.250,
+"Nice Cote D Azur","NICEC",FR,4339.917N,00712.900E,3m,5,040,2970m,118.700,
+"Nossage Le Prio","NOSSA",FR,4418.750N,00544.683E,700m,2,010,450m,,
+"Nuits St Georges","NUITS",FR,4708.583N,00458.117E,244m,2,120,950m,129.025,
+"Orange Caritat","ORANC",FR,4408.400N,00452.117E,61m,5,140,2390m,120.700,
+"Orange Plan De D","ORAPL",FR,4410.800N,00455.133E,92m,5,160,1600m,118.925,
+"Orange Travailla","ORATR",FR,4410.900N,00455.500E,95m,2,170,560m,120.700,
+"OyonnaX Arbent","OYONN",FR,4616.750N,00540.017E,537m,5,040,860m,,
+"Perouges Me","PEROU",FR,4552.300N,00511.100E,213m,2,170,680m,120.000,
+"Pierrelatte Gld","PIERR",FR,4423.933N,00443.050E,61m,4,180,1200m,118.975,
+"Pontarlier","PONTA",FR,4654.250N,00619.617E,817m,5,020,980m,135.700,
+"Puimoisson Gld","PUIMO",FR,4352.167N,00609.850E,762m,4,070,760m,122.500,
+"Romans St Pa Gld","ROMAN",FR,4503.967N,00506.167E,180m,4,060,920m,118.800,
+"Sainte CroiX Gld","SAINC",FR,4346.700N,00609.583E,653m,4,150,700m,122.500,
+"Sallanches","SALLA",FR,4557.233N,00638.317E,537m,5,170,590m,123.500,
+"Salon","SALON",FR,4336.383N,00506.583E,61m,5,160,1990m,122.100,
+"Salon Eyguieres","SALOE",FR,4339.500N,00500.783E,76m,2,090,1290m,120.450,
+"Serres La Batie","SERRE",FR,4427.433N,00543.633E,716m,2,180,650m,123.500,
+"Seyne Gld","SEYNE",FR,4420.600N,00622.167E,1185m,4,130,720m,118.450,
+"Sisteron Gld","SISTE",FR,4417.200N,00555.767E,540m,4,180,1170m,120.050,
+"Sollieres Sardie","SOLLI",FR,4515.233N,00648.083E,1299m,2,020,620m,123.500,
+"St Auban Gld","STAUB",FR,4403.600N,00559.450E,460m,4,030,1200m,122.300,
+"St Christol Urge","STCHR",FR,4403.417N,00529.733E,835m,5,160,1690m,122.100,
+"St Claude Pratz","STCLA",FR,4623.117N,00546.233E,616m,2,050,500m,,
+"St Jean Avelan","STJEN",FR,4531.000N,00540.800E,296m,2,030,500m,123.500,
+"St Jean En Royan","STJRO",FR,4501.667N,00518.567E,265m,2,130,650m,123.500,
+"St Rambert D Alb","STRAM",FR,4515.117N,00449.633E,152m,2,010,890m,,
+"Til Chatel","TILCH",FR,4732.850N,00512.683E,287m,2,110,1050m,129.025,
+"Tournus Cuisery","TOURC",FR,4633.767N,00458.567E,207m,2,010,740m,,
+"Valence Chabeuil","VALEN",FR,4455.217N,00458.200E,162m,5,010,2080m,120.100,
+"Valloire Bon","VALLO",FR,4507.267N,00625.133E,1700m,5,180,300m,,
+"Valreas Visan","VALRE",FR,4420.150N,00454.417E,141m,2,020,1010m,,
+"Vesoul Frotey","VESOU",FR,4738.317N,00612.250E,381m,5,080,1440m,118.150,
+"Vienne Reventin","VIENN",FR,4527.850N,00449.733E,220m,2,010,650m,118.100,
+"Vinon Gld","VINON",FR,4344.267N,00547.017E,274m,4,020,1260m,118.150,
+"Aigen Mil","AIGEN",AT,4732.283N,01408.383E,637m,2,090,800m,118.000,
+"Feldkirchen","FELDK",AT,4642.517N,01404.583E,521m,2,020,590m,122.700,
+"Ferlach Glainach","FERLA",AT,4631.950N,01419.850E,457m,2,040,650m,123.600,
+"Friesach Hirth","FRIES",AT,4655.650N,01425.917E,616m,2,170,710m,122.075,
+"Fuerstenfeld","FUERF",AT,4703.717N,01605.067E,253m,5,130,680m,122.700,
+"Gmunden","GMUND",AT,4757.050N,01351.900E,509m,5,080,560m,122.075,
+"Graz","GRAZ",AT,4659.583N,01526.350E,341m,5,170,3000m,118.200,
+"Hohenems Dornbir","HOHND",AT,4723.083N,00942.033E,412m,5,050,620m,121.200,
+"Innsbruck","INNSB",AT,4715.617N,01120.633E,579m,5,080,1990m,120.100,
+"Kapfenberg","KAPFE",AT,4727.450N,01519.867E,515m,2,070,590m,119.700,
+"Klagenfurt","KLAGE",AT,4638.567N,01420.233E,448m,5,100,2720m,118.100,
+"Koppl","KOPPL",AT,4748.567N,01308.583E,763m,2,050,270m,122.700,
+"Kufstein","KUFST",AT,4733.850N,01207.650E,485m,2,060,800m,122.375,
+"Lanzen Turnau","LANZE",AT,4733.400N,01519.317E,786m,2,070,680m,122.500,
+"Lienz Nikolsdorf","LIENZ",AT,4647.900N,01252.700E,637m,5,120,620m,122.500,
+"Mariazell","MARIA",AT,4747.367N,01518.017E,860m,5,150,500m,122.100,
+"Mauterndorf","MAUTE",AT,4707.917N,01341.767E,1110m,2,070,800m,122.850,
+"Mayerhofen","MAYER",AT,4658.533N,01422.250E,646m,2,080,400m,122.850,
+"Micheldorf","MICHD",AT,4752.350N,01407.550E,460m,2,140,470m,123.400,
+"Niederoeblarn","NIEDO",AT,4728.717N,01400.467E,652m,5,040,710m,122.700,
+"Noetsch","NOETS",AT,4634.833N,01337.700E,549m,2,090,710m,122.400,
+"Pinkafeld Prv","PINKA",AT,4723.217N,01606.767E,408m,2,150,620m,123.400,
+"Reutte Hoefen","REUTT",AT,4728.283N,01041.517E,854m,2,050,500m,122.400,
+"Salzburg","SALZB",AT,4747.667N,01300.200E,430m,5,160,2750m,118.100,
+"Scharnstein","SCHAR",AT,4753.883N,01356.317E,537m,2,050,590m,122.500,
+"Seitenstetten","SEITE",AT,4803.033N,01439.717E,320m,2,100,830m,123.600,
+"St Georgen YBbs","STGEO",AT,4806.200N,01457.067E,253m,2,040,470m,122.400,
+"St Johann I T","STJOH",AT,4731.233N,01226.967E,671m,5,130,740m,120.350,
+"Timmersdorf","TIMME",AT,4722.783N,01457.850E,628m,2,120,620m,122.300,
+"Trieben","TRIEB",AT,4729.617N,01429.800E,695m,5,110,770m,122.500,
+"Weiz Unterfladni","WEIZU",AT,4710.217N,01539.850E,396m,2,180,430m,122.175,
+"Wolfsberg","WOLFS",AT,4649.067N,01449.533E,445m,2,010,740m,123.500,
+"Zell Am See","ZELLA",AT,4717.483N,01247.433E,752m,5,080,650m,119.700,
+"Zeltweg","ZELTW",AT,4712.217N,01444.750E,677m,5,080,2750m,118.700,
+"Alpnach Mil","ALPNA",CH,4656.633N,00817.050E,439m,5,040,2140m,120.625,
+"Ambri Piotta","AMBRP",CH,4630.783N,00841.367E,988m,5,110,1990m,118.525,
+"Amlikon Gld","AMLIK",CH,4734.450N,00902.850E,418m,4,090,770m,132.575,
+"Bad Ragaz Gld","BADRA",CH,4700.900N,00928.917E,494m,5,120,500m,123.500,
+"Bellechasse","BELCS",CH,4658.767N,00707.933E,433m,5,080,490m,122.375,
+"Bern Belp","BERNB",CH,4654.817N,00729.883E,509m,5,140,1500m,121.025,
+"BeX","BEX",CH,4615.500N,00659.183E,399m,2,150,680m,122.150,
+"Biel Kappelen","BIELK",CH,4705.350N,00717.400E,439m,2,050,560m,123.150,
+"Birrfeld Gld","BIRRF",CH,4726.617N,00814.033E,396m,5,080,680m,123.550,
+"Buochs","BUOCH",CH,4658.467N,00823.817E,448m,5,070,1990m,119.625,
+"Buttwil","BUTTW",CH,4715.883N,00818.150E,722m,2,160,680m,122.150,
+"Courtelary Gld","COURT",CH,4711.000N,00705.417E,686m,4,060,500m,124.600,
+"Dittingen Gld","DITTI",CH,4726.350N,00729.400E,540m,4,110,620m,118.175,
+"Dubendorf Mil","DUBEN",CH,4723.900N,00838.867E,442m,5,110,2360m,128.475,
+"Ecuvillens","ECUVI",CH,4645.300N,00704.567E,698m,5,100,800m,118.975,
+"Emmen Mil","EMMEN",CH,4705.417N,00818.233E,427m,5,040,2510m,120.425,
+"Fricktal Schupfa","FRICK",CH,4730.533N,00757.000E,546m,2,070,530m,119.550,
+"Geneve Cointrin","GENEV",CH,4614.300N,00606.567E,430m,5,050,3880m,118.700,
+"Grenchen Gld","GRENC",CH,4710.883N,00724.983E,430m,5,070,980m,120.100,
+"Gruyeres","GRUYE",CH,4635.650N,00705.667E,689m,2,170,800m,124.675,
+"Hausen Am Albis","HAUSE",CH,4714.317N,00830.933E,588m,5,090,680m,130.750,
+"Interlaken Mil","INTER",CH,4640.600N,00752.750E,576m,2,050,1900m,120.525,
+"Kaegiswil","KAEWI",CH,4654.450N,00815.200E,465m,5,030,900m,120.625,
+"La Cote","LACOT",CH,4624.383N,00615.483E,412m,2,040,560m,123.650,
+"Langenthal Gld","LANGT",CH,4710.967N,00744.483E,482m,5,050,590m,119.400,
+"Lausanne La Blec","LAUSA",CH,4632.717N,00637.000E,622m,5,180,860m,123.200,
+"Les Eplatures Ch","LESEP",CH,4705.050N,00647.617E,1027m,5,060,1140m,118.125,
+"Locarno Gld","LOCAR",CH,4609.650N,00852.717E,198m,5,080,800m,134.825,
+"Lodrino Mil","LODRI",CH,4617.617N,00859.583E,259m,2,160,1000m,119.625,
+"Lommis","LOMMI",CH,4731.500N,00900.267E,469m,2,060,620m,119.300,
+"Lugano","LUGAN",CH,4600.217N,00854.617E,281m,5,010,1350m,120.250,
+"Luzern Beromunst","LUZER",CH,4711.400N,00812.283E,655m,2,160,500m,122.450,
+"Meiringen Mil","MEIRI",CH,4644.533N,00806.550E,576m,2,060,2420m,130.150,
+"Mollis Mil","MOLLI",CH,4704.717N,00903.900E,448m,2,020,1000m,134.825,
+"Montricher Gld","MONTR",CH,4635.417N,00624.033E,665m,4,030,620m,133.200,
+"Motiers","MOTIE",CH,4655.000N,00636.900E,732m,2,050,560m,126.650,
+"Muenster Aero","MUESR",CH,4628.817N,00815.800E,1335m,5,050,960m,122.075,
+"Neuchatel Colomi","NEUCH",CH,4657.450N,00651.883E,436m,5,050,680m,123.600,
+"Olten Gld","OLTEN",CH,4720.533N,00753.167E,418m,4,050,800m,118.775,
+"Payerne Mil","PAYER",CH,4650.533N,00654.850E,445m,5,050,2850m,128.675,
+"Porrentruy","PORRE",CH,4724.633N,00703.100E,436m,2,070,620m,122.050,
+"Raron","RARON",CH,4618.267N,00749.367E,638m,5,100,1200m,126.975,
+"Reichenbach Mil","REICM",CH,4636.817N,00740.667E,727m,5,040,890m,127.700,
+"Saanen","SAANE",CH,4629.183N,00714.917E,1009m,5,080,1380m,119.425,
+"Samedan Gld","SAMED",CH,4632.067N,00953.033E,1707m,5,030,1810m,135.325,
+"San Vittore","SANVI",CH,4614.050N,00905.650E,265m,2,080,800m,122.075,
+"Schaenis Gld","SCHAE",CH,4710.300N,00902.367E,416m,5,160,520m,120.600,
+"Schaffhausen","SCHAF",CH,4741.433N,00831.617E,463m,2,070,530m,121.050,
+"Sion Gld","SION",CH,4613.150N,00719.617E,482m,5,070,1990m,118.275,
+"Sitterdorf","SITTE",CH,4730.533N,00915.767E,506m,2,080,470m,118.350,
+"Speck Fehraltorf","SPECK",CH,4722.583N,00845.450E,537m,2,120,590m,120.350,
+"St Gallen Altenr","STGAL",CH,4729.100N,00933.717E,399m,5,100,1500m,118.650,
+"St Stephan Mil","STSTE",CH,4629.883N,00724.717E,1008m,5,150,1400m,120.050,
+"Thun Gld","THUN",CH,4645.383N,00736.033E,561m,4,140,800m,123.250,
+"Triengen","TRIEN",CH,4713.600N,00804.683E,485m,5,150,370m,124.525,
+"Turtmann Mil","TURTM",CH,4618.267N,00742.817E,625m,5,080,2200m,126.975,
+"Wangen Lachen","WANGL",CH,4712.283N,00852.017E,409m,5,080,500m,123.200,
+"Winterthur","WINTE",CH,4730.900N,00846.317E,459m,2,010,690m,134.975,
+"Yverdon Les","YVERD",CH,4645.717N,00636.800E,433m,5,050,860m,131.125,
+"Zuerich","ZUERI",CH,4727.483N,00832.883E,433m,5,160,3700m,118.100,
+"Zweisimmen Fpl","ZWEIS",CH,4633.150N,00722.833E,935m,5,170,670m,121.225,
+"Albenga","ALBEN",IT,4403.017N,00807.733E,33m,5,090,1410m,123.850,
+"Alessandria","ALESS",IT,4455.500N,00837.517E,92m,2,030,650m,,
+"Alzate Brianza","ALZAT",IT,4546.200N,00909.650E,384m,5,030,590m,123.500,
+"Ancona Falconara","ANCON",IT,4337.000N,01321.617E,15m,5,040,2970m,119.800,
+"Aosta","AOSTA",IT,4544.317N,00722.083E,546m,5,090,1230m,119.950,
+"Asiago","ASIAG",IT,4553.267N,01131.000E,1039m,5,080,1110m,122.600,
+"Aviano","AVIAN",IT,4601.800N,01235.933E,125m,5,050,2600m,122.100,
+"Belluno","BELLU",IT,4610.033N,01214.867E,378m,2,050,800m,,
+"Bergamo Orio","BERGM",IT,4540.133N,00942.017E,238m,5,100,2940m,120.500,
+"Biella Cerrione","BIELL",IT,4529.717N,00806.167E,274m,5,160,1320m,123.050,
+"Bologna","BOLOG",IT,4431.850N,01117.817E,37m,5,120,2790m,120.800,
+"Bolzano Bozen","BOLZA",IT,4627.617N,01119.583E,241m,5,010,1290m,120.600,
+"Brescia Montichi","BRESC",IT,4525.733N,01019.833E,110m,5,140,3000m,119.400,
+"Busano Erficie","BUSAN",IT,4518.650N,00739.917E,295m,2,180,400m,130.000,
+"Ca Negra","CANEG",IT,4504.967N,01209.333E,1m,2,050,660m,120.200,
+"Calcinate Piemon","CALCI",IT,4548.583N,00846.083E,244m,2,100,590m,128.450,
+"Cameri Mil","CAMER",IT,4531.867N,00839.917E,180m,5,170,3000m,122.100,
+"Carpi Budrione","CARPI",IT,4450.100N,01052.300E,21m,5,020,830m,119.650,
+"Casale Monferrat","CASAL",IT,4506.667N,00827.367E,116m,2,090,860m,,
+"Ceresara","CERSR",IT,4515.883N,01035.017E,42m,2,120,530m,130.000,
+"Cervia","CEVIN",IT,4413.300N,01219.050E,6m,5,120,3060m,122.100,
+"Cinquale Massa A","CINQU",IT,4345.117N,01008.583E,4m,2,0,0m,120.350,
+"Comina Pordenone","COMIN",IT,4559.700N,01239.400E,70m,2,020,400m,128.450,
+"Cortina Mil Cls","CORTI",IT,4634.533N,01206.883E,1300m,5,170,500m,,
+"Costermano Gld","COSMA",IT,4535.200N,01045.433E,216m,4,150,710m,124.550,
+"Cremona Migliaro","CREMO",IT,4510.033N,01000.117E,49m,5,090,650m,119.650,
+"Cuneo Levaldigi","CUNEO",IT,4432.850N,00737.383E,387m,5,030,2080m,119.550,
+"Enemonzo Gld","ENEMO",IT,4624.267N,01253.217E,372m,4,080,600m,122.000,
+"Fano","FANO",IT,4349.550N,01301.650E,15m,2,050,1350m,,
+"Ferrara Gld","FERRA",IT,4448.950N,01136.800E,6m,5,090,890m,122.500,
+"Florence","FLORE",IT,4348.517N,01112.167E,43m,5,050,1750m,118.300,
+"Forli","FORLI",IT,4411.733N,01204.183E,28m,5,120,2240m,118.950,
+"Francavilla Bisi","FRANB",IT,4443.800N,00843.800E,160m,2,150,800m,130.000,
+"Genova Sestri","GENOV",IT,4424.800N,00850.250E,3m,5,110,2910m,118.600,
+"Ghedi Mil","GHEDI",IT,4525.900N,01016.050E,101m,5,130,3000m,122.100,
+"Gorizia","GORIZ",IT,4554.400N,01335.950E,64m,2,090,1110m,119.850,
+"Il Borroosuperfi","ILBOR",IT,4332.450N,01142.150E,270m,2,020,900m,123.450,
+"Ivrea Montal Dor","IVREA",IT,4529.017N,00751.233E,244m,2,140,850m,130.000,
+"Legnago","LEGNA",IT,4507.983N,01117.533E,9m,2,090,620m,,
+"Lucca Tassignano","LUCCA",IT,4349.783N,01034.733E,12m,5,100,890m,122.500,
+"Lugo Di Romagna","LUGOD",IT,4423.883N,01151.283E,18m,5,090,800m,119.650,
+"Maniago","MANIA",IT,4607.850N,01243.700E,242m,2,170,1450m,,
+"Masera Aviosupe","MASER",IT,4608.000N,00818.350E,283m,5,010,800m,130.000,
+"Massa Cinquale","MASSA",IT,4359.150N,01008.567E,3m,2,050,710m,120.350,
+"Milano Bresso","MILAN",IT,4532.483N,00912.133E,146m,5,180,1080m,122.000,
+"Milano Linate","MILAL",IT,4526.967N,00916.700E,107m,5,180,2450m,118.100,
+"Milano Malpensa","MILAM",IT,4537.800N,00843.383E,235m,5,170,3910m,119.000,
+"Modena Marzaglia","MODEN",IT,4438.083N,01048.617E,55m,5,110,800m,119.550,
+"Molinella Gld","MOLIN",IT,4436.017N,01139.467E,10m,4,040,1230m,126.900,
+"Montagnana Pd","MONGN",IT,4515.000N,01125.567E,20m,2,0,0m,130.000,
+"Montegaldella","MONGA",IT,4526.667N,01139.067E,23m,2,100,650m,130.000,
+"Montemarenzo Kon","MOMRZ",IT,4545.717N,00926.700E,196m,5,180,300m,130.000,
+"Novi Ligure Gld","NOVIL",IT,4446.800N,00847.183E,186m,4,180,1050m,122.500,
+"Ozzano Aeroporto","OZZAN",IT,4428.200N,01132.500E,10m,4,0,0m,128.450,
+"Padova","PADOV",IT,4523.767N,01150.883E,12m,5,040,1110m,123.250,
+"Parma","PARMA",IT,4449.333N,01017.717E,49m,5,020,2110m,118.450,
+"Pavullo Gld","PAVUL",IT,4419.350N,01049.900E,682m,4,020,840m,,
+"Piacenza","PIACE",IT,4454.833N,00943.233E,140m,5,120,3000m,122.100,
+"Piazzola Sul Bre","PIAZZ",IT,4532.833N,01145.733E,26m,2,070,780m,130.400,
+"Pisa San Giusto","PISAS",IT,4340.967N,01023.733E,3m,5,040,3000m,119.100,
+"Pontedera","PONDE",IT,4339.467N,01037.050E,13m,5,0,1130m,123.500,
+"Prati Vecchi Agu","PRTVI",IT,4447.417N,01140.150E,6m,2,100,740m,122.600,
+"Ravenna","RAVEN",IT,4421.867N,01213.483E,1m,5,080,1200m,123.500,
+"Reggio Emilia","REGGI",IT,4441.933N,01039.750E,46m,5,110,1200m,127.150,
+"Rimini Miramare","RIMIN",IT,4401.167N,01236.567E,12m,5,130,3000m,119.100,
+"Rivoli Di Os Gld","RIVOD",IT,4614.083N,01304.383E,175m,4,020,750m,122.600,
+"Rivolto","RIVOL",IT,4558.767N,01302.983E,55m,5,060,3000m,122.100,
+"Rovigo Aeroport","ROVIG",IT,4502.000N,01149.667E,10m,4,0,0m,130.000,
+"Rubbiano Prv Gld","RUBBI",IT,4440.333N,01003.717E,160m,4,030,660m,130.000,
+"Salgareda Carrer","SALGA",IT,4541.950N,01232.583E,2m,2,150,680m,118.000,
+"Sarzana","SARZA",IT,4405.333N,00959.333E,12m,5,180,890m,119.650,
+"Sassuolo Aviosup","SASSU",IT,4434.267N,01046.800E,94m,2,010,600m,,
+"Sondrio Caiolo","SONDR",IT,4609.250N,00947.883E,274m,5,080,1050m,129.500,
+"Sterzing Mil Gld","STERZ",IT,4653.017N,01126.617E,939m,5,130,550m,122.600,
+"Thiene","THIEN",IT,4540.533N,01129.783E,104m,2,090,1200m,126.900,
+"Toblach Mil","TOBLA",IT,4643.633N,01213.633E,1240m,2,100,800m,,
+"Torino Aerit Gld","TORIN",IT,4505.183N,00736.217E,281m,5,100,1080m,119.800,
+"Torino Caselle","TORIC",IT,4512.150N,00738.967E,302m,5,180,3300m,118.500,
+"Trento Mattarell","TRENT",IT,4601.300N,01107.483E,189m,5,180,980m,119.650,
+"Trevisio Istrana","TREVO",IT,4541.100N,01204.967E,43m,5,080,3000m,122.100,
+"Treviso S Angelo","TREVI",IT,4539.050N,01211.883E,18m,5,070,2420m,118.700,
+"Trieste Ronchi","TRIES",IT,4549.667N,01328.067E,10m,5,090,3000m,130.200,
+"Udine Campoform","UDINE",IT,4601.933N,01311.100E,90m,5,040,900m,119.050,
+"Valbrembo","VALBR",IT,4543.233N,00935.617E,229m,2,090,680m,122.600,
+"Valle Gaffaro","VALGA",IT,4450.000N,01213.933E,2m,2,160,900m,,
+"Varese Venegono","VARES",IT,4544.483N,00853.200E,320m,5,180,1410m,128.550,
+"Venezia San Nico","VENEZ",IT,4525.733N,01223.267E,3m,2,050,980m,118.525,
+"Venezia Tessera","VENET",IT,4530.317N,01221.117E,3m,5,040,3300m,120.200,
+"Vercelli","VERLL",IT,4518.667N,00825.050E,128m,2,090,560m,122.600,
+"Vergiate","VERGI",IT,4542.783N,00841.950E,262m,5,160,800m,119.775,
+"Verona Bosco Gld","VERON",IT,4528.317N,01055.683E,82m,5,080,1010m,124.450,
+"Verona Villafran","VEROV",IT,4523.783N,01053.283E,73m,5,040,3060m,118.650,
+"Vicenza Tommaso","VICEN",IT,4534.300N,01131.617E,40m,5,180,1500m,122.100,
+"Voghera Rivanazz","VOGHE",IT,4457.183N,00900.967E,126m,5,160,980m,119.650,
+"Ajdovscina Leta","AJDOV",SI,4553.350N,01353.217E,116m,2,090,1200m,123.500,
+"Bovec Letalisce","BOVEC",SI,4619.717N,01332.917E,432m,2,070,890m,123.500,
+"Celje Gld","CELJE",SI,4614.733N,01513.383E,244m,4,110,890m,121.000,
+"Cerklje Mil","CERKL",SI,4553.983N,01531.883E,152m,2,090,2400m,122.100,
+"Lesce Bled Gld","LESCE",SI,4621.433N,01410.433E,504m,4,130,1150m,123.500,
+"Ljubljana Brnik","LJUBL",SI,4613.467N,01427.367E,387m,5,130,3300m,118.000,
+"Maribor","MARIB",SI,4628.800N,01541.167E,268m,5,150,2510m,119.200,
+"Novo Mesto Letal","NOVOM",SI,4548.500N,01507.000E,167m,2,050,400m,123.500,
+"Portoroz","PORTZ",SI,4528.400N,01336.900E,3m,5,150,1200m,129.325,
+"Postojna Let Gld","POSTO",SI,4545.000N,01412.000E,531m,4,020,400m,123.500,
+"Ptuj Moskanjci","PTUJM",SI,4625.650N,01558.950E,168m,4,110,620m,123.500,
+"Slovenj Gradec","SLOVE",SI,4628.300N,01507.017E,500m,5,140,1200m,123.500,
+"Velenje Lajsegld","VELEN",SI,4623.850N,01502.717E,391m,5,150,750m,122.500,
+"Asturias","ASTUR",ES,4333.817N,00602.083W,128m,5,110,2210m,118.150,
+"Ribadeo Villafra","RIBAD",ES,4333.150N,00705.267W,22m,2,080,600m,,
+"Bihac Golubic Bo","BIHAC",BA,4447.767N,01554.217E,232m,2,120,1110m,,
+"Busevec Velika G","BUSEV",HR,4538.850N,01607.467E,104m,2,140,890m,,
+"Grobnicko Polje","GROBN",HR,4522.767N,01430.217E,308m,5,070,1590m,,
+"Krk Rijeka","KRKRI",HR,4513.000N,01434.217E,85m,5,140,2510m,119.000,
+"Losinj Island","LOSIN",HR,4433.950N,01423.583E,46m,5,020,890m,120.300,
+"Medulin Campanoz","MEDUL",HR,4450.600N,01354.250E,52m,2,120,800m,123.500,
+"Otocac","OTOCA",HR,4450.750N,01517.600E,469m,2,150,1630m,123.500,
+"Pula","PULA",HR,4453.617N,01355.333E,82m,5,090,2940m,120.000,
+"Udbina","UDBIN",HR,4433.333N,01546.917E,750m,5,130,2750m,118.200,
+"Unije","UNIJE",HR,4437.700N,01414.467E,12m,2,050,830m,123.500,
+"Vrsar Crljenka","VRSAR",HR,4508.500N,01337.833E,37m,5,180,680m,,
+"Zadar Zemunik","ZADAR",HR,4406.500N,01520.800E,88m,5,040,1990m,123.700,
+"Zagreb Lucko Cro","ZAGRL",HR,4546.017N,01550.917E,122m,2,100,830m,124.500,
+"Zagreb Pleso","ZAGRE",HR,4544.583N,01604.117E,107m,5,050,3240m,118.300,
