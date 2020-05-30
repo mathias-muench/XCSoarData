@@ -15,7 +15,7 @@
 
 * - -----------------------------------------------------------------------------------
 * 	 originator:               ofmx editor (build 338)
-* 	 created:                  5/23/2020 3:00:33 AM UTC
+* 	 created:                  5/30/2020 12:53:44 AM UTC
 * - -----------------------------------------------------------------------------------
 *THIS FILE IS OPTIMIZED FOR USAGE WITH DESKTOP STREPLA
 * - STATIC AIRSPACE DATA *
