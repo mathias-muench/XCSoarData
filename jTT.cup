@@ -1,0 +1,6 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"Unterwössen",,,4743.783N,01226.283E,0m,0,,,,
+"Grafenau",,,4849.317N,01322.050E,0m,0,,,,
+"Cham Janahof",,,4912.683N,01239.417E,0m,0,,,,
+-----Related Tasks-----
+"Unt-Gra-Cha-Unt","Unterwössen","Unterwössen","Grafenau","Cham Janahof","Unterwössen","Unterwössen",
