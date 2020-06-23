@@ -932,6 +932,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Smeralda",SME,IT,4053.403N,00930.077E,18.0m,9,,,"113.90",""
 "Soave [LIPX]",PXE1=SOAVE,IT,4525.500N,01114.500E,,1,,,"",""
 "Sona [LIPX]",PXW3=SONA,IT,4526.083N,01049.833E,,1,,,"",""
+"Sonalo Ospitale",LISONDA,IT,4620.011N,01019.882E,3600.0ft,,000,, ,"" 
 "Soragna [LIMP]",MPNW2=SORAGNA,IT,4455.750N,01007.283E,,1,,,"",""
 "Sorlini",LIBS17,IT,4531.017N,01027.883E,639.0ft,2,153,700.0m, 130.000 (INFO) ,"" 
 "Sorrento",SOR,IT,4034.950N,01420.100E,502.0m,9,,,"112.20","1) MAINT: primo TUE di ogni mese/first TUE each month 0830-1000 (0730-0900)"
