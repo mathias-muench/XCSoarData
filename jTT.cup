@@ -2,5 +2,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Abflug Wossner See",,,4743.583N,01228.283E,0m,0,,,,
 "Albstadt  Deger",,,4814.983N,00903.850E,0m,0,,,,
 "Weiden  Oberpfal",,,4940.733N,01207.000E,0m,0,,,,
+"Albstadt Degerfeld",,,4814.983N,00903.617E,0m,0,,,,
 -----Related Tasks-----
-"Abf-Alb-Wei-Abf","Abflug Wossner See","Abflug Wossner See","Albstadt  Deger","Weiden  Oberpfal","Abflug Wossner See","Abflug Wossner See",
+"Abf-Alb-Wei-Abf","Abflug Wossner See","Abflug Wossner See","Weiden  Oberpfal","Albstadt Degerfeld","Abflug Wossner See","Abflug Wossner See",
