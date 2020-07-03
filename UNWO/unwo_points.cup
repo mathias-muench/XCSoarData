@@ -131,11 +131,9 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Foehn Zentrum a02km","Dassu","Kiefersfelden","Frassenhuette","Seeleiten","Reither Spitze","Obwallerwand","Dassu"
 "Foehn Zentrum c61km","Dassu","Kiefersfelden","Frassenhuette","Raxbahn Bergstation","Freiburger Huette","Gscheuer-Kopf","Dassu"
 "Jojo Osten a00km","Dassu","Marquartstein","Hochveitsch","Reither Spitze","Reiting SO","Dassu","Dassu"
-"Jojo Westen a02km","???","Hochriesbahn Tal","Frassenhuette","Grimming","Freiburger Huette","Dassu","???"
-"Viereck Osten 707km","Dassu","Grub Jagdhaus","Hochwart","Kabesnock","Hochveitsch","Grub Jagdhaus","Dassu"
-"Viereck Osten 743km","???","Grub Jagdhaus","Raxbahn Bergstation","Huje","Meran-2000","Grub Jagdhaus","???"
-ObsZone=0,Style=2,SpeedStyle=0,R1=500m,A1=180,Line=1
-ObsZone=4,Style=3,SpeedStyle=2,R1=500m,A1=180,Line=1
+"Jojo Westen a02km","Dassu","Hochriesbahn Tal","Frassenhuette","Grimming","Freiburger Huette","Dassu","Dassu"
+"Viereck Osten 707km","Dassu","Grub Jagdhaus","Hochveitsch","Kabesnock","Hochwart","Grub Jagdhaus","Dassu"
+"Viereck Osten 811km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Huje","Meran-2000","Grub Jagdhaus","Dassu"
 "Viereck Zentrum 548km","Dassu","Grub Jagdhaus","Lahngangkogel","Golz","Gschiess","Grub Jagdhaus","Dassu"
 "Viereck Zentrum 675km","Dassu","Grub Jagdhaus","Lahngangkogel","Golz","Klopaier-Spitze","Grub Jagdhaus","Dassu"
 "Viereck Zentrum 697km","Dassu","Grub Jagdhaus","Kalwanger Auslaeufer","Golz","Koepflplatte","Grub Jagdhaus","Dassu"
@@ -145,4 +143,4 @@ ObsZone=4,Style=3,SpeedStyle=2,R1=500m,A1=180,Line=1
 "Viereck Zentrum 776km","Dassu","Grub Jagdhaus","Kampl","Kabesnock","Klopaier-Spitze","Grub Jagdhaus","Dassu"
 "Viereck Zentrum 806km","Dassu","Grub Jagdhaus","Kalwanger Auslaeufer","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Dassu"
 "Viereck Zentrum a01km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Waidisch","Punt Muragl","Grub Jagdhaus","Dassu"
-,"???","Hochriesbahn Tal","Derborance See","Hochriesbahn Tal","???"
+,"Dassu","Hochriesbahn Tal","Derborance See","Hochriesbahn Tal","Dassu"
