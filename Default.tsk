@@ -1,32 +1,32 @@
-<Task fai_finish="0" finish_min_height_ref="MSL" finish_min_height="200" start_max_height_ref="MSL" start_max_height="1500" start_max_speed="0" start_requires_arm="0" aat_min_time="0" type="RT">
+<Task fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="0" start_max_speed="0" start_requires_arm="1" aat_min_time="9600" type="AAT">
 	<Point type="Start">
-		<Waypoint altitude="176" comment="Alt. limits=0-1500" id="1089" name="DRAZOVCE[0-15]">
-			<Location latitude="48.3564" longitude="18.0553"/>
+		<Waypoint altitude="555" comment="" id="964" name="017STARTT17">
+			<Location latitude="42.5583" longitude="12.7664"/>
 		</Waypoint>
 		<ObservationZone length="10000" type="Line"/>
 	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="280" comment="" id="1090" name="SVINNA">
-			<Location latitude="48.7886" longitude="18.1367"/>
+	<Point type="Area">
+		<Waypoint altitude="877" comment="ColSantangelo" id="965" name="082ColSAngelo">
+			<Location latitude="43.1905" longitude="12.8164"/>
 		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
+		<ObservationZone radius="25000" type="Cylinder"/>
 	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="203" comment="" id="1091" name="NOVA BANA">
-			<Location latitude="48.4097" longitude="18.6428"/>
+	<Point type="Area">
+		<Waypoint altitude="440" comment="Popoli" id="966" name="067Popoli">
+			<Location latitude="42.1691" longitude="13.8455"/>
 		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
+		<ObservationZone radius="30000" type="Cylinder"/>
 	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="321" comment="" id="1092" name="NITRIANSKE RUDNO">
-			<Location latitude="48.805" longitude="18.4817"/>
-		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
-	</Point>
-	<Point type="Finish">
-		<Waypoint altitude="131" comment="Alt. limits=200-10000" id="1093" name="Nitra[2-100]">
-			<Location latitude="48.2787" longitude="18.1307"/>
+	<Point type="Area">
+		<Waypoint altitude="720" comment="Morro Reatino Campo di Calcio" id="967" name="020Morro">
+			<Location latitude="42.522" longitude="12.8317"/>
 		</Waypoint>
 		<ObservationZone radius="3000" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="391" comment="Finish Line    Rwy dir:    000 Rwy len:      0m" id="968" name="000RietiFin">
+			<Location latitude="42.4297" longitude="12.8489"/>
+		</Waypoint>
+		<ObservationZone length="2000" type="Line"/>
 	</Point>
 </Task>
