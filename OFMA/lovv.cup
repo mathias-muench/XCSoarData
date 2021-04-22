@@ -514,7 +514,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Staller Sattel",STALLER SATTEL,AT,4653.281N,01211.978E,6732.0ft,6,,,"",""
 "STEIN",STEIN,AT,4725.650N,01635.967E,,1,,,"",""
 "Steinbruch [LOLU]",STEINBRUCH,AT,4755.167N,01346.167E,,1,,,"",""
-"Steinhof",STE,AT,4812.637N,01614.828E,319.0m,10,,,"293","111° MAG, 12.6NM zu/to THR RWY 11; Reichweite/range 25NM."
+"Steinhof",STE,AT,4812.637N,01614.828E,319.0m,10,,,"293","110° MAG, 12.6 NM zu Schwelle Piste 11; Reichweite 25 NM. 110° MAG, 12.6 NM to THR RWY 11; Range 25 NM."
 "Steyr Lkh",LOPT,AT,4802.733N,01423.533E,1135.0m,,000,, ,"" 
 "Steyregg",STEYREGG,AT,4816.812N,01421.944E,,1,,,"",""
 "Stockerau Lkh",LOSTOCK,AT,4823.200N,01612.283E,568.0ft,,000,, ,"" 
