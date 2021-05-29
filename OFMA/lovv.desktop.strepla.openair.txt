@@ -15,7 +15,7 @@
 
 * - -----------------------------------------------------------------------------------
 * 	 originator:               ofmx editor (build 338)
-* 	 created:                  4/22/2021 5:37:31 AM UTC
+* 	 created:                  5/29/2021 4:54:20 AM UTC
 * - -----------------------------------------------------------------------------------
 *THIS FILE IS OPTIMIZED FOR USAGE WITH DESKTOP STREPLA
 * - STATIC AIRSPACE DATA *
@@ -2996,7 +2996,7 @@ DP 47:20:48 N 11:13:24 E
 DP 47:20:52 N 11:13:47 E
 
 AC G
-AN TRA LOWI C 123.40 120.10
+AN TRA LOWI C 120.10
 AH 11000msl
 AL 0agl
 DP 47:17:23 N 11:13:14 E
@@ -3019,7 +3019,7 @@ DP 47:16:31 N 11:15:04 E
 DP 47:17:23 N 11:13:14 E
 
 AC G
-AN TRA LOWI L 123.40 120.10
+AN TRA LOWI L 120.10
 AH 4500msl
 AL 0agl
 DP 47:17:16 N 11:23:51 E
@@ -3032,7 +3032,7 @@ DP 47:16:14 N 11:19:19 E
 DP 47:17:16 N 11:23:51 E
 
 AC G
-AN TRA NORDPARK 123.40 120.10
+AN TRA NORDPARK 120.10
 AH 8000msl
 AL 0agl
 DP 47:17:23 N 11:13:14 E

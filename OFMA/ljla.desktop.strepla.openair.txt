@@ -15,7 +15,7 @@
 
 * - -----------------------------------------------------------------------------------
 * 	 originator:               ofmx editor (build 338)
-* 	 created:                  4/22/2021 3:59:19 AM UTC
+* 	 created:                  5/29/2021 3:27:17 AM UTC
 * - -----------------------------------------------------------------------------------
 *THIS FILE IS OPTIMIZED FOR USAGE WITH DESKTOP STREPLA
 * - STATIC AIRSPACE DATA *
@@ -758,7 +758,7 @@ DP 45:35:36 N 14:22:52 E
 
 AC CTR
 AN CTR CERKLJE 118.555 127.225 127.23
-AH 5000msl
+AH 3100msl
 AL 0agl
 DP 45:50:02 N 15:38:55 E
 DP 46:01:49 N 15:38:28 E

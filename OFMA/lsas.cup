@@ -44,7 +44,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Echo [LSZF]",E,CH,4724.965N,00817.767E,,1,,,"",""
 "Echo [LSZK]",E,CH,4722.783N,00847.533E,,1,,,"",""
 "Ecuvillens",LSGE,CH,4645.300N,00704.567E,2293.0ft,5,095,815.0m, 120.630 (ECUVILLENS AD (EN/FR)) ,"" 
-"Emmen",LSME,CH,4705.542N,00818.307E,427.0m,5,038,2046.0m, 120.425 (EMMEN TWR (EN/GE)) 134.130 (INFO) ,"" 
+"Emmen",LSME,CH,4705.542N,00818.307E,427.0m,5,038,2046.0m, 125.435 (EMMEN RADAR)  120.425 (EMMEN TWR (EN/GE)) 134.130 (INFO) ,"" 
 "End S",END S,CH,4729.117N,00814.133E,,1,,,"",""
 "End W",END W,CH,4727.861N,00809.604E,,1,,,"",""
 "Erstfeld",LSXE,CH,4650.050N,00838.350E,0.0ft,,000,, ,"HERI Swiss Helicopter Management AG" 
