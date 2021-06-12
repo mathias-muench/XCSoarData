@@ -104,4 +104,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Huje",,SI,4624.000N,01415.017E,1345.0m,10,,,,,,
 "Rebro",,SI,4623.600N,01411.683E,1117.0m,10,,,,,,
 "Roblek",,SI,4624.000N,01412.900E,1021.0m,10,,,,,,
+"Kalte Mauer",,AT,4735.977N,01452.192E,1929m,11,,,,
+"Kleiner Hochstadl",,AT,4740.721N,01503.596E,1835m,11,,,,
 -----Related Tasks-----
