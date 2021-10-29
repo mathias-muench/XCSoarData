@@ -15,7 +15,7 @@
 
 * - -----------------------------------------------------------------------------------
 * 	 originator:               ofmx editor (build 338)
-* 	 created:                  5/29/2021 3:27:17 AM UTC
+* 	 created:                  10/14/2021 12:27:05 AM UTC
 * - -----------------------------------------------------------------------------------
 *THIS FILE IS OPTIMIZED FOR USAGE WITH DESKTOP STREPLA
 * - STATIC AIRSPACE DATA *
@@ -2331,7 +2331,7 @@ DP 45:42:42 N 15:15:27 E
 AC D
 AN TMA CERKLJE 2 118.555 127.23
 AH 7500msl
-AL 4500agl
+AL 4500msl
 DP 46:01:23 N 15:06:54 E
 DP 46:01:05 N 15:06:43 E
 DP 46:00:48 N 15:06:33 E
@@ -2418,7 +2418,7 @@ DP 46:01:28 N 15:11:44 E
 AC D
 AN TMA CERKLJE 3 118.555 127.23
 AH 7500msl
-AL 4500agl
+AL 4500msl
 DP 45:50:06 N 15:09:49 E
 DP 45:49:50 N 15:09:55 E
 DP 45:49:35 N 15:10:01 E
@@ -2469,7 +2469,7 @@ DP 45:50:02 N 15:05:25 E
 AC D
 AN TMA CERKLJE 4 118.555 127.23
 AH 7500msl
-AL 5500agl
+AL 5500msl
 DP 46:01:23 N 15:06:54 E
 DP 46:01:21 N 15:04:58 E
 DP 45:54:58 N 15:00:52 E
@@ -2527,7 +2527,7 @@ DP 46:01:03 N 15:06:42 E
 AC D
 AN TMA CERKLJE 6 118.555 127.23
 AH 7500msl
-AL 6500agl
+AL 6500msl
 DP 45:54:58 N 15:00:30 E
 DP 45:54:59 N 14:56:11 E
 DP 45:54:34 N 14:56:10 E
@@ -2559,7 +2559,7 @@ DP 45:54:25 N 15:00:29 E
 AC D
 AN TMA CERKLJE 7 118.555 127.23
 AH 7500msl
-AL 6500agl
+AL 6500msl
 DP 45:49:58 N 15:01:02 E
 DP 45:49:54 N 14:56:41 E
 DP 45:49:29 N 14:56:48 E
@@ -2617,7 +2617,7 @@ DP 45:49:35 N 15:01:09 E
 AC D
 AN TMA CERKLJE 5 118.555 127.23
 AH 7500msl
-AL 5500agl
+AL 5500msl
 DP 45:50:02 N 15:05:25 E
 DP 45:49:58 N 15:01:02 E
 DP 45:49:36 N 15:01:09 E
