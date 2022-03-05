@@ -1,32 +1,32 @@
-<Task fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="0" start_max_speed="0" start_requires_arm="1" aat_min_time="9600" type="AAT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="1" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="FAIGeneral">
 	<Point type="Start">
-		<Waypoint altitude="555" comment="" id="964" name="017STARTT17">
-			<Location latitude="42.5583" longitude="12.7664"/>
+		<Waypoint altitude="575" comment="" id="871" name="Woessener See">
+			<Location latitude="47.7268" longitude="12.4723"/>
 		</Waypoint>
-		<ObservationZone length="10000" type="Line"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="877" comment="ColSantangelo" id="965" name="082ColSAngelo">
-			<Location latitude="43.1905" longitude="12.8164"/>
+	<Point type="Turn">
+		<Waypoint altitude="1945" comment="" id="833" name="Schmittenhoehe">
+			<Location latitude="47.3292" longitude="12.7383"/>
 		</Waypoint>
-		<ObservationZone radius="25000" type="Cylinder"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="440" comment="Popoli" id="966" name="067Popoli">
-			<Location latitude="42.1691" longitude="13.8455"/>
+	<Point type="Turn">
+		<Waypoint altitude="2918" comment="Gipfel" id="815" name="Klopaier-Spitze">
+			<Location latitude="46.8369" longitude="10.5469"/>
 		</Waypoint>
-		<ObservationZone radius="30000" type="Cylinder"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
-	<Point type="Area">
-		<Waypoint altitude="720" comment="Morro Reatino Campo di Calcio" id="967" name="020Morro">
-			<Location latitude="42.522" longitude="12.8317"/>
+	<Point type="Turn">
+		<Waypoint altitude="2649.9" comment="" id="841" name="Tuxer Joch">
+			<Location latitude="47.1018" longitude="11.6343"/>
 		</Waypoint>
-		<ObservationZone radius="3000" type="Cylinder"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="391" comment="Finish Line    Rwy dir:    000 Rwy len:      0m" id="968" name="000RietiFin">
-			<Location latitude="42.4297" longitude="12.8489"/>
+		<Waypoint altitude="555" comment="" id="862" name="Dassu">
+			<Location latitude="47.7297" longitude="12.4381"/>
 		</Waypoint>
-		<ObservationZone length="2000" type="Line"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
 </Task>
