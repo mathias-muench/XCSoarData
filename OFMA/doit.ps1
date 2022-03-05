@@ -1,4 +1,4 @@
-﻿$airac=2110
+﻿$airac=2202
 $shell=new-object -com shell.application
 $Location=$shell.namespace((Get-Location).Path)
 
