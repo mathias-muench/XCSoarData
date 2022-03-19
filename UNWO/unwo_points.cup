@@ -1,6 +1,8 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Chibo D En Haut",Chibo D,,4609.950N,00708.250E,1336.0m,1,,,,,,,
+"l",l,,4743.717N,01531.417E,1510.0m,1,,,,,,,
 "Nuna Piz",W140608,,4642.486N,01009.000E,2556.0m,1,,,,,,,
+"Rottauer Wasserfall",Rottaall,,4747.004N,01225.002E,635.0m,1,,,,,,,
 "Seebergsattel Kaernten",SEEBERGSA,,4625.166N,01431.650E,1215.0m,1,,,,,,,
 "Einwall",EINWALL,AT,4735.500N,01223.000E,0.0m,1,,,,,,,
 "Eisenerzer Reichenstein",Eisenein,AT,4730.162N,01456.064E,2165.0m,1,,,,,"E0",,
@@ -145,3 +147,4 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Zielrueck Ost 501km","Dassu","Dassu","Raxbahn Bergstation","Dassu","Dassu"
 "Zielrueck West 569km","Dassu","Brannenburg","Oberalppass","Brannenburg","Dassu"
 "Zielrueck West 834km","Dassu","Brannenburg","Chibo D En Haut","Brannenburg","Dassu"
+"Viereck Zentrum 806km","???","Marquartstein","Raxbahn Bergstation","Federaun","Marquartstein","???"
