@@ -141,10 +141,11 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Viereck Zentrum 699km","Dassu","Grub Jagdhaus","Eisenerzer Reichenstein","Golz","Venet-Berg","Grub Jagdhaus","Dassu"
 "Viereck Zentrum 768km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Rote Wand","Hochwart","Grub Jagdhaus","Dassu"
 "Viereck Zentrum 769km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Schwandnock","Glaitner Hochjoch","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 776km","Dassu","Grub Jagdhaus","Seeleiten","Kabesnock","Klopaier-Spitze","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 806km","Dassu","Grub Jagdhaus","Kalwanger Auslaeufer","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Dassu"
+"Viereck Zentrum 788km","???","Grub Jagdhaus","Seeleiten","Kabesnock","Klopaier-Spitze","Grub Jagdhaus","???"
+ObsZone=0,Style=2,SpeedStyle=0,R1=5000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m,Line=1
+"Viereck Zentrum 806km","???","Grub Jagdhaus","Eisenerzer Reichenstein","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","???"
+ObsZone=0,Style=2,SpeedStyle=0,R1=5000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m,Line=1
 "Viereck Zentrum a01km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Waidisch","Punt Muragl","Grub Jagdhaus","Dassu"
 "Zielrueck Ost 501km","Dassu","Dassu","Raxbahn Bergstation","Dassu","Dassu"
 "Zielrueck West 569km","Dassu","Brannenburg","Oberalppass","Brannenburg","Dassu"
 "Zielrueck West 834km","Dassu","Brannenburg","Chibo D En Haut","Brannenburg","Dassu"
-"Viereck Zentrum 806km","???","Marquartstein","Raxbahn Bergstation","Federaun","Marquartstein","???"
