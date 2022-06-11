@@ -30,7 +30,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Lahngangkogel",Lahnggel,AT,4731.752N,01430.648E,1778.0m,1,,,,,,,
 "Lehnberghaus",LHNBRGHS,AT,4719.890N,01055.560E,0.0m,1,,,,,"WS1 WS2 WS3",,
 "Mittagskogel",Mittagel,AT,4630.433N,01357.200E,2143.0m,1,,,,,"Gipfel",,
-"Oberort Kirche T",BRRTKRCH,AT,4732.000N,01504.766E,793.0m,1,,,,,,,
 "Obwallerwand",Obwaland,AT,4730.712N,01232.020E,1682.0m,1,,,,,,,
 "Parseier-Spitze",PRSRSPTZ,AT,4710.466N,01028.733E,3036.0m,1,,,,,"WS1 WS2 WS3",,
 "Pletzach-Kogel",PLTZCHKG,AT,4727.183N,01150.833E,1549.0m,1,,,,,"ES2",,
@@ -135,15 +134,12 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Jojo Westen a02km","Dassu","Brannenburg","Frassenhuette","Grimming","Freiburger Huette","Dassu","Dassu"
 "Viereck Osten 811km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Huje","Meran-2000","Grub Jagdhaus","Dassu"
 "Viereck Osten a01km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Waidisch","Punt Muragl","Grub Jagdhaus","Dassu"
-"Viereck Westen 675km","Dassu","Grub Jagdhaus","Lahngangkogel","Golz","Koepflplatte","Grub Jagdhaus","Dassu"
-"Viereck Westen 697km","Dassu","Grub Jagdhaus","Kalwanger Auslaeufer","Golz","Koepflplatte","Grub Jagdhaus","Dassu"
-"Viereck Westen 788km","Dassu","Grub Jagdhaus","Seeleiten","Kabesnock","Koepflplatte","Grub Jagdhaus","Dassu"
-"Viereck Westen 806km","Dassu","Grub Jagdhaus","Eisenerzer Reichenstein","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 548km","Dassu","Grub Jagdhaus","Lahngangkogel","Golz","Gschiess","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 699km","Dassu","Grub Jagdhaus","Eisenerzer Reichenstein","Golz","Venet-Berg","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 707km","Dassu","Grub Jagdhaus","Hochveitsch","Kabesnock","Hochwart","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 768km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Rote Wand","Hochwart","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 769km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Schwandnock","Glaitner Hochjoch","Grub Jagdhaus","Dassu"
+"Viereck Westen 619km","Dassu","Grub Jagdhaus","Grimming","Golz","Koepflplatte","Grub Jagdhaus","Dassu"
+"Viereck Westen 705km","Dassu","Grub Jagdhaus","Grimming","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Dassu"
+"Viereck Westen 803km","Dassu","Grub Jagdhaus","Hochveitsch","Golz","Koepflplatte","Grub Jagdhaus","Dassu"
+"Viereck Westen 933km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Dassu"
+"Viereck Zentrum 677km","Dassu","Grub Jagdhaus","Hochveitsch","Golz","Gschiess","Grub Jagdhaus","Dassu"
+"Viereck Zentrum 774km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Goeriacher Alm SW","Hochwart","Grub Jagdhaus","Dassu"
 "Zielrueck Ost 501km","Dassu","Dassu","Raxbahn Bergstation","Dassu","Dassu"
 "Zielrueck West 569km","Dassu","Brannenburg","Oberalppass","Brannenburg","Dassu"
 "Zielrueck West 834km","Dassu","Brannenburg","Chibo D En Haut","Brannenburg","Dassu"
