@@ -29,6 +29,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Kreuzjoch",,AT,4715.117N,01159.000E,2558.0m,1,,,,,"WT1 WT2 WT3 WS1 WS2 WS3",,
 "Lahngangkogel",,AT,4731.752N,01430.648E,1778.0m,1,,,,,,,
 "Lehnberghaus",,AT,4719.890N,01055.560E,0.0m,1,,,,,"WS1 WS2 WS3",,
+"Mariazell Kirche",,AT,4746.362N,01519.122E,870.0m,1,,,,,,,
 "Mittagskogel",,AT,4630.433N,01357.200E,2143.0m,1,,,,,"Gipfel",,
 "Obwallerwand",,AT,4730.712N,01232.020E,1682.0m,1,,,,,,,
 "Parseier-Spitze",,AT,4710.466N,01028.733E,3036.0m,1,,,,,"WS1 WS2 WS3",,
@@ -52,6 +53,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Sternstein",,AT,4833.591N,01416.045E,1122.0m,1,,,,,,,
 "Torsaeule",,AT,4725.616N,01306.350E,2587.0m,1,,,,,"ES1 ES2 ES3",,
 "Traunstein",,AT,4752.392N,01350.388E,1691.0m,1,,,,,,,
+"Tuernitz Bf",,AT,4755.782N,01529.748E,457.0m,1,,,,,,,
 "Tuxer Joch",,AT,4706.105N,01138.060E,2649.9m,1,,,,,,,
 "Valluga",,AT,4709.466N,01012.833E,2809.0m,1,,,,,"WT1 WT2 WS1 WS2 WS3",,
 "Venet-Berg",,AT,4708.966N,01039.583E,2513.0m,1,,,,,"WT1 WT2 WT3",,
@@ -146,6 +148,9 @@ ObsZone=0,Style=2,SpeedStyle=0,R1=5000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m,Line=1
 "Dreieck Zentrum 818km","Dassu","Grub Jagdhaus","Koschutnik-Turm","Mitgel Piz","Grub Jagdhaus","Dassu"
 "Dreieck Zentrum 872km","Dassu","Grub Jagdhaus","Skuta","Grisch Piz","Grub Jagdhaus","Dassu"
 "Dreieck Zentrum 905km","Dassu","Grub Jagdhaus","Velika Zelenika","Surettahorn","Grub Jagdhaus","Dassu"
+,"???","Grub Jagdhaus","Mariazell Kirche","Hoher Bogen","Grub Jagdhaus","???"
+Options,MinDis=False
+ObsZone=0,Style=2,SpeedStyle=0,R1=5000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m,Line=1
 "Foehn Osten 823km","Dassu","Hindenburghaus","Seeleiten","Scheffauer","Reiting SO","Gscheuer-Kopf","Dassu"
 "Foehn Osten a01km","Dassu","Giessenbachklamm","Raxbahn Bergstation","Scheffauer","Seeleiten","Giessenbachklamm","Dassu"
 "Foehn Osten a09km","Dassu","Hindenburghaus","Raxbahn Bergstation","Scheffauer","Schauerwand","Gscheuer-Kopf","Dassu"
