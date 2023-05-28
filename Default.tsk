@@ -1,18 +1,18 @@
 <Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="RT">
 	<Point type="Start">
-		<Waypoint altitude="467" comment="" id="70" name="Brannenburg">
+		<Waypoint altitude="467" comment="" id="2" name="Brannenburg">
 			<Location latitude="47.7389" longitude="12.1161"/>
 		</Waypoint>
 		<ObservationZone radius="1000" type="Cylinder"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="2044" comment="" id="62" name="Oberalppass">
+		<Waypoint altitude="2044" comment="" id="55" name="Oberalppass">
 			<Location latitude="46.6588" longitude="8.67118"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="467" comment="" id="70" name="Brannenburg">
+		<Waypoint altitude="467" comment="" id="2" name="Brannenburg">
 			<Location latitude="47.7389" longitude="12.1161"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
