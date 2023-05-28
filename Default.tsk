@@ -1,19 +1,25 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="RT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="1" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="FAIGeneral">
 	<Point type="Start">
-		<Waypoint altitude="467" comment="" id="2" name="Brannenburg">
-			<Location latitude="47.7389" longitude="12.1161"/>
+		<Waypoint altitude="720" comment="" id="88" name="Grub Jagdhaus">
+			<Location latitude="47.7428" longitude="12.4745"/>
 		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
+		<ObservationZone length="1000" type="Line"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="2044" comment="" id="55" name="Oberalppass">
-			<Location latitude="46.6588" longitude="8.67118"/>
+		<Waypoint altitude="870" comment="" id="31" name="Mariazell Kirche">
+			<Location latitude="47.7727" longitude="15.3187"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="91" name="Hoher Bogen">
+			<Location latitude="49.2407" longitude="12.9208"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="467" comment="" id="2" name="Brannenburg">
-			<Location latitude="47.7389" longitude="12.1161"/>
+		<Waypoint altitude="720" comment="" id="88" name="Grub Jagdhaus">
+			<Location latitude="47.7428" longitude="12.4745"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
