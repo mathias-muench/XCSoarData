@@ -1,26 +1,26 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="RT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="1" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="FAIGeneral">
 	<Point type="Start">
-		<Waypoint altitude="720" comment="" id="32" name="Grub Jagdhaus">
+		<Waypoint altitude="720" comment="" id="89" name="Grub Jagdhaus">
 			<Location latitude="47.7428" longitude="12.4745"/>
-		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="870" comment="" id="61" name="Mariazell Kirche">
-			<Location latitude="47.7727" longitude="15.3187"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="0" comment="" id="42" name="Hoher Bogen">
-			<Location latitude="49.2407" longitude="12.9208"/>
+		<Waypoint altitude="1433" comment="" id="3" name="Obersberg">
+			<Location latitude="47.8147" longitude="15.6654"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="2259" comment="" id="102" name="Soier-Spitze">
+			<Location latitude="47.4817" longitude="11.3578"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="720" comment="" id="32" name="Grub Jagdhaus">
+		<Waypoint altitude="720" comment="" id="89" name="Grub Jagdhaus">
 			<Location latitude="47.7428" longitude="12.4745"/>
 		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
 </Task>
