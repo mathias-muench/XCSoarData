@@ -123,8 +123,9 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Ursulaberg Kirch",,SI,4629.083N,01457.950E,746.0m,1,,,,,,,
 "Velenje",,SI,4624.000N,01502.580E,0.0m,1,,,,,,,
 "Velika Zelenika",,SI,4621.433N,01440.183E,2100.0m,1,,,,,,,
+"Weiden Oberpfalz",,,4940.733N,01207.000E,0m,0,,,,
 -----Related Tasks-----
-"666 km · Dreieck · DMSt · Grub Jagdhaus_200690","???","Grub Jagdhaus","Obersberg","Hoher Bogen","Grub Jagdhaus","???"
+"666 km · Dreieck · DMSt · Grub Jagdhaus_200690","Grub Jagdhaus","Grub Jagdhaus","Mariazell Kirche","Weiden Oberpfalz","Grub Jagdhaus","Grub Jagdhaus",
 ObsZone=0,Style=2,SpeedStyle=3,R1=1000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m
 ObsZone=1,Style=1,SpeedStyle=3,R1=20000m,A1=45,R2=0m,A2=0,MaxAlt=0.0m
 ObsZone=2,Style=1,SpeedStyle=3,R1=20000m,A1=45,R2=0m,A2=0,MaxAlt=0.0m
