@@ -32,6 +32,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Toblach Mil",,,4643.633N,01213.633E,0m,0,,,,
 "Bolzano Bozen",,,4627.650N,01119.583E,0m,0,,,,
 "Nieder�blarn",,,4728.717N,01400.467E,0m,0,,,,
+"Cham Janahof",,,4912.683N,01239.417E,0m,0,,,,
 -----Related Tasks-----
 "500 ZR Ost","Unterw�ssen","Unterw�ssen","Zell am See"," 16.015E/47.729N","Zell am See","Unterw�ssen","Unterw�ssen",
 "500 ZR West ","Unterw�ssen","Unterw�ssen","Benediktbeuren","  9.452E/46.414N","Unterw�ssen","Unterw�ssen",
@@ -39,8 +40,10 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "500 DR Sued","Unterw�ssen","Unterw�ssen","Lesce Bled","Toblach Mil","Bolzano Bozen","Unterw�ssen","Unterw�ssen",
 "500 VE Sued","Unterw�ssen","Unterw�ssen","Zell am See","Nieder�blarn","N�tsch","Sterzing","Unterw�ssen","Unterw�ssen",
 "500 JO Nord","Unterw�ssen","Unterw�ssen","Grafenau","Amberg","Deggendorf","Unterw�ssen","Unterw�ssen",
+"500 DR Nord","Unterw�ssen","Unterw�ssen","Mariazell","Grafenau","Unterw�ssen","Unterw�ssen",
 "700 ZR Ost","Unterw�ssen","Unterw�ssen","Zell am See"," 15.818E/47.787N","Sterzing","Unterw�ssen","Unterw�ssen",
 "700 ZR West","Unterw�ssen","Unterw�ssen","M�nster LSPU","Unterw�ssen","Unterw�ssen",
 "700 DR Sued","Unterw�ssen","Unterw�ssen","Lesce Bled","Toblach Mil"," 10.201E/46.831N","Unterw�ssen","Unterw�ssen",
 "700 VE Sued","Unterw�ssen","Unterw�ssen","Zell am See","Lanzen Turnau","N�tsch","Sterzing","Unterw�ssen","Unterw�ssen",
 "700 VE Nord","Unterw�ssen","Unterw�ssen","F�ssen","M�nsingen Eisberg","Amberg","Grafenau","Unterw�ssen","Unterw�ssen",
+"700 DR Nord","Unterw�ssen","Unterw�ssen"," 15.818E/47.787N","Cham Janahof","Unterw�ssen","Unterw�ssen",
