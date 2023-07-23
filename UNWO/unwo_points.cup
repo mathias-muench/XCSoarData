@@ -4,6 +4,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Obersberg",,,4748.884N,01539.921E,1433.0m,1,,,,,,,
 "Rottauer Wasserfall",,,4747.004N,01225.002E,635.0m,1,,,,,,,
 "Seebergsattel Kaernten",,,4625.166N,01431.650E,1215.0m,1,,,,,,,
+"Weiden Oberpfalz",,,4940.733N,01207.000E,0.0m,0,,,,,,,
 "Einwall",,AT,4735.500N,01223.000E,0.0m,1,,,,,,,
 "Eisenerzer Reichenstein",,AT,4730.162N,01456.064E,2165.0m,1,,,,,"E0",,
 "Federaun",,AT,4634.266N,01347.966E,700.0m,1,,,,,,,
@@ -79,7 +80,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Brannenburg",,DE,4744.333N,01206.967E,467.0m,1,,,,,,,
 "Brotjacklriegel",,DE,4849.021N,01313.004E,1010.0m,1,,,,,,,
 "Burg Neunussberg",,DE,4904.936N,01256.454E,0.0m,1,,,,,,,
-"Dassu",,DE,4743.783N,01226.283E,555.0m,1,,,,,,,
 "Dreitannenriegel",,DE,4853.835N,01301.327E,1092.0m,1,,,,,,,
 "Geisskopf",,DE,4855.445N,01302.245E,1097.0m,1,,,,,,,
 "Giessenbachklamm",,DE,4736.947N,01208.197E,620.0m,1,,,,,,,
@@ -123,58 +123,49 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc,userdata,pics
 "Ursulaberg Kirch",,SI,4629.083N,01457.950E,746.0m,1,,,,,,,
 "Velenje",,SI,4624.000N,01502.580E,0.0m,1,,,,,,,
 "Velika Zelenika",,SI,4621.433N,01440.183E,2100.0m,1,,,,,,,
-"Weiden Oberpfalz",,,4940.733N,01207.000E,0m,0,,,,
 -----Related Tasks-----
-"666 km · Dreieck · DMSt · Grub Jagdhaus_200690","Grub Jagdhaus","Grub Jagdhaus","Mariazell Kirche","Weiden Oberpfalz","Grub Jagdhaus","Grub Jagdhaus",
-ObsZone=0,Style=2,SpeedStyle=3,R1=1000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m
-ObsZone=1,Style=1,SpeedStyle=3,R1=20000m,A1=45,R2=0m,A2=0,MaxAlt=0.0m
-ObsZone=2,Style=1,SpeedStyle=3,R1=20000m,A1=45,R2=0m,A2=0,MaxAlt=0.0m
-ObsZone=3,Style=3,SpeedStyle=3,R1=1000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m
-"Dreieck Nord 565km","???","Wendelsteinbahn","Witthoh","Rauhe Wanne","Wendelsteinbahn","???"
-ObsZone=0,Style=2,SpeedStyle=0,R1=5000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m,Line=1
-"Dreieck Osten 527km","Dassu","Grub Jagdhaus","Seeleiten","Golz","Grub Jagdhaus","Dassu"
-"Dreieck Osten 552km","Dassu","Grub Jagdhaus","Seeleiten","Waidisch","Grub Jagdhaus","Dassu"
-"Dreieck Osten 645km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Grintavec","Grub Jagdhaus","Dassu"
-"Dreieck Westen 503km","Dassu","Grub Jagdhaus","Rote Wand","Grieskogl","Grub Jagdhaus","Dassu"
-"Dreieck Westen 551km","Dassu","Grub Jagdhaus","Rote Wand","Venet-Berg","Grub Jagdhaus","Dassu"
-"Dreieck Westen 615km","Dassu","Grub Jagdhaus","Rote Wand","Valluga","Grub Jagdhaus","Dassu"
-"Dreieck Westen 651km","Dassu","Grub Jagdhaus","Federaun","Silvretta Stausee","Grub Jagdhaus","Dassu"
-"Dreieck Westen 686km","Dassu","Grub Jagdhaus","Hohe Bleick","Maloja","Speiereck","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 528km","Dassu","Grub Jagdhaus","Rote Wand","Kirchbach-Spitze","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 580km","Dassu","Grub Jagdhaus","Rote Wand","Koepflplatte","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 624km","Dassu","Grub Jagdhaus","Rote Wand","Zuort Piz","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 662km","Dassu","Grub Jagdhaus","Mittagskogel","Ofen Pass","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 663km","Dassu","Grub Jagdhaus","Huje","Koepflplatte","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 679km","Dassu","Grub Jagdhaus","Koschutnik-Turm","Koepflplatte","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 680km","Dassu","Grub Jagdhaus","Mittagskogel","Nuna Piz","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 697km","Dassu","Grub Jagdhaus","Rosenbach Sattel","Piz d' Esan","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 733km","Dassu","Grub Jagdhaus","Huje","Piz d' Esan","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 758km","Dassu","Grub Jagdhaus","Huje","Zuoz","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 771km","Dassu","Grub Jagdhaus","Huje","Punt Muragl","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 801km","Dassu","Grub Jagdhaus","Huje","Mitgel Piz","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 818km","Dassu","Grub Jagdhaus","Koschutnik-Turm","Mitgel Piz","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 872km","Dassu","Grub Jagdhaus","Skuta","Grisch Piz","Grub Jagdhaus","Dassu"
-"Dreieck Zentrum 905km","Dassu","Grub Jagdhaus","Velika Zelenika","Surettahorn","Grub Jagdhaus","Dassu"
-"Foehn Osten 823km","Dassu","Hindenburghaus","Seeleiten","Scheffauer","Reiting SO","Gscheuer-Kopf","Dassu"
-"Foehn Osten a01km","Dassu","Giessenbachklamm","Raxbahn Bergstation","Scheffauer","Seeleiten","Giessenbachklamm","Dassu"
-"Foehn Osten a09km","Dassu","Hindenburghaus","Raxbahn Bergstation","Scheffauer","Schauerwand","Gscheuer-Kopf","Dassu"
-"Foehn Westen 855km","Dassu","Kiefersfelden","Frassenhuette","Torsaeule","Freiburger Huette","Gscheuer-Kopf","Dassu"
-"Foehn Zentrum 844km","Dassu","Kiefersfelden","Wanneck","Seeleiten","Reither Spitze","Obwallerwand","Dassu"
-"Foehn Zentrum a02km","Dassu","Kiefersfelden","Frassenhuette","Seeleiten","Reither Spitze","Obwallerwand","Dassu"
-"Foehn Zentrum c61km","Dassu","Kiefersfelden","Frassenhuette","Raxbahn Bergstation","Freiburger Huette","Gscheuer-Kopf","Dassu"
-"Jojo Nord 501km","???","Grabenstaett","Smrcina / Hochficht","Monte Kaolino","Grabenstaett","???"
-ObsZone=0,Style=2,SpeedStyle=0,R1=5000m,A1=180,R2=0m,A2=0,MaxAlt=0.0m,Line=1
-"Jojo Osten 733km","Dassu","Jochbergalm","Seeleiten","Kreuzjoch","Grimming","Dassu","Dassu"
-"Jojo Osten a00km","Dassu","Marquartstein","Hochveitsch","Reither Spitze","Reiting SO","Dassu","Dassu"
-"Jojo Westen a02km","Dassu","Brannenburg","Frassenhuette","Grimming","Freiburger Huette","Dassu","Dassu"
-"Viereck Osten 811km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Huje","Meran-2000","Grub Jagdhaus","Dassu"
-"Viereck Osten a01km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Waidisch","Punt Muragl","Grub Jagdhaus","Dassu"
-"Viereck Westen 619km","Dassu","Grub Jagdhaus","Grimming","Golz","Koepflplatte","Grub Jagdhaus","Dassu"
-"Viereck Westen 705km","Dassu","Grub Jagdhaus","Grimming","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Dassu"
-"Viereck Westen 803km","Dassu","Grub Jagdhaus","Hochveitsch","Golz","Koepflplatte","Grub Jagdhaus","Dassu"
-"Viereck Westen 933km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 677km","Dassu","Grub Jagdhaus","Hochveitsch","Golz","Gschiess","Grub Jagdhaus","Dassu"
-"Viereck Zentrum 774km","Dassu","Grub Jagdhaus","Raxbahn Bergstation","Goeriacher Alm SW","Hochwart","Grub Jagdhaus","Dassu"
-"Zielrueck Ost 501km","Dassu","Dassu","Raxbahn Bergstation","Dassu","Dassu"
-"Zielrueck West 569km","Dassu","Brannenburg","Oberalppass","Brannenburg","Dassu"
-"Zielrueck West 834km","Dassu","Brannenburg","Chibo D En Haut","Brannenburg","Dassu"
+"Dreieck Osten 527km","Grub Jagdhaus","Grub Jagdhaus","Seeleiten","Golz","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Osten 552km","Grub Jagdhaus","Grub Jagdhaus","Seeleiten","Waidisch","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Osten 645km","Grub Jagdhaus","Grub Jagdhaus","Raxbahn Bergstation","Grintavec","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Westen 503km","Grub Jagdhaus","Grub Jagdhaus","Rote Wand","Grieskogl","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Westen 551km","Grub Jagdhaus","Grub Jagdhaus","Rote Wand","Venet-Berg","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Westen 615km","Grub Jagdhaus","Grub Jagdhaus","Rote Wand","Valluga","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Westen 651km","Grub Jagdhaus","Grub Jagdhaus","Federaun","Silvretta Stausee","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Westen 686km","Grub Jagdhaus","Grub Jagdhaus","Hohe Bleick","Maloja","Speiereck","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 528km","Grub Jagdhaus","Grub Jagdhaus","Rote Wand","Kirchbach-Spitze","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 580km","Grub Jagdhaus","Grub Jagdhaus","Rote Wand","Koepflplatte","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 624km","Grub Jagdhaus","Grub Jagdhaus","Rote Wand","Zuort Piz","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 662km","Grub Jagdhaus","Grub Jagdhaus","Mittagskogel","Ofen Pass","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 663km","Grub Jagdhaus","Grub Jagdhaus","Huje","Koepflplatte","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 679km","Grub Jagdhaus","Grub Jagdhaus","Koschutnik-Turm","Koepflplatte","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 680km","Grub Jagdhaus","Grub Jagdhaus","Mittagskogel","Nuna Piz","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 697km","Grub Jagdhaus","Grub Jagdhaus","Rosenbach Sattel","Piz d' Esan","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 733km","Grub Jagdhaus","Grub Jagdhaus","Huje","Piz d' Esan","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 758km","Grub Jagdhaus","Grub Jagdhaus","Huje","Zuoz","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 771km","Grub Jagdhaus","Grub Jagdhaus","Huje","Punt Muragl","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 801km","Grub Jagdhaus","Grub Jagdhaus","Huje","Mitgel Piz","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 818km","Grub Jagdhaus","Grub Jagdhaus","Koschutnik-Turm","Mitgel Piz","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 872km","Grub Jagdhaus","Grub Jagdhaus","Skuta","Grisch Piz","Grub Jagdhaus","Grub Jagdhaus"
+"Dreieck Zentrum 905km","Grub Jagdhaus","Grub Jagdhaus","Velika Zelenika","Surettahorn","Grub Jagdhaus","Grub Jagdhaus"
+"Foehn Osten 823km","Hindenburghaus","Hindenburghaus","Seeleiten","Scheffauer","Reiting SO","Gscheuer-Kopf","Gscheuer-Kopf"
+"Foehn Osten a01km","Giessenbachklamm","Giessenbachklamm","Raxbahn Bergstation","Scheffauer","Seeleiten","Giessenbachklamm","Giessenbachklamm"
+"Foehn Osten a09km","Hindenburghaus","Hindenburghaus","Raxbahn Bergstation","Scheffauer","Schauerwand","Gscheuer-Kopf","Gscheuer-Kopf"
+"Foehn Westen 855km","Kiefersfelden","Kiefersfelden","Frassenhuette","Torsaeule","Freiburger Huette","Gscheuer-Kopf","Gscheuer-Kopf"
+"Foehn Zentrum 844km","Kiefersfelden","Kiefersfelden","Wanneck","Seeleiten","Reither Spitze","Obwallerwand","Obwallerwand"
+"Foehn Zentrum a02km","Kiefersfelden","Kiefersfelden","Frassenhuette","Seeleiten","Reither Spitze","Obwallerwand","Obwallerwand"
+"Foehn Zentrum c61km","Kiefersfelden","Kiefersfelden","Frassenhuette","Raxbahn Bergstation","Freiburger Huette","Gscheuer-Kopf","Gscheuer-Kopf"
+"Jojo Nord 501km","Grabenstaett","Grabenstaett","Smrcina / Hochficht","Monte Kaolino","Grabenstaett","Grabenstaett"
+"Jojo Osten 733km","Jochbergalm","Jochbergalm","Seeleiten","Kreuzjoch","Grimming","Jochbergalm","Jochbergalm"
+"Jojo Osten a00km","Marquartstein","Marquartstein","Hochveitsch","Reither Spitze","Reiting SO","Marquartstein","Marquartstein"
+"Jojo Westen a02km","Brannenburg","Brannenburg","Frassenhuette","Grimming","Freiburger Huette","Brannenburg","Brannenburg"
+"Viereck Osten 811km","Grub Jagdhaus","Grub Jagdhaus","Raxbahn Bergstation","Huje","Meran-2000","Grub Jagdhaus","Grub Jagdhaus"
+"Viereck Osten a01km","Grub Jagdhaus","Grub Jagdhaus","Raxbahn Bergstation","Waidisch","Punt Muragl","Grub Jagdhaus","Grub Jagdhaus"
+"Viereck Westen 619km","Grub Jagdhaus","Grub Jagdhaus","Grimming","Golz","Koepflplatte","Grub Jagdhaus","Grub Jagdhaus"
+"Viereck Westen 705km","Grub Jagdhaus","Grub Jagdhaus","Grimming","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Grub Jagdhaus"
+"Viereck Westen 803km","Grub Jagdhaus","Grub Jagdhaus","Hochveitsch","Golz","Koepflplatte","Grub Jagdhaus","Grub Jagdhaus"
+"Viereck Westen 933km","Grub Jagdhaus","Grub Jagdhaus","Raxbahn Bergstation","Goeriacher Alm SW","Nuna Piz","Grub Jagdhaus","Grub Jagdhaus"
+"Viereck Zentrum 677km","Grub Jagdhaus","Grub Jagdhaus","Hochveitsch","Golz","Gschiess","Grub Jagdhaus","Grub Jagdhaus"
+"Viereck Zentrum 774km","Grub Jagdhaus","Grub Jagdhaus","Raxbahn Bergstation","Goeriacher Alm SW","Hochwart","Grub Jagdhaus","Grub Jagdhaus"
+"Zielrueck Ost 501km","Marquartstein","Marquartstein","Raxbahn Bergstation","Marquartstein","Marquartstein"
+"Zielrueck West 569km","Brannenburg","Brannenburg","Oberalppass","Brannenburg","Brannenburg"
+"Zielrueck West 834km","Brannenburg","Brannenburg","Chibo D En Haut","Brannenburg","Brannenburg"
