@@ -1,26 +1,32 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="RT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="1" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="FAIGeneral">
 	<Point type="Start">
-		<Waypoint altitude="463" comment="" id="2599" name="Brannenburg Inn Bruecke">
-			<Location latitude="47.74" longitude="12.1358"/>
-		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="879" comment="" id="2600" name="Mariazell Wallfahrtskirche">
-			<Location latitude="47.7733" longitude="15.3192"/>
+		<Waypoint altitude="577" comment="" id="701" name="Woessener See Strandbad">
+			<Location latitude="47.7275" longitude="12.4722"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="475" comment="" id="2601" name="Silbersee Staudamm">
-			<Location latitude="49.4083" longitude="12.6061"/>
+		<Waypoint altitude="946" comment="" id="702" name="Gollrad Kirche">
+			<Location latitude="47.6533" longitude="15.3067"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="1800" comment="" id="630" name="Golz">
+			<Location latitude="46.672" longitude="13.3667"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="2059" comment="" id="703" name="Saun">
+			<Location latitude="46.9141" longitude="11.4827"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="463" comment="" id="2599" name="Brannenburg Inn Bruecke">
-			<Location latitude="47.74" longitude="12.1358"/>
+		<Waypoint altitude="577" comment="" id="701" name="Woessener See Strandbad">
+			<Location latitude="47.7275" longitude="12.4722"/>
 		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
 </Task>
