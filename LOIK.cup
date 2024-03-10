@@ -1,0 +1,8 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,rwwidth,freq,desc
+"SÖLL","SÖLL",AT,4730.700N,01212.500E,669.0M,19,,,,,"Reporting Point, Non-Compulsory"
+"KUFSTEIN","KUFST",AT,4734.600N,01211.300E,904.0M,19,,,,,"Reporting Point, Non-Compulsory"
+"OBERNDORF","OBERN",AT,4736.400N,01212.400E,480.0M,19,,,,,"Reporting Point, Non-Compulsory"
+"WÖRGL","WÖRGL",AT,4729.700N,01203.600E,496.0M,19,,,,,"Reporting Point, Non-Compulsory"
+"UMSPANNWERK","UMSPA",AT,4731.400N,01204.600E,496.0M,19,,,,,"Reporting Point, Non-Compulsory"
+"KLÄRWERK","KLÄRW",AT,4732.200N,01206.600E,494.0M,19,,,,,"Reporting Point, Non-Compulsory"
+"EIBERG","EIBER",AT,4732.500N,01210.400E,644.0M,19,,,,,"Reporting Point, Non-Compulsory"
