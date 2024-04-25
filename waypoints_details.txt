@@ -1,0 +1,1786 @@
+[Abfaltersbach (Kat B 2011)]
+image=pics/1_165_osm.jpg
+image=pics/2_186.jpg
+
+[Achenkirch Nord (Kat B 2018)]
+image=pics/1_380_osm.jpg
+image=pics/2_748.jpg
+
+[Achenkirch Sued (Kat A 2023)]
+image=pics/1_166_osm.jpg
+image=pics/2_191.jpg
+
+[Admont (Kat A 2022)]
+image=pics/1_363_osm.jpg
+image=pics/2_697.jpg
+
+[Agordo (Kat A 2013)]
+image=pics/1_91_osm.jpg
+image=pics/2_89.jpg
+
+[Aich (Kat A 2022)]
+image=pics/1_334_osm.jpg
+image=pics/2_608.jpg
+
+[Aich Assach (Kat A 2021)]
+image=pics/1_402_osm.jpg
+image=pics/2_2099.jpg
+
+[Aichlmuehl (Kat B 2020)]
+image=pics/1_488_osm.jpg
+image=pics/2_1013.jpg
+
+[Airstrip Kichdorfer Heide (Kat A 2021)]
+image=pics/1_4799_osm.jpg
+
+[Almsee (Kat B 2020)]
+image=pics/1_373_osm.jpg
+image=pics/2_727.jpg
+
+[Altdorf (Kat B 2023)]
+image=pics/1_452_osm.jpg
+
+[Altenmarkt (Kat B 2021)]
+image=pics/1_167_osm.jpg
+image=pics/2_192.jpg
+
+[Altmuenster (Kat A 2021)]
+image=pics/1_374_osm.jpg
+image=pics/2_729.jpg
+
+[Alvaneu-Bad (Kat B 2022)]
+image=pics/1_243_osm.jpg
+
+[Always (Kat B 2004)]
+image=pics/1_698_osm.jpg
+
+[Amtzell (Kat A 2003)]
+image=pics/1_310_osm.jpg
+
+[AMZS KOčevje (Kat B 2022)]
+image=pics/1_4894_osm.jpg
+image=pics/2_2744.jpg
+
+[Andeer (Kat B 2020)]
+image=pics/1_244_osm.jpg
+
+[Andelsbuch (Kat A 2021)]
+image=pics/1_168_osm.jpg
+image=pics/2_194.jpg
+
+[Andermatt (Kat A 2020)]
+image=pics/1_245_osm.jpg
+
+[Antdorf (Kat B 2023)]
+image=pics/1_855_osm.jpg
+
+[Arcisate (Kat B 2018)]
+image=pics/1_890_osm.jpg
+
+[Argenbuehl (Kat A 2003)]
+image=pics/1_2_osm.jpg
+
+[Arzberg (Kat A 2022)]
+image=pics/1_4928_osm.jpg
+
+[Aschau (Kat B 2023)]
+image=pics/1_169_osm.jpg
+image=pics/2_198.jpg
+
+[Aschau im Chiemgau (Kat A 2022)]
+image=pics/1_4897_osm.jpg
+image=pics/2_2787.jpg
+
+[Aschbach (Kat B 2022)]
+image=pics/1_494_osm.jpg
+image=pics/2_1025.jpg
+
+[Asolo (Kat B 2024)]
+image=pics/1_699_osm.jpg
+image=pics/2_3514.jpg
+
+[Aurach (Kat B 2021)]
+image=pics/1_384_osm.jpg
+image=pics/2_1122.jpg
+
+[Bach (Kat A 2023)]
+image=pics/1_316_osm.jpg
+image=pics/2_549.jpg
+
+[Bad Goisern (Kat B 2021)]
+image=pics/1_375_osm.jpg
+image=pics/2_733.jpg
+
+[Bad Ischl (Kat A 2021)]
+image=pics/1_457_osm.jpg
+image=pics/2_940.jpg
+
+[Bad-Hofgastein-Nord (Kat B 2023)]
+image=pics/1_474_osm.jpg
+image=pics/2_985.jpg
+
+[Bad-Hofgastein-Sued (Kat A 2023)]
+image=pics/1_475_osm.jpg
+image=pics/2_987.jpg
+
+[Barco (Kat A 2023)]
+image=pics/1_95_osm.jpg
+image=pics/2_2737.jpg
+
+[Bauma (Kat B 2021)]
+image=pics/1_246_osm.jpg
+
+[Bayrischzell (Kat A 2021)]
+image=pics/1_385_osm.jpg
+image=pics/2_762.jpg
+
+[Bennau (Kat A 2022)]
+image=pics/1_247_osm.jpg
+
+[Berg Ravensburg? (Kat B 2004)]
+image=pics/1_680_osm.jpg
+
+[Bludenz (Kat B 2022)]
+image=pics/1_171_osm.jpg
+
+[Bocking (Kat B 2021)]
+image=pics/1_386_osm.jpg
+image=pics/2_2131.jpg
+
+[Bodenbauer Hochschwab (Kat B 2021)]
+image=pics/1_403_osm.jpg
+
+[Bonaduz (Kat A 2022)]
+image=pics/1_884_osm.jpg
+
+[Borgo Ticino Ul (Kat B 2004)]
+image=pics/1_700_osm.jpg
+
+[Bormio-Sud (Kat B 2004)]
+image=pics/1_97_osm.jpg
+
+[Boschhof (Kat A 2013)]
+image=pics/1_3_osm.jpg
+image=pics/2_6.jpg
+
+[Bramberg (Kat A 2023)]
+image=pics/1_172_osm.jpg
+image=pics/2_206.jpg
+
+[Brebbia (Kat A 2018)]
+image=pics/1_888_osm.jpg
+
+[Brederis (Kat A 2011)]
+image=pics/1_376_osm.jpg
+image=pics/2_737.jpg
+
+[Breno-Nord (Kat B 2009)]
+image=pics/1_98_osm.jpg
+
+[Brescia (Kat A 2023)]
+image=pics/1_4958_osm.jpg
+
+[Brezzo di Bedero (Kat A 2023)]
+image=pics/1_886_osm.jpg
+
+[Brixen Im Thale (Kat A 2021)]
+image=pics/1_440_osm.jpg
+image=pics/2_905.jpg
+
+[Brunico (Kat B 2013)]
+image=pics/1_100_osm.jpg
+image=pics/2_99.jpg
+
+[Brunnsee (Kat B 2022)]
+image=pics/1_1_osm.jpg
+image=pics/2_1.jpg
+
+[Burgstall (Kat B 2023)]
+image=pics/1_873_osm.jpg
+
+[Buetschwil (Kat A 2020)]
+image=pics/1_248_osm.jpg
+
+[Carnia (Kat B 2023)]
+image=pics/1_357_osm.jpg
+image=pics/2_3427.jpg
+
+[Cassola (Kat B 2023)]
+image=pics/1_701_osm.jpg
+
+[Castrisch (Kat B 2023)]
+image=pics/1_5257_osm.jpg
+
+[Cavalese (Kat B 2023)]
+image=pics/1_4993_osm.jpg
+image=pics/2_3118.jpg
+
+[Cavazzo-Carn (Kat B 2003)]
+image=pics/1_103_osm.jpg
+image=pics/2_3441.jpg
+
+[Cepovan (Kat A 2022)]
+image=pics/1_300_osm.jpg
+image=pics/2_496.jpg
+
+[Cernica (Kat B 2018)]
+image=pics/1_710_osm.jpg
+
+[Charrat (Kat A 2019)]
+image=pics/1_249_osm.jpg
+image=pics/2_426.jpg
+
+[Chiuro (Kat B 2023)]
+image=pics/1_105_osm.jpg
+image=pics/2_3146.jpg
+
+[Cielo-Blu (Kat B 2009)]
+image=pics/1_106_osm.jpg
+
+[Cimolais (Kat A 2013)]
+image=pics/1_107_osm.jpg
+image=pics/2_101.jpg
+
+[Clusone (Kat B 2003)]
+image=pics/1_108_osm.jpg
+
+[Colico (Kat B 2018)]
+image=pics/1_891_osm.jpg
+
+[Colico-Piana (Kat B 2009)]
+image=pics/1_109_osm.jpg
+image=pics/2_103.jpg
+
+[Cortina Campo (Kat B 2023)]
+image=pics/1_110_osm.jpg
+image=pics/2_105.jpg
+
+[Corvara (Kat A 2020)]
+image=pics/1_111_osm.jpg
+image=pics/2_109.jpg
+
+[Crete-Longue (Kat B 2003)]
+image=pics/1_250_osm.jpg
+
+[Cunters (Kat B 2011)]
+image=pics/1_498_osm.jpg
+
+[Davos See (Kat B 2022)]
+image=pics/1_450_osm.jpg
+image=pics/2_927.jpg
+
+[Disentis (Kat B 2020)]
+image=pics/1_252_osm.jpg
+
+[Dob (Volčje Njive) (Kat B 2022)]
+image=pics/1_4884_osm.jpg
+image=pics/2_2739.jpg
+
+[Dolenja vas (Kat A 2022)]
+image=pics/1_4890_osm.jpg
+image=pics/2_2769.jpg
+
+[Dolenja Vas (Kat B 2021)]
+image=pics/1_418_osm.jpg
+
+[Dolenje Mokro Polje (Kat B 2022)]
+image=pics/1_4883_osm.jpg
+image=pics/2_2740.jpg
+
+[Dollinger (Kat B 2020)]
+image=pics/1_421_osm.jpg
+image=pics/2_855.jpg
+
+[Domat-Ems (Kat A 2020)]
+image=pics/1_885_osm.jpg
+
+[Dorfgastein (Kat A 2023)]
+image=pics/1_476_osm.jpg
+image=pics/2_989.jpg
+
+[Dubino (Kat B 2023)]
+image=pics/1_112_osm.jpg
+image=pics/2_111.jpg
+
+[Duernbach (Kat A 2021)]
+image=pics/1_4_osm.jpg
+image=pics/2_1115.jpg
+
+[Ebnat-Kappel (Kat A 2020)]
+image=pics/1_295_osm.jpg
+
+[Egg Unterbach (Kat B 2022)]
+image=pics/1_4943_osm.jpg
+image=pics/2_2942.jpg
+
+[Ehrwald (Kat B 2008)]
+image=pics/1_394_osm.jpg
+image=pics/2_788.jpg
+
+[Einsiedeln (Kat A 2022)]
+image=pics/1_253_osm.jpg
+
+[Eisenerz (Kat B 2022)]
+image=pics/1_455_osm.jpg
+image=pics/2_934.jpg
+
+[Eisenkappel (Kat A 2011)]
+image=pics/1_173_osm.jpg
+image=pics/2_207.jpg
+
+[Ellmau (Kat B 2019)]
+image=pics/1_344_osm.jpg
+image=pics/2_643.jpg
+
+[Embach Ost (Kat B 2023)]
+image=pics/1_856_osm.jpg
+image=pics/2_2038.jpg
+
+[Erl (Kat A 2021)]
+image=pics/1_4538_osm.jpg
+image=pics/2_1815.jpg
+
+[Erpfendorf (Kat A 2023)]
+image=pics/1_174_osm.jpg
+image=pics/2_209.jpg
+
+[Eschelbach Ul (Kat A 2021)]
+image=pics/1_682_osm.jpg
+
+[Eschenlohe Autobahn A95 #2 (Kat A 2021)]
+image=pics/1_4665_osm.jpg
+image=pics/2_2141.jpg
+
+[Escholzmatt (Kat A 2020)]
+image=pics/1_506_osm.jpg
+
+[Fall-Sylvens (Kat A 2023)]
+image=pics/1_5_osm.jpg
+image=pics/2_1784.jpg
+
+[Farchant Nord (Kat B 2021)]
+image=pics/1_6_osm.jpg
+image=pics/2_15.jpg
+
+[Farchant Sued (Kat B 2023)]
+image=pics/1_382_osm.jpg
+image=pics/2_755.jpg
+
+[Farra-D-Soli (Kat A 2013)]
+image=pics/1_113_osm.jpg
+image=pics/2_113.jpg
+
+[Federaun (Kat B 2021)]
+image=pics/1_175_osm.jpg
+image=pics/2_1817.jpg
+
+[Feffernitz (Kat B 2011)]
+image=pics/1_351_osm.jpg
+image=pics/2_668.jpg
+
+[Feltre (Kat A 2013)]
+image=pics/1_114_osm.jpg
+image=pics/2_115.jpg
+
+[Fischbachau (Kat B 2021)]
+image=pics/1_387_osm.jpg
+image=pics/2_768.jpg
+
+[Fischenthal (Kat A 2021)]
+image=pics/1_254_osm.jpg
+
+[Flums (Kat A 2020)]
+image=pics/1_878_osm.jpg
+
+[Frauenburg (Kat A 2023)]
+image=pics/1_4951_osm.jpg
+
+[Freienbach (Kat A 2020)]
+image=pics/1_256_osm.jpg
+
+[Fresen (Kat A 2022)]
+image=pics/1_4924_osm.jpg
+image=pics/2_2954.jpg
+
+[Friesach-Graz (Kat A 2021)]
+image=pics/1_355_osm.jpg
+image=pics/2_1750.jpg
+
+[Frojach (Kat A 2022)]
+image=pics/1_4912_osm.jpg
+image=pics/2_2880.jpg
+
+[Fuegen (Kat B 2020)]
+image=pics/1_350_osm.jpg
+image=pics/2_1787.jpg
+
+[Fuldera (Kat B 2020)]
+image=pics/1_257_osm.jpg
+
+[Furth (Kat A 2019)]
+image=pics/1_4550_osm.jpg
+
+[Gagering (Kat B 2020)]
+image=pics/1_343_osm.jpg
+image=pics/2_640.jpg
+
+[Galtuer (Kat B 2022)]
+image=pics/1_381_osm.jpg
+
+[Garmisch Ost (Kat B 2008)]
+image=pics/1_391_osm.jpg
+image=pics/2_779.jpg
+
+[Garmisch West (Kat B 2022)]
+image=pics/1_392_osm.jpg
+image=pics/2_782.jpg
+
+[Gattinara Pavona (Kat A 2021)]
+image=pics/1_4731_osm.jpg
+
+[Gerlamoos (Kat A 2021)]
+image=pics/1_318_osm.jpg
+image=pics/2_554.jpg
+
+[Gippel-Weissenbach (Kat A 2023)]
+image=pics/1_493_osm.jpg
+image=pics/2_3068.jpg
+
+[Goggau (Kat A 2011)]
+image=pics/1_417_osm.jpg
+
+[Gonten (Kat B 2011)]
+image=pics/1_454_osm.jpg
+image=pics/2_933.jpg
+
+[Gosau (Kat B 2021)]
+image=pics/1_404_osm.jpg
+image=pics/2_818.jpg
+
+[Goestling (Kat B 2022)]
+image=pics/1_369_osm.jpg
+image=pics/2_719.jpg
+
+[Grabenweg (Kat A 2011)]
+image=pics/1_489_osm.jpg
+image=pics/2_1016.jpg
+
+[Grabersdorf (Kat A 2023)]
+image=pics/1_4946_osm.jpg
+image=pics/2_3008.jpg
+
+[Grafenbach (Kat A 2013)]
+image=pics/1_320_osm.jpg
+image=pics/2_561.jpg
+
+[Gramler (Kat B 2020)]
+image=pics/1_204_osm.jpg
+image=pics/2_303.jpg
+
+[Grassau (Kat A 2016)]
+image=pics/1_4537_osm.jpg
+
+[Griessenpass (Kat A 2023)]
+image=pics/1_177_osm.jpg
+image=pics/2_220.jpg
+
+[Grigno (Kat A 2013)]
+image=pics/1_116_osm.jpg
+image=pics/2_119.jpg
+
+[Grimmenstein (Kat A 2021)]
+image=pics/1_4736_osm.jpg
+image=pics/2_2250.jpg
+
+[Grossau (Kat B 2023)]
+image=pics/1_716_osm.jpg
+image=pics/2_3081.jpg
+
+[Grosspienzenau-Thalham (Kat B 2021)]
+image=pics/1_401_osm.jpg
+image=pics/2_1110.jpg
+
+[Grottenhof-Hardt (Kat B 2021)]
+image=pics/1_714_osm.jpg
+image=pics/2_1440.jpg
+
+[Gruesch (Kat B 2020)]
+image=pics/1_881_osm.jpg
+
+[Gschoeder (Kat B 2022)]
+image=pics/1_178_osm.jpg
+image=pics/2_223.jpg
+
+[Gsiessertal (Kat B 2013)]
+image=pics/1_360_osm.jpg
+image=pics/2_686.jpg
+
+[Gumping (Kat A 2023)]
+image=pics/1_4555_osm.jpg
+
+[Gusswerk (Kat B 2022)]
+image=pics/1_179_osm.jpg
+image=pics/2_229.jpg
+
+[Habach (Kat A 2021)]
+image=pics/1_405_osm.jpg
+image=pics/2_820.jpg
+
+[Hagertal (Kat A 2023)]
+image=pics/1_4535_osm.jpg
+image=pics/2_2799.jpg
+
+[Haiming-Pirchet (Kat A 2020)]
+image=pics/1_478_osm.jpg
+image=pics/2_995.jpg
+
+[Hainfeld (Kat B 2009)]
+image=pics/1_431_osm.jpg
+image=pics/2_885.jpg
+
+[Hallein (Kat A 2023)]
+image=pics/1_5159_osm.jpg
+image=pics/2_3307.jpg
+
+[Halltal (Kat B 2022)]
+image=pics/1_495_osm.jpg
+image=pics/2_1027.jpg
+
+[Haus-Ennstal (Kat A 2022)]
+image=pics/1_335_osm.jpg
+image=pics/2_612.jpg
+
+[Hausham (Kat A 2023)]
+image=pics/1_341_osm.jpg
+image=pics/2_631.jpg
+
+[Heiterwang (Kat A 2009)]
+image=pics/1_434_osm.jpg
+image=pics/2_891.jpg
+
+[Hermagor (Kat B 2020)]
+image=pics/1_321_osm.jpg
+image=pics/2_563.jpg
+
+[Herrlisberg (Kat A 2020)]
+image=pics/1_292_osm.jpg
+
+[Herrnhausen (Kat B 2000)]
+image=pics/1_4542_osm.jpg
+
+[Hinterglemm (Kat B 2011)]
+image=pics/1_469_osm.jpg
+image=pics/2_968.jpg
+
+[Hinterstoder (Kat B 2021)]
+image=pics/1_482_osm.jpg
+image=pics/2_1003.jpg
+
+[Hinterwildalpen (Kat B 2022)]
+image=pics/1_367_osm.jpg
+image=pics/2_711.jpg
+
+[Hochfilzen (Kat A 2016)]
+image=pics/1_180_osm.jpg
+image=pics/2_1794.jpg
+
+[Hof bei Straden (Kat A 2023)]
+image=pics/1_4948_osm.jpg
+image=pics/2_3006.jpg
+
+[Hofkirchen-St-Stefan (Kat B 2011)]
+image=pics/1_317_osm.jpg
+image=pics/2_552.jpg
+
+[Hohe-Wand (Kat A 2023)]
+image=pics/1_181_osm.jpg
+image=pics/2_235.jpg
+
+[Holzgau (Kat A 2020)]
+image=pics/1_880_osm.jpg
+
+[Holzkirchen (Kat A 2021)]
+image=pics/1_4543_osm.jpg
+
+[Huben Oetztal (Kat A 2022)]
+image=pics/1_458_osm.jpg
+image=pics/2_943.jpg
+
+[Hundham (Kat A 2021)]
+image=pics/1_388_osm.jpg
+image=pics/2_771.jpg
+
+[Huerth (Kat A 2023)]
+image=pics/1_4947_osm.jpg
+image=pics/2_3007.jpg
+
+[Huettschlag (Kat B 2021)]
+image=pics/1_4523_osm.jpg
+image=pics/2_1763.jpg
+
+[Ilanz (Kat A 2023)]
+image=pics/1_261_osm.jpg
+
+[Imst (Kat B 2020)]
+image=pics/1_183_osm.jpg
+image=pics/2_1796.jpg
+
+[Imst-Arzl (Kat A 2020)]
+image=pics/1_393_osm.jpg
+image=pics/2_785.jpg
+
+[Innerbraz (Kat B 2020)]
+image=pics/1_170_osm.jpg
+
+[Innerfahrafeld (Kat A 2023)]
+image=pics/1_322_osm.jpg
+image=pics/2_568.jpg
+
+[Innerhalbach (Kat B 2022)]
+image=pics/1_490_osm.jpg
+image=pics/2_1018.jpg
+
+[Innerzwain (Kat A 2021)]
+image=pics/1_406_osm.jpg
+image=pics/2_824.jpg
+
+[Innichen (Kat A 2022)]
+image=pics/1_118_osm.jpg
+image=pics/2_123.jpg
+
+[Inotherm (Kat B 2022)]
+image=pics/1_4892_osm.jpg
+image=pics/2_2761.jpg
+
+[Inzell (Kat A 2019)]
+image=pics/1_4540_osm.jpg
+image=pics/2_1823.jpg
+
+[Ischgl (Kat B 2020)]
+image=pics/1_184_osm.jpg
+
+[Jachenau (Kat A 2021)]
+image=pics/1_8_osm.jpg
+image=pics/2_24.jpg
+
+[Jausern (Kat B 2011)]
+image=pics/1_470_osm.jpg
+image=pics/2_972.jpg
+
+[Jenaz (Kat B 2022)]
+image=pics/1_882_osm.jpg
+
+[Jezersko (Kat B 2008)]
+image=pics/1_301_osm.jpg
+image=pics/2_498.jpg
+
+[Johnsbach (Kat B 2022)]
+image=pics/1_315_osm.jpg
+image=pics/2_544.jpg
+
+[Kalwang (Kat B 2022)]
+image=pics/1_185_osm.jpg
+image=pics/2_245.jpg
+
+[Kapellen-Muerz (Kat A 2023)]
+image=pics/1_364_osm.jpg
+image=pics/2_702.jpg
+
+[Katzling (Kat A 2021)]
+image=pics/1_338_osm.jpg
+image=pics/2_624.jpg
+
+[Kernhof (Kat B 2023)]
+image=pics/1_186_osm.jpg
+image=pics/2_250.jpg
+
+[Kienzen (Kat A 2021)]
+image=pics/1_438_osm.jpg
+image=pics/2_902.jpg
+
+[Kitzbuehel (Kat A 2023)]
+image=pics/1_441_osm.jpg
+image=pics/2_908.jpg
+
+[Klaus (Kat B 2011)]
+image=pics/1_378_osm.jpg
+image=pics/2_740.jpg
+
+[Klosters (Kat A 2022)]
+image=pics/1_263_osm.jpg
+
+[Kobarid (Kat A 2020)]
+image=pics/1_302_osm.jpg
+image=pics/2_500.jpg
+
+[Kochel (Kat A 2021)]
+image=pics/1_9_osm.jpg
+image=pics/2_26.jpg
+
+[Kolsass (Kat A 2021)]
+image=pics/1_4791_osm.jpg
+image=pics/2_2384.jpg
+
+[Kompolje (Kat B 2021)]
+image=pics/1_4869_osm.jpg
+image=pics/2_2613.jpg
+
+[Koppl (Kat A 2003)]
+image=pics/1_188_osm.jpg
+
+[Koeppling (Kat A 2022)]
+image=pics/1_852_osm.jpg
+image=pics/2_2842.jpg
+
+[Koschach-Malta (Kat A 2021)]
+image=pics/1_497_osm.jpg
+image=pics/2_1031.jpg
+
+[Koessen (Kat A 2023)]
+image=pics/1_187_osm.jpg
+
+[Kramsach (Kat A 2011)]
+image=pics/1_347_osm.jpg
+image=pics/2_654.jpg
+
+[Kranjska-Gor (Kat B 2023)]
+image=pics/1_303_osm.jpg
+image=pics/2_502.jpg
+
+[Krimml (Kat B 2023)]
+image=pics/1_190_osm.jpg
+image=pics/2_263.jpg
+
+[Krippau (Kat A 2022)]
+image=pics/1_483_osm.jpg
+image=pics/2_1007.jpg
+
+[Krottendorf-Gaisfeld (Kat A 2021)]
+image=pics/1_853_osm.jpg
+image=pics/2_1752.jpg
+
+[Kruen (Kat A 2022)]
+image=pics/1_10_osm.jpg
+image=pics/2_1899.jpg
+
+[Kueb (Kat B 2023)]
+image=pics/1_191_osm.jpg
+image=pics/2_264.jpg
+
+[La-Poncia (Kat A 2022)]
+image=pics/1_120_osm.jpg
+image=pics/2_2698.jpg
+
+[Laggio-D-Cad (Kat B 2023)]
+image=pics/1_119_osm.jpg
+image=pics/2_127.jpg
+
+[Landl (Kat B 2023)]
+image=pics/1_389_osm.jpg
+image=pics/2_774.jpg
+
+[Landscha-Weiz (Kat A 2022)]
+image=pics/1_4959_osm.jpg
+
+[Langang (Kat B 2019)]
+image=pics/1_419_osm.jpg
+
+[Langenwang (Kat B 2023)]
+image=pics/1_407_osm.jpg
+image=pics/2_826.jpg
+
+[Langnau Ost (Kat A 2020)]
+image=pics/1_264_osm.jpg
+
+[Langnau West (Kat A 2020)]
+image=pics/1_504_osm.jpg
+
+[Langwies (Kat B 2021)]
+image=pics/1_408_osm.jpg
+image=pics/2_829.jpg
+
+[Lauerzersee (Kat A 2020)]
+image=pics/1_265_osm.jpg
+
+[Lavis (Kat A 2023)]
+image=pics/1_121_osm.jpg
+image=pics/2_3109.jpg
+
+[Leisach (Kat B 2009)]
+image=pics/1_194_osm.jpg
+image=pics/2_274.jpg
+
+[Lendava (Kat B 2004)]
+image=pics/1_707_osm.jpg
+
+[Lendorf (Kat A 2020)]
+image=pics/1_192_osm.jpg
+image=pics/2_270.jpg
+
+[Lengau (Kat B 2020)]
+image=pics/1_471_osm.jpg
+image=pics/2_975.jpg
+
+[Lenggries (Kat A 2022)]
+image=pics/1_11_osm.jpg
+image=pics/2_31.jpg
+
+[Lentiai (Kat B 2003)]
+image=pics/1_122_osm.jpg
+
+[Leopoldsteinersee (Kat B 2022)]
+image=pics/1_509_osm.jpg
+image=pics/2_2856.jpg
+
+[Lermoos (Kat B 2020)]
+image=pics/1_395_osm.jpg
+image=pics/2_792.jpg
+
+[Leutasch (Kat B 2021)]
+image=pics/1_193_osm.jpg
+image=pics/2_271.jpg
+
+[Libelice (Kat B 2018)]
+image=pics/1_706_osm.jpg
+
+[Lieboch (Kat A 2019)]
+image=pics/1_850_osm.jpg
+
+[Liezen (Kat A 2021)]
+image=pics/1_4795_osm.jpg
+image=pics/2_2404.jpg
+
+[Lindenberg (Kat A 2003)]
+image=pics/1_13_osm.jpg
+
+[Livigno (Kat A 2009)]
+image=pics/1_267_osm.jpg
+image=pics/2_442.jpg
+
+[Livold (Kat A 2021)]
+image=pics/1_4888_osm.jpg
+image=pics/2_2779.jpg
+
+[Loce Ad (Kat B 2018)]
+image=pics/1_709_osm.jpg
+
+[Logarska (Kat B 2020)]
+image=pics/1_340_osm.jpg
+image=pics/2_629.jpg
+
+[Lovere (Kat B 2009)]
+image=pics/1_124_osm.jpg
+
+[Ludesch (Kat A 2021)]
+image=pics/1_195_osm.jpg
+
+[Lunz Am See (Kat A 2023)]
+image=pics/1_368_osm.jpg
+image=pics/2_716.jpg
+
+[Madling (Kat B 2022)]
+image=pics/1_196_osm.jpg
+image=pics/2_2888.jpg
+
+[Male (Kat B 2013)]
+image=pics/1_126_osm.jpg
+image=pics/2_134.jpg
+
+[Maloja Casac (Kat B 2020)]
+image=pics/1_268_osm.jpg
+
+[Malonno (Kat B 2021)]
+image=pics/1_127_osm.jpg
+image=pics/2_2219.jpg
+
+[Maniago (Kat A 2020)]
+image=pics/1_128_osm.jpg
+image=pics/2_135.jpg
+
+[Marbach (Kat B 2020)]
+image=pics/1_453_osm.jpg
+
+[Martuljek W (Kat B 2023)]
+image=pics/1_305_osm.jpg
+image=pics/2_508.jpg
+
+[Mascioni (Kat A 2023)]
+image=pics/1_887_osm.jpg
+image=pics/2_3464.jpg
+
+[Mathon (Kat A 2023)]
+image=pics/1_456_osm.jpg
+image=pics/2_937.jpg
+
+[Matrei-Osttirol (Kat B 2020)]
+image=pics/1_361_osm.jpg
+image=pics/2_1986.jpg
+
+[Mayrhofen (Kat A 2023)]
+image=pics/1_348_osm.jpg
+image=pics/2_658.jpg
+
+[Megolo (Kat A 2023)]
+image=pics/1_5247_osm.jpg
+
+[Melton (Kat A 2023)]
+image=pics/1_5161_osm.jpg
+
+[Micheldorf Gailtal (Kat A 2021)]
+image=pics/1_4553_osm.jpg
+image=pics/2_1891.jpg
+
+[Mils (Kat A 2022)]
+image=pics/1_197_osm.jpg
+
+[Missaglia (Kat B 2009)]
+image=pics/1_130_osm.jpg
+
+[Mittenwald (Kat B 2023)]
+image=pics/1_396_osm.jpg
+image=pics/2_798.jpg
+
+[Mitterndorf (Kat A 2021)]
+image=pics/1_435_osm.jpg
+image=pics/2_894.jpg
+
+[Mitterriegel (Kat A 2008)]
+image=pics/1_432_osm.jpg
+image=pics/2_887.jpg
+
+[Mittersill-Stuhlfelden (Kat A 2023)]
+image=pics/1_345_osm.jpg
+image=pics/2_646.jpg
+
+[Moederndorf (Kat A 2021)]
+image=pics/1_362_osm.jpg
+image=pics/2_693.jpg
+
+[Mojstrana (Kat B 2013)]
+image=pics/1_306_osm.jpg
+image=pics/2_514.jpg
+
+[Molln (Kat A 2021)]
+image=pics/1_871_osm.jpg
+image=pics/2_1482.jpg
+
+[Mooslandl (Kat A 2022)]
+image=pics/1_198_osm.jpg
+image=pics/2_285.jpg
+
+[Mrtvice (Kat B 2022)]
+image=pics/1_4893_osm.jpg
+image=pics/2_2748.jpg
+
+[Muenster-Ost (Kat B 2019)]
+image=pics/1_346_osm.jpg
+image=pics/2_2846.jpg
+
+[Murau (Kat A 2022)]
+image=pics/1_201_osm.jpg
+image=pics/2_294.jpg
+
+[Murau Ost (Kat B 2023)]
+image=pics/1_200_osm.jpg
+image=pics/2_293.jpg
+
+[Murska Sobot (Kat B 2018)]
+image=pics/1_708_osm.jpg
+
+[Muerzzuschlag (Kat B 2023)]
+image=pics/1_199_osm.jpg
+image=pics/2_290.jpg
+
+[Nassereith Nord (Kat B 2022)]
+image=pics/1_397_osm.jpg
+image=pics/2_801.jpg
+
+[Nassereith Sued (Kat B 2022)]
+image=pics/1_398_osm.jpg
+image=pics/2_804.jpg
+
+[Nazarje - Pobrezje (Kat A 2021)]
+image=pics/1_4667_osm.jpg
+
+[Nenzing (Kat B 2022)]
+image=pics/1_202_osm.jpg
+
+[Nestelbach bei Ilz (Kat A 2024)]
+image=pics/1_4932_osm.jpg
+image=pics/2_2968.jpg
+
+[Neuberg (Kat A 2023)]
+image=pics/1_203_osm.jpg
+image=pics/2_298.jpg
+
+[Neukirchen Modellflugplatz (Kat A 2023)]
+image=pics/1_5035_osm.jpg
+
+[Neustift (Kat B 2021)]
+image=pics/1_503_osm.jpg
+image=pics/2_1043.jpg
+
+[Neuwald (Kat B 2022)]
+image=pics/1_365_osm.jpg
+image=pics/2_707.jpg
+
+[Niederdorf (Kat B 2013)]
+image=pics/1_131_osm.jpg
+image=pics/2_143.jpg
+
+[Niedernsill (Kat A 2009)]
+image=pics/1_323_osm.jpg
+image=pics/2_570.jpg
+
+[Niederrasen (Kat A 2022)]
+image=pics/1_132_osm.jpg
+image=pics/2_2618.jpg
+
+[Niederthai (Kat B 2011)]
+image=pics/1_484_osm.jpg
+image=pics/2_1010.jpg
+
+[Oberaich (Kat A 2022)]
+image=pics/1_366_osm.jpg
+image=pics/2_2868.jpg
+
+[Oberau Golfplatz (Kat B 2021)]
+image=pics/1_4735_osm.jpg
+image=pics/2_2236.jpg
+
+[Oberdorf (Kat A 2022)]
+image=pics/1_205_osm.jpg
+image=pics/2_307.jpg
+
+[Oberfeistritzwiese (Kat B 2022)]
+image=pics/1_4929_osm.jpg
+image=pics/2_2958.jpg
+
+[Oberort-Tragoess (Kat B 2021)]
+image=pics/1_206_osm.jpg
+image=pics/2_308.jpg
+
+[Obertilliach (Kat B 2023)]
+image=pics/1_313_osm.jpg
+image=pics/2_533.jpg
+
+[Obervintl (Kat B 2023)]
+image=pics/1_157_osm.jpg
+image=pics/2_173.jpg
+
+[Olang (Kat A 2022)]
+image=pics/1_133_osm.jpg
+image=pics/2_144.jpg
+
+[Ospedaletto (Kat A 2023)]
+image=pics/1_134_osm.jpg
+image=pics/2_147.jpg
+
+[Pacher (Kat B 2023)]
+image=pics/1_311_osm.jpg
+image=pics/2_3137.jpg
+
+[Palfau-Hochkar (Kat A 2011)]
+image=pics/1_324_osm.jpg
+image=pics/2_574.jpg
+
+[Paluzza (Kat B 2011)]
+image=pics/1_138_osm.jpg
+image=pics/2_153.jpg
+
+[Passailwiese (Kat A 2022)]
+image=pics/1_4927_osm.jpg
+
+[Paternion (Kat A 2020)]
+image=pics/1_207_osm.jpg
+image=pics/2_313.jpg
+
+[Peiting (Kat A 2021)]
+image=pics/1_4547_osm.jpg
+
+[Pellizzano (Kat B 2003)]
+image=pics/1_140_osm.jpg
+
+[Pernegg (Kat B 2021)]
+image=pics/1_4668_osm.jpg
+image=pics/2_2088.jpg
+
+[Pernitz Mitte (Kat A 2023)]
+image=pics/1_870_osm.jpg
+image=pics/2_1374.jpg
+
+[Pernitz Nord (Kat B 2023)]
+image=pics/1_208_osm.jpg
+image=pics/2_3052.jpg
+
+[Pernitz Sued (Kat A 2023)]
+image=pics/1_209_osm.jpg
+image=pics/2_317.jpg
+
+[Pertisau Nord (Kat B 2021)]
+image=pics/1_4788_osm.jpg
+image=pics/2_2371.jpg
+
+[Pfaeffikon (Kat A 2020)]
+image=pics/1_269_osm.jpg
+
+[Pfannhammer (Kat B 2022)]
+image=pics/1_325_osm.jpg
+image=pics/2_576.jpg
+
+[Pfynwald-Finges (Kat B 2003)]
+image=pics/1_270_osm.jpg
+
+[Piber (Kat A 2021)]
+image=pics/1_872_osm.jpg
+image=pics/2_1431.jpg
+
+[Pichelwang (Kat B 2023)]
+image=pics/1_4803_osm.jpg
+image=pics/2_2455.jpg
+
+[Pichl Preunegg (Kat A 2022)]
+image=pics/1_410_osm.jpg
+image=pics/2_2861.jpg
+
+[Piesting (Kat B 2023)]
+image=pics/1_211_osm.jpg
+image=pics/2_322.jpg
+
+[Poels (Kat A 2005)]
+image=pics/1_4552_osm.jpg
+image=pics/2_1889.jpg
+
+[Porlezza (Kat B 2018)]
+image=pics/1_889_osm.jpg
+
+[Poschiavo (Kat B 2020)]
+image=pics/1_271_osm.jpg
+
+[Pragg-Jenaz (Kat B 2022)]
+image=pics/1_449_osm.jpg
+
+[Predazzo (Kat A 2023)]
+image=pics/1_145_osm.jpg
+image=pics/2_157.jpg
+
+[Prese (Kat B 2003)]
+image=pics/1_272_osm.jpg
+
+[Prutz (Kat B 2020)]
+image=pics/1_212_osm.jpg
+
+[Puchberg (Kat A 2023)]
+image=pics/1_213_osm.jpg
+image=pics/2_328.jpg
+
+[Pullach (Kat A 2018)]
+image=pics/1_4546_osm.jpg
+image=pics/2_1854.jpg
+
+[Pyhrn (Kat A 2020)]
+image=pics/1_436_osm.jpg
+image=pics/2_897.jpg
+
+[Quellenhof (Kat B 2022)]
+image=pics/1_4886_osm.jpg
+
+[Rabenstein (Kat A 2021)]
+image=pics/1_354_osm.jpg
+image=pics/2_674.jpg
+
+[Radenthein (Kat B 2022)]
+image=pics/1_4904_osm.jpg
+image=pics/2_2857.jpg
+
+[Radfeld (Kat A 2023)]
+image=pics/1_479_osm.jpg
+image=pics/2_997.jpg
+
+[Radstadt (Kat A 2021)]
+image=pics/1_214_osm.jpg
+image=pics/2_333.jpg
+
+[Ramosch (Kat B 2020)]
+image=pics/1_273_osm.jpg
+image=pics/2_446.jpg
+
+[Ranten (Kat B 2022)]
+image=pics/1_215_osm.jpg
+image=pics/2_336.jpg
+
+[Ratece (Kat B 2020)]
+image=pics/1_307_osm.jpg
+image=pics/2_519.jpg
+
+[Reichenfels-Obdach (Kat B 2008)]
+image=pics/1_314_osm.jpg
+image=pics/2_539.jpg
+
+[Rein (Kat A 2021)]
+image=pics/1_352_osm.jpg
+image=pics/2_1751.jpg
+
+[Reit-Im-Wink (Kat A 2021)]
+image=pics/1_14_osm.jpg
+image=pics/2_37.jpg
+
+[Reitdorf (Kat A 2021)]
+image=pics/1_502_osm.jpg
+image=pics/2_2376.jpg
+
+[Reschensee (Kat B 2023)]
+image=pics/1_5226_osm.jpg
+image=pics/2_3382.jpg
+
+[Rettenbach (Kat B 2021)]
+image=pics/1_442_osm.jpg
+image=pics/2_911.jpg
+
+[Rhaezuens (Kat A 2022)]
+image=pics/1_274_osm.jpg
+
+[Ried im Zillertal (Kat A 2023)]
+image=pics/1_4544_osm.jpg
+image=pics/2_1840.jpg
+
+[Rikon (Kat A 2022)]
+image=pics/1_275_osm.jpg
+
+[Rodels (Kat B 2022)]
+image=pics/1_276_osm.jpg
+
+[Rohr-Im-Gebirge (Kat B 2023)]
+image=pics/1_216_osm.jpg
+image=pics/2_341.jpg
+
+[Rotmoos (Kat B 2023)]
+image=pics/1_430_osm.jpg
+image=pics/2_882.jpg
+
+[Rottach-Egern (Kat A 2023)]
+image=pics/1_15_osm.jpg
+image=pics/2_1904.jpg
+
+[Rovetta (Kat B 2003)]
+image=pics/1_149_osm.jpg
+
+[Ruswil (Kat A 2020)]
+image=pics/1_505_osm.jpg
+
+[Saalfelden (Kat A 2019)]
+image=pics/1_217_osm.jpg
+image=pics/2_342.jpg
+
+[Sagogn (Kat A 2023)]
+image=pics/1_277_osm.jpg
+
+[Saland (Kat B 2020)]
+image=pics/1_445_osm.jpg
+
+[Salurn (Kat A 2023)]
+image=pics/1_427_osm.jpg
+image=pics/2_876.jpg
+
+[San Marco-Caera (Kat B 2021)]
+image=pics/1_705_osm.jpg
+
+[San Mauro (Kat A 2023)]
+image=pics/1_5258_osm.jpg
+
+[San Vittore (Kat A 2021)]
+image=pics/1_511_osm.jpg
+
+[Santa-Giusti (Kat A 2013)]
+image=pics/1_150_osm.jpg
+image=pics/2_161.jpg
+
+[Sauldorf Boll (Kat B 2004)]
+image=pics/1_684_osm.jpg
+
+[Savognin (Kat B 2020)]
+image=pics/1_278_osm.jpg
+
+[Schaivel (Kat B 2022)]
+image=pics/1_501_osm.jpg
+image=pics/2_1036.jpg
+
+[Scharling (Kat B 2021)]
+image=pics/1_399_osm.jpg
+image=pics/2_809.jpg
+
+[Scharnitz (Kat B 2021)]
+image=pics/1_342_osm.jpg
+image=pics/2_1960.jpg
+
+[Scheibrand (Kat A 2021)]
+image=pics/1_4733_osm.jpg
+image=pics/2_2245.jpg
+
+[Schiers (Kat B 2022)]
+image=pics/1_279_osm.jpg
+
+[Schifflend (Kat A 2022)]
+image=pics/1_4876_osm.jpg
+image=pics/2_2648.jpg
+
+[Schleching (Kat A 2023)]
+image=Pics/1_4545_osm.jpg
+
+[Schlins (Kat B 2023)]
+image=pics/1_4793_osm.jpg
+image=pics/2_2387.jpg
+
+[Schlitters (Kat A 2020)]
+image=pics/1_349_osm.jpg
+image=pics/2_662.jpg
+
+[Schluderns 2022 (Kat B 2022)]
+image=pics/1_4887_osm.jpg
+image=pics/2_2784.jpg
+
+[Schnepfau (Kat A 2022)]
+image=pics/1_219_osm.jpg
+image=pics/2_348.jpg
+
+[Schoeder (Kat B 2003)]
+image=pics/1_220_osm.jpg
+image=pics/2_352.jpg
+
+[Schoenau am Koenigssee (Kat A 2020)]
+image=pics/1_4539_osm.jpg
+
+[Schuls-Pradella (Kat B 2020)]
+image=pics/1_282_osm.jpg
+image=pics/2_467.jpg
+
+[Schuls-Sura (Kat B 2020)]
+image=pics/1_423_osm.jpg
+
+[Schuepfheim (Kat A 2020)]
+image=pics/1_280_osm.jpg
+
+[Schuett (Kat A 2022)]
+image=pics/1_4911_osm.jpg
+image=pics/2_2882.jpg
+
+[Schwaighof (Kat A 2022)]
+image=pics/1_510_osm.jpg
+image=pics/2_1048.jpg
+
+[Schwarzau (Kat B 2023)]
+image=pics/1_222_osm.jpg
+image=pics/2_1323.jpg
+
+[Schwaz (Kat A 2009)]
+image=pics/1_327_osm.jpg
+image=pics/2_584.jpg
+
+[Sedrun (Kat B 2023)]
+image=pics/1_284_osm.jpg
+image=pics/2_3132.jpg
+
+[Seeboden (Kat A 2011)]
+image=pics/1_328_osm.jpg
+image=pics/2_588.jpg
+
+[Seedorf-Fluelen (Kat B 2020)]
+image=pics/1_255_osm.jpg
+
+[Šentjernej (Kat A 2022)]
+image=pics/1_4896_osm.jpg
+image=pics/2_2785.jpg
+
+[Sillian (Kat B 2021)]
+image=pics/1_223_osm.jpg
+image=pics/2_364.jpg
+
+[Sillian Ost (Kat A 2021)]
+image=pics/1_371_osm.jpg
+image=pics/2_724.jpg
+
+[Sillian Rabland (Kat A 2021)]
+image=pics/1_4874_osm.jpg
+
+[Sils (Kat A 2009)]
+image=pics/1_285_osm.jpg
+image=pics/2_470.jpg
+
+[Silz Bauhof (Kat B 2020)]
+image=pics/1_874_osm.jpg
+
+[Solimbergo (Kat B 2013)]
+image=pics/1_420_osm.jpg
+image=pics/2_853.jpg
+
+[Sollach (Kat A 2021)]
+image=pics/1_4548_osm.jpg
+image=pics/2_2095.jpg
+
+[Somaggia Ulm (Kat B 2021)]
+image=pics/1_704_osm.jpg
+
+[Spitzwiesen (Kat A 2019)]
+image=pics/1_416_osm.jpg
+
+[St Donat Mairist (Kat B 2018)]
+image=pics/1_697_osm.jpg
+
+[St Georgen/Murau (Kat A 2023)]
+image=pics/1_4952_osm.jpg
+
+[St Peter Kammersberg (Kat A 2023)]
+image=pics/1_4949_osm.jpg
+
+[St-Aegyd (Kat A 2023)]
+image=pics/1_412_osm.jpg
+image=pics/2_3071.jpg
+
+[St-Georgen (Kat A 2022)]
+image=pics/1_156_osm.jpg
+image=pics/2_171.jpg
+
+[St-Jakob In Haus (Kat B 2011)]
+image=pics/1_477_osm.jpg
+image=pics/2_991.jpg
+
+[St-Johann-Pongau (Kat A 2023)]
+image=pics/1_226_osm.jpg
+image=pics/2_373.jpg
+
+[St-Leonhard (Kat B 2022)]
+image=pics/1_462_osm.jpg
+image=pics/2_952.jpg
+
+[St-Marein (Kat A 2022)]
+image=pics/1_329_osm.jpg
+image=pics/2_590.jpg
+
+[St-Oswald (Kat A 2011)]
+image=pics/1_337_osm.jpg
+image=pics/2_622.jpg
+
+[St-Ulrich (Kat B 2019)]
+image=pics/1_468_osm.jpg
+image=pics/2_967.jpg
+
+[St. Leonhard im Pitztal (Kat B 2021)]
+image=pics/1_4554_osm.jpg
+
+[St. Martin bei Lofer (Kat B 2023)]
+image=pics/1_5250_osm.jpg
+image=pics/2_3455.jpg
+
+[St. Martin in Passeier (Kat B 2022)]
+image=pics/1_4549_osm.jpg
+image=pics/2_1880.jpg
+
+[Stadl / Mur (Kat A 2022)]
+image=pics/1_4838_osm.jpg
+image=pics/2_2519.jpg
+
+[Stams (Kat A 2019)]
+image=pics/1_443_osm.jpg
+image=pics/2_916.jpg
+
+[Stanzach (Kat A 2021)]
+image=pics/1_424_osm.jpg
+image=pics/2_866.jpg
+
+[Stara (Kat A 2020)]
+image=pics/1_4866_osm.jpg
+
+[Starnberg-Landstetten (Kat A 2021)]
+image=pics/1_4541_osm.jpg
+
+[Stein-Ennstal (Kat A 2023)]
+image=pics/1_336_osm.jpg
+image=pics/2_617.jpg
+
+[Steinhaus-Semmering (Kat B 2023)]
+image=pics/1_507_osm.jpg
+image=pics/2_3092.jpg
+
+[Stoffenbach (Kat B 2022)]
+image=pics/1_4900_osm.jpg
+image=pics/2_2804.jpg
+
+[Stojen (Kat B 2022)]
+image=pics/1_496_osm.jpg
+image=pics/2_1029.jpg
+
+[Strass-Zillertal (Kat B 2021)]
+image=pics/1_227_osm.jpg
+image=pics/2_378.jpg
+
+[Stuppach (Kat A 2023)]
+image=pics/1_491_osm.jpg
+image=pics/2_1422.jpg
+
+[Surava (Kat B 2011)]
+image=pics/1_499_osm.jpg
+image=pics/2_1033.jpg
+
+[Susch (Kat B 2020)]
+image=pics/1_287_osm.jpg
+
+[Tamsweg (Kat A 2022)]
+image=pics/1_4910_osm.jpg
+image=pics/2_2885.jpg
+
+[Taufers (Kat A 2021)]
+image=pics/1_461_osm.jpg
+image=pics/2_949.jpg
+
+[Techendorf (Kat B 2021)]
+image=pics/1_228_osm.jpg
+image=pics/2_2200.jpg
+
+[Termon (Kat A 2023)]
+image=pics/1_4522_osm.jpg
+image=pics/2_3112.jpg
+
+[Ternitz (Kat A 2023)]
+image=pics/1_229_osm.jpg
+image=pics/2_382.jpg
+
+[Thalhamm (Kat B 2021)]
+image=pics/1_231_osm.jpg
+image=pics/2_384.jpg
+
+[Thusis (Kat A 2022)]
+image=pics/1_288_osm.jpg
+
+[Tienzens-Statz (Kat B 2020)]
+image=pics/1_330_osm.jpg
+image=pics/2_594.jpg
+
+[Tolmin (Kat A 2019)]
+image=pics/1_309_osm.jpg
+image=pics/2_525.jpg
+
+[Tonale (Kat B 2023)]
+image=pics/1_159_osm.jpg
+image=pics/2_180.jpg
+
+[Toesens Nord (Kat A 2023)]
+image=pics/1_232_osm.jpg
+
+[Toesens Sued (Kat A 2020)]
+image=pics/1_233_osm.jpg
+
+[Tramonti Di Sotto (Kat B 2013)]
+image=pics/1_160_osm.jpg
+image=pics/2_182.jpg
+
+[Treffen (Kat A 2023)]
+image=pics/1_485_osm.jpg
+image=pics/2_1928.jpg
+
+[Tressdorf (Kat A 2021)]
+image=pics/1_370_osm.jpg
+image=pics/2_722.jpg
+
+[Trissino (Kat A 2013)]
+image=pics/1_359_osm.jpg
+image=pics/2_685.jpg
+
+[Trub (Kat B 2020)]
+image=pics/1_289_osm.jpg
+
+[Tschagguns (Kat A 2021)]
+image=pics/1_447_osm.jpg
+
+[Tumpen Oetztal (Kat B 2011)]
+image=pics/1_459_osm.jpg
+image=pics/2_945.jpg
+
+[Umhausen Oetztal (Kat B 2011)]
+image=pics/1_460_osm.jpg
+image=pics/2_947.jpg
+
+[Unterammergau (Kat A 2021)]
+image=pics/1_481_osm.jpg
+image=pics/2_2251.jpg
+
+[Unterbuchen (Kat A 2023)]
+image=pics/1_17_osm.jpg
+image=pics/2_47.jpg
+
+[Unterfladnitzacker (Kat B 2022)]
+image=pics/1_4942_osm.jpg
+image=pics/2_2970.jpg
+
+[Unterkrimmel (Kat B 2023)]
+image=pics/1_4533_osm.jpg
+image=pics/2_1923.jpg
+
+[Untertriesting (Kat B 2011)]
+image=pics/1_492_osm.jpg
+image=pics/2_1022.jpg
+
+[Uors (Kat A 2023)]
+image=pics/1_5256_osm.jpg
+
+[Urreiting (st-Johann) (Kat A 2022)]
+image=pics/1_413_osm.jpg
+image=pics/2_843.jpg
+
+[Ursprung (Kat B 2023)]
+image=pics/1_234_osm.jpg
+image=pics/2_396.jpg
+
+[Uttendorf (Kat A 2022)]
+image=pics/1_331_osm.jpg
+image=pics/2_597.jpg
+
+[Varallo Sesia (Kat A 2021)]
+image=pics/1_4732_osm.jpg
+
+[Vernayaz (Kat B 2018)]
+image=pics/1_892_osm.jpg
+
+[Vervo (Kat B 2023)]
+image=pics/1_712_osm.jpg
+image=pics/2_3120.jpg
+
+[Videm (Bruhanja vas) (Kat A 2022)]
+image=pics/1_4891_osm.jpg
+image=pics/2_2765.jpg
+
+[Viehhofen (Kat B 2021)]
+image=pics/1_472_osm.jpg
+image=pics/2_979.jpg
+
+[Vierschach (Kat B 2013)]
+image=pics/1_163_osm.jpg
+image=pics/2_184.jpg
+
+[Vils (Kat B 2011)]
+image=pics/1_437_osm.jpg
+image=pics/2_900.jpg
+
+[Volarje (Kat B 2020)]
+image=pics/1_463_osm.jpg
+
+[Volo-Dovera (Kat A 2003)]
+image=pics/1_164_osm.jpg
+
+[Vomp-Moorhof (Kat A 2011)]
+image=pics/1_235_osm.jpg
+image=pics/2_398.jpg
+
+[Vorderberg (Kat A 2022)]
+image=pics/1_237_osm.jpg
+image=pics/2_2690.jpg
+
+[Vzletišče Prilozje (Kat A 2021)]
+image=pics/1_4898_osm.jpg
+image=pics/2_2794.jpg
+
+[Wackersberg (Kat A 2021)]
+image=pics/1_19_osm.jpg
+image=pics/2_50.jpg
+
+[Waedenswil (Kat A 2020)]
+image=pics/1_291_osm.jpg
+
+[Wagenau (Kat A 2021)]
+image=pics/1_4556_osm.jpg
+
+[Waidring (Kat A 2023)]
+image=pics/1_4536_osm.jpg
+image=pics/2_1804.jpg
+
+[Walchsee (Kat B 2021)]
+image=pics/1_238_osm.jpg
+image=pics/2_403.jpg
+
+[Walenstadt (Kat A 2020)]
+image=pics/1_293_osm.jpg
+
+[Wattwil (Kat B 2020)]
+image=pics/1_294_osm.jpg
+
+[Weesen Gaesi (Kat A 2020)]
+image=pics/1_877_osm.jpg
+
+[Wegscheid (Kat A 2022)]
+image=pics/1_12_osm.jpg
+image=pics/2_34.jpg
+
+[Weichselboden (Kat B 2022)]
+image=pics/1_508_osm.jpg
+image=pics/2_1045.jpg
+
+[Weinbach (Kat A 2021)]
+image=pics/1_414_osm.jpg
+image=pics/2_845.jpg
+
+[Weissbach (Kat B 2011)]
+image=pics/1_239_osm.jpg
+image=pics/2_409.jpg
+
+[Weiz-Ost (Kat A 2022)]
+image=pics/1_4941_osm.jpg
+image=pics/2_2971.jpg
+
+[Wenigbach (Kat B 2023)]
+image=pics/1_4534_osm.jpg
+image=pics/2_3364.jpg
+
+[Wenigzell (Kat B 2023)]
+image=pics/1_312_osm.jpg
+image=pics/2_531.jpg
+
+[Wertach (Kat B 2011)]
+image=pics/1_439_osm.jpg
+image=pics/2_903.jpg
+
+[Westendorf (Kat B 2019)]
+image=pics/1_444_osm.jpg
+image=pics/2_919.jpg
+
+[Wildalpen (Kat B 2023)]
+image=pics/1_5230_osm.jpg
+image=pics/2_3340.jpg
+
+[Windischgarsten Nord (Kat A 2021)]
+image=pics/1_240_osm.jpg
+image=pics/2_412.jpg
+
+[Windischgarsten Sued (Kat B 2021)]
+image=pics/1_415_osm.jpg
+image=pics/2_849.jpg
+
+[Woergl (Kat A 2020)]
+image=pics/1_241_osm.jpg
+image=pics/2_414.jpg
+
+[Woerth-Rauris (Kat A 2023)]
+image=pics/1_473_osm.jpg
+image=pics/2_983.jpg
+
+[Wuermlach (Kat A 2023)]
+image=pics/1_333_osm.jpg
+image=pics/2_603.jpg
+
+[Zams (Kat B 2020)]
+image=pics/1_356_osm.jpg
+image=pics/2_679.jpg
+
+[Zell (Kat A 2020)]
+image=pics/1_876_osm.jpg
+
+[Zernez (Kat A 2023)]
+image=pics/1_297_osm.jpg
+image=pics/2_2121.jpg
+
+[Zernez Nord (Kat A 2023)]
+image=pics/1_5227_osm.jpg
+image=pics/2_3392.jpg
+
+[Zuoz-S-Chanf (Kat B 2020)]
+image=pics/1_299_osm.jpg
+image=pics/2_493.jpg
+

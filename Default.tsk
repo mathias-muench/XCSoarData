@@ -1,32 +1,26 @@
-<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="1" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="FAIGeneral">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="MSL" finish_min_height="400" start_max_height_ref="MSL" start_max_height="1410" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="7200" type="AAT">
 	<Point type="Start">
-		<Waypoint altitude="577" comment="" id="2743" name="Woessener See Strandbad">
-			<Location latitude="47.7275" longitude="12.4722"/>
+		<Waypoint altitude="450" comment="Max: 1400m" id="2743" name="KOCBERE[0-14]">
+			<Location latitude="50.4583" longitude="15.858"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone length="10000" type="Line"/>
 	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="946" comment="" id="2744" name="Gollrad Kirche">
-			<Location latitude="47.6533" longitude="15.3067"/>
+	<Point type="Area">
+		<Waypoint altitude="290" comment="" id="2744" name="MIMON">
+			<Location latitude="50.6558" longitude="14.7305"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone radius="30000" type="Cylinder"/>
 	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="1800" comment="" id="2772" name="Golz">
-			<Location latitude="46.672" longitude="13.3667"/>
+	<Point type="Area">
+		<Waypoint altitude="409" comment="" id="502" name="BROUMOV">
+			<Location latitude="50.562" longitude="16.3428"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="2059" comment="" id="2745" name="Saun">
-			<Location latitude="46.9141" longitude="11.4827"/>
-		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="577" comment="" id="2743" name="Woessener See Strandbad">
-			<Location latitude="47.7275" longitude="12.4722"/>
+		<Waypoint altitude="280" comment="Min: 400m" id="2745" name="Dvur Kralove[4-100]">
+			<Location latitude="50.4141" longitude="15.8371"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone radius="3000" type="Cylinder"/>
 	</Point>
 </Task>

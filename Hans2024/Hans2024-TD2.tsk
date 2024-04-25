@@ -1,0 +1,28 @@
+<Task fai_finish="0" start_max_height_ref="MSL" start_max_height="1410" finish_min_height_ref="MSL" finish_min_height="400" start_max_speed="0" start_requires_arm="0" aat_min_time="7200" type="AAT">
+       <Point type="Start">
+               <Waypoint name="KOCBERE[0-14]" comment="Max: 1400m" altitude="450" id="0">
+                       <Location latitude="50.45827" longitude="15.85800"/>
+               </Waypoint>
+               <ObservationZone type="Line" length="10000"/>
+       </Point>
+       <Point type="Area">
+               <Waypoint name="MIMON" comment="" altitude="290" id="0">
+                       <Location latitude="50.65577" longitude="14.73052"/>
+               </Waypoint>
+               <ObservationZone type="Cylinder" radius="30000"/>
+       </Point>
+       <Point type="Area">
+               <Waypoint name="Broumov" comment="" altitude="405" id="0">
+                       <Location latitude="50.56170" longitude="16.34210"/>
+               </Waypoint>
+               <ObservationZone type="Cylinder" radius="20000"/>
+       </Point>
+       <Point type="Finish">
+               <Waypoint name="Dvur Kralove[4-100]" comment="Min: 400m" altitude="280" id="0">
+                       <Location latitude="50.41406" longitude="15.83710"/>
+               </Waypoint>
+               <ObservationZone type="Cylinder" radius="3000"/>
+       </Point>
+</Task>
+
+<!-- created by CoTaCo V2.0 / Hans Nyc Memorial 2024  -->
