@@ -1,25 +1,25 @@
 <Task pev_start_window="600" pev_start_wait_time="300" fai_finish="1" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="FAIGeneral">
 	<Point type="Start">
-		<Waypoint altitude="1662" comment="" id="3203" name="Trainsjoch">
-			<Location latitude="47.6155" longitude="12.0537"/>
-		</Waypoint>
-		<ObservationZone length="1000" type="Line"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="3069" comment="" id="3204" name="Piz Nuna">
-			<Location latitude="46.7234" longitude="10.1544"/>
+		<Waypoint altitude="577" comment="" id="3201" name="Woessener See Strandbad">
+			<Location latitude="47.7275" longitude="12.4722"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="643" comment="" id="3205" name="Trautenfels Schloss">
-			<Location latitude="47.5208" longitude="14.0785"/>
+		<Waypoint altitude="1525" comment="" id="3202" name="Jakobskogel Rax Bergstation">
+			<Location latitude="47.717" longitude="15.7784"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="1214" comment="" id="3203" name="X Seeberg">
+			<Location latitude="46.4193" longitude="14.527"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="485" comment="engine-driven aircraft and helicopter with approval of the authority only" id="526" name="KUFSTEIN-LANGKAMPFEN">
-			<Location latitude="47.5645" longitude="12.127"/>
+		<Waypoint altitude="577" comment="" id="3201" name="Woessener See Strandbad">
+			<Location latitude="47.7275" longitude="12.4722"/>
 		</Waypoint>
 		<ObservationZone type="FAISector"/>
 	</Point>
