@@ -1,32 +1,20 @@
-<Task pev_start_window="600" pev_start_wait_time="300" fai_finish="0" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="RT">
+<Task pev_start_window="600" pev_start_wait_time="300" fai_finish="1" finish_min_height_ref="MSL" finish_min_height="0" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="9600" type="FAIGeneral">
 	<Point type="Start">
-		<Waypoint altitude="479" comment="" id="424" name="Kiefersfelden Zoll">
-			<Location latitude="47.6119" longitude="12.2014"/>
+		<Waypoint altitude="1662" comment="" id="3201" name="Trainsjoch">
+			<Location latitude="47.6155" longitude="12.0537"/>
 		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="643" comment="" id="425" name="Trautenfels Schloss">
-			<Location latitude="47.5208" longitude="14.0785"/>
+		<Waypoint altitude="2008" comment="" id="3202" name="Bettmersee Suedufer">
+			<Location latitude="46.3925" longitude="8.06032"/>
 		</Waypoint>
-		<ObservationZone angle="90" radius="20000" type="SymmetricQuadrant"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="1649" comment="" id="426" name="Hochwarter Höhe">
-			<Location latitude="46.6603" longitude="13.2228"/>
-		</Waypoint>
-		<ObservationZone angle="90" radius="20000" type="SymmetricQuadrant"/>
-	</Point>
-	<Point type="Turn">
-		<Waypoint altitude="2184" comment="" id="427" name="X Penser">
-			<Location latitude="46.8188" longitude="11.4405"/>
-		</Waypoint>
-		<ObservationZone angle="90" radius="20000" type="SymmetricQuadrant"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
 	<Point type="Finish">
-		<Waypoint altitude="479" comment="" id="5334" name="Kiefersfelden Zoll">
-			<Location latitude="47.6119" longitude="12.2014"/>
+		<Waypoint altitude="1662" comment="" id="3201" name="Trainsjoch">
+			<Location latitude="47.6155" longitude="12.0537"/>
 		</Waypoint>
-		<ObservationZone radius="1000" type="Cylinder"/>
+		<ObservationZone type="FAISector"/>
 	</Point>
 </Task>
