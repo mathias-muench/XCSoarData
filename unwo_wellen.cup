@@ -1,0 +1,11 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"Walensee",Wellesee,,4705.472N,00922.416E,3000.0m,13,,,,"3000 m - 3800 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+"Klostertal Ost",WelleOst,,4705.862N,00954.240E,2400.0m,13,,,,"Östliches Ende der Wellenlinie Klostertal / 2400 m - 4400 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+"Klostertal West",Welleest,,4706.732N,00943.674E,4800.0m,13,,,,"Westliches Ende der Wellenlinie Klostertal / 4800 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+"Montafon Ost",WelleOst,,4659.424N,01011.148E,4600.0m,13,,,,"Östliches Ende der Wellenlinie Montafon / 4600 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+"Montafon West",Welleuns,,4705.706N,00954.642E,2800.0m,13,,,,"Westliches Ende der Wellenlinie Montafon / 2800 m - 3800 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+"Prättigau Ost",WelleOst,,4652.572N,00959.148E,4000.0m,13,,,,"Östliches Ende der Wellenlinie Prättigau / 4000 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+"Prättigau West",Welleest,,4702.058N,00929.634E,3800.0m,13,,,,"Westliches Ende der Wellenlinie Prättigau / 3800 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+"Walensee Ost",WelleOst,,4705.424N,00926.754E,1311.0m,13,,,,"Östliches Ende der Wellenlinie Walensee / 3400 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+"Walensee West",Welleest,,4705.106N,00915.498E,4600.0m,13,,,,"Westliches Ende der Wellenlinie Walensee / 4600 m / Ernst Willi / 29.11.2009 / 9btxr9k1.igc"
+-----Related Tasks-----
